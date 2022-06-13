@@ -1,7 +1,7 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-/* iframe 크기 유동적으로 변경 */
+/* iframe 유동적으로 변경 */
 @media screen and (min-width:1024px) {
   .rte__iframe {
     height: 1050px!important;
