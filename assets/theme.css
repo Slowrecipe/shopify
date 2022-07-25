@@ -11550,7 +11550,6 @@ model-viewer{
 .widgets.widgets--show-on-desktop{
       display:block;
       flex-shrink:2;
-      background: white!important;
   }
     }
 .widgets + .widgets{
@@ -13704,6 +13703,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
       }
 .product-footer__left.product-footer--widgets, .product-footer__right.product-footer--widgets{
     flex-shrink:1
+    background: none!important;
   }
 
 @media (max-width: 60em){
