@@ -13703,7 +13703,9 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
     }
       }
 .product-footer__left.product-footer--widgets, .product-footer__right.product-footer--widgets{
-    flex-shrink:1
+/*     flex-shrink:1 */
+      order:2;
+      margin-bottom:var(--spacing-small)
   }
 @media (max-width: 60em){
 .product-footer__left.product-footer--widgets, .product-footer__right.product-footer--widgets{
