@@ -13706,10 +13706,6 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
     flex-shrink:1
   }
 
-.product-footer--widgets {
-  width: 100%; background: red;
-}
-
 @media (max-width: 60em){
 .product-footer__left.product-footer--widgets, .product-footer__right.product-footer--widgets{
       order:2;
@@ -13721,9 +13717,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   }
 @media (min-width: 60em){
 .product-footer__left + .product-footer__right{
-/*     margin-left:var(--spacing-extra-extra-large) */
-      order:2;
-      margin-bottom:var(--spacing-small)
+    margin-left:var(--spacing-extra-extra-large)
 }
   }
 .inventory-counter{
