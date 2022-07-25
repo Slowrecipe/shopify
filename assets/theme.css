@@ -13719,7 +13719,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 .product-footer__left + .product-footer__right{
 /*     margin-left:var(--spacing-extra-extra-large) */
 }
-@media (min-width: 60em) and (max-width: 60em) {
+@media (min-width: 60em) and (max-width: 61em) {
   margin-left:var(--spacing-extra-extra-large);
 }
   }
