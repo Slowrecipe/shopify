@@ -1,9 +1,16 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
+/* 상세페이지 */
 .brand_name {
   font-size: 30px!important;
 }
+.brand_home {
+  width: 50px;
+  height: 30px;
+  background: #ddd;
+}
+
 .bq_tabs {
   background: none!important;
   padding: 0!important; 
