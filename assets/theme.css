@@ -8,7 +8,8 @@ https://flickity.metafizzy.co
 .brand_home {
   width: 130px;
   height: 40px;
-  background: #ddd;
+  background: white;
+  border: #eee;
   text-align: center;
   line-height: 40px;
 }
