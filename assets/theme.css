@@ -9,7 +9,7 @@ https://flickity.metafizzy.co
   width: 150px;
   height: 40px;
   background: white;
-  font-weight: normal;
+  font-weight: normal!important;
   border: 1px solid #ddd;
   border-radius: 3px;
   text-align: center;
