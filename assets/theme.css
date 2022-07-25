@@ -13718,7 +13718,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 .product-footer__left + .product-footer__right{
 /*     margin-left:var(--spacing-extra-extra-large) */
 }
-.product-footer--widgets {
+.widgets--show-on-desktop {
   background: none!important;
 }
   }
