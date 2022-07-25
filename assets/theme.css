@@ -13645,7 +13645,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   margin-top:var(--spacing-small)  
 }
 .product-footer__right {
-  width: 100%;
+  width: 100px; background: red;
 }
 @media (max-width: 60em){
 .product-footer{
