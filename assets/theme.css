@@ -2,6 +2,10 @@ tant/*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
 /* 상세페이지 */
+img.brand_logo {
+  display: inline!important;
+  margin-bottom: 10px!important;
+}
 .brand_home {
   width: 130px;
   height: 35px;
@@ -2561,8 +2565,6 @@ textarea.spr-form-input{
   }
 img.brand_logo {
   width: 150px!important;
-  display: inline!important;
-  margin-bottom: 10px!important;
 }
 .rte strong,
   .rte b,
