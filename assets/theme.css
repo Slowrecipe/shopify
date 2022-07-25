@@ -5290,7 +5290,13 @@ html:not(.no-js) body.template-index .header--transparent-home:not(.is-sticky).h
   }
 @media (min-width: 60em){
 .product__description.product__description--below{
-      padding-left:var(--spacing-medium)
+/*       padding-left:var(--spacing-medium) */
+    margin-top:0;
+    padding-top:var(--spacing-medium-large);
+    padding-left:var(--spacing-small);
+    flex-grow:1;
+    border-top:1px solid var(--color-border)
+  }
   }
     }
 .product__description .share-icons a{
