@@ -26,6 +26,12 @@ https://flickity.metafizzy.co
   }
 }
 
+@media (max-width: 60em) {
+  .brand_link {
+    text-align: center;
+  }
+}
+
 .bq_tabs {
   background: none!important;
   padding: 0!important; 
