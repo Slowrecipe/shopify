@@ -32,6 +32,12 @@ https://flickity.metafizzy.co
     border: 1px solid #aaa;
     padding: 20px;
   }
+  .brand_link {
+    width: 120px;
+    height: 35px;
+    background: red;
+    text-decoration: none!important;
+  }
 }
 .bq_tabs {
   background: none!important;
