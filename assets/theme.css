@@ -2,8 +2,8 @@
 https://flickity.metafizzy.co
 ---------------------------------------------- */
 /* 상세페이지 */
-.brand_logo {
-  width: 20px;
+img.brand_logo {
+  width: 50%;
 }
 .brand_home {
   width: 130px;
