@@ -4,6 +4,7 @@ https://flickity.metafizzy.co
 /* 상세페이지 */
 img.brand_logo {
   width: 150px!important;
+  margin-bottom: 10px!important;
 }
 .brand_home {
   width: 130px;
