@@ -10,6 +10,7 @@ https://flickity.metafizzy.co
   height: 40px;
   background: white;
   border: 1px solid #ddd;
+  border-radius: 5px;
   text-align: center;
   line-height: 40px;
 }
