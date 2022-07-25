@@ -13703,8 +13703,10 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
       }
 .product-footer__left.product-footer--widgets, .product-footer__right.product-footer--widgets{
     flex-shrink:1
-    background-color: none!important;
   }
+.product-footer__right, .product-footer--widgets {
+  background: none;
+}
 
 @media (max-width: 60em){
 .product-footer__left.product-footer--widgets, .product-footer__right.product-footer--widgets{
