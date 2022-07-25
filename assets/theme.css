@@ -1,6 +1,9 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
+.block_title{
+  font-size: 30px;
+}
 .bq_tabs {
   background: none!important;
   padding: 0!important; 
