@@ -9,6 +9,8 @@ https://flickity.metafizzy.co
   width: 120px;
   height: 30px;
   background: #ddd;
+  text-align: center;
+  line-height: 30px;
 }
 
 .bq_tabs {
