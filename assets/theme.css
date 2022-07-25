@@ -2575,7 +2575,7 @@ textarea.spr-form-input{
       height:100%;
     }
 .section--contrast .rte blockquote, .section--contrast .shopify-policy__body blockquote{
-      background-color:var(--color-background-meta-contrast);
+/*       background-color:var(--color-background-meta-contrast); */
       box-shadow:inset 1px 0px 0px var(--color-border-contrast);
     }
 .section--contrast .rte table td,
