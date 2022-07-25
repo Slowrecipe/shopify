@@ -2542,7 +2542,7 @@ textarea.spr-form-input{
     font-weight:var(--font-body-bold-weight);
   }
 .rte blockquote, .shopify-policy__body blockquote{
-/*     background-color:var(--color-background-meta); */
+    background-color:var(--color-background-meta);
     margin:var(--s-line-height) 0;
     padding:var(--spacing-medium) var(--spacing-medium) 0 var(--spacing-medium);
     box-shadow:inset 0px 0px 0px var(--color-border);
