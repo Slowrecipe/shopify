@@ -5309,6 +5309,7 @@ html:not(.no-js) body.template-index .header--transparent-home:not(.is-sticky).h
       margin-top:var(--spacing-medium-large);
     }
 .product__description-header{
+  display: none;
   margin-bottom:var(--spacing-medium);
 }
 .product__description--below .product__description-header{
