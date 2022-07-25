@@ -46,6 +46,9 @@ https://flickity.metafizzy.co
     padding-top: 7px;
     margin-top: 10px!important;
   }
+  .brand_info {
+    line-height: 10px;
+  }
   .brand_link {
     width: 120px;
     height: 35px;
