@@ -30,7 +30,7 @@ https://flickity.metafizzy.co
 @media (max-width:60em) {
   .brand_box {
     border: 1px solid #aaa;
-/*     padding: 20px; */
+    padding: 20px;
   }
 }
 .bq_tabs {
