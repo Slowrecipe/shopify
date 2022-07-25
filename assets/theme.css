@@ -2,7 +2,7 @@
 https://flickity.metafizzy.co
 ---------------------------------------------- */
 /* 상세페이지 */
-/* .brand_name {
+.brand_name {
   font-size: 24px!important;
   margin-bottom: 5px!important;
 }
@@ -23,7 +23,7 @@ https://flickity.metafizzy.co
   height: 35px;
   background: red;
   text-decoration: none!important;
-} */
+}
 
 .bq_tabs {
   background: none!important;
