@@ -13721,7 +13721,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 }
   }
 .inventory-counter{
-  display:none
+/*   display:none */
 }
 .inventory-counter.active{
     display:block;
