@@ -11549,7 +11549,6 @@ model-viewer{
 @media (min-width: 60em){
 .widgets.widgets--show-on-desktop{
       display:block;
-      width:100%;
       flex-shrink:2
   }
     }
@@ -13718,9 +13717,6 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 @media (min-width: 60em){
 .product-footer__left + .product-footer__right{
 /*     margin-left:var(--spacing-extra-extra-large) */
-}
-@media (min-width: 60em) and (max-width: 61em) {
-  margin-left:var(--spacing-extra-extra-large);
 }
   }
 .inventory-counter{
