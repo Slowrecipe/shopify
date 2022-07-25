@@ -2525,7 +2525,7 @@ textarea.spr-form-input{
     font-family: Arial, sans-serif;
     font-size: 18px;
     text-transform: none;
-    letter-spacing: 0.6px;
+    letter-spacing: 0.3px;
   }
 .rte a, .shopify-policy__body a{
     color:var(--color-text-link);
