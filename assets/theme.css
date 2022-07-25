@@ -5279,7 +5279,7 @@ html:not(.no-js) body.template-index .header--transparent-home:not(.is-sticky).h
           background-color:var(--color-background-button-hover-contrast);
         }
 .product__description{
-  width:50%
+  width:100%
 }
 .product__description.product__description--below{
     margin-top:0;
