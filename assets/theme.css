@@ -13705,7 +13705,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
     flex-shrink:1
   }
 .product-footer__right, .product-footer--widgets {
-  background: none;
+  background: white;
 }
 
 @media (max-width: 60em){
