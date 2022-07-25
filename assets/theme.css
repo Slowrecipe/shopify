@@ -6,13 +6,13 @@ https://flickity.metafizzy.co
   font-size: 30px!important;
 }
 .brand_home {
-  width: 130px;
+  width: 150px;
   height: 40px;
   background: white;
   border: 1px solid #ddd;
   border-radius: 3px;
   text-align: center;
-  line-height: 40px;
+  padding-top: 5px;
 }
 
 .bq_tabs {
@@ -2477,7 +2477,7 @@ textarea.spr-form-input{
     font-family:var(--font-heading);
     font-weight:var(--font-heading-weight);
     font-style:var(--font-heading-style);
-/*     margin-top:var(--s-line-height); */
+    margin-top:var(--s-line-height);
     margin-bottom:var(--s-line-height);
     color:var(--color-text);
     line-height:1.3
