@@ -14470,6 +14470,6 @@ a.link:hover{
 
 @media (min-width: 60em) {
   .product-footer__right.product-footer--widgets {
-    background: none!important;
+    background-color: none!important;
 }
 }
