@@ -13642,7 +13642,9 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 }
 .product-footer{
 /*   display:flex; */
-  margin-top:var(--spacing-small)
+  margin-top:var(--spacing-small)  
+}
+.product-footer__right {
   width: 100%;
 }
 @media (max-width: 60em){
