@@ -2,7 +2,7 @@
 https://flickity.metafizzy.co
 ---------------------------------------------- */
 .block_title{
-  font-size: 40px;
+  font-size: 40px!important;
 }
 .bq_tabs {
   background: none!important;
