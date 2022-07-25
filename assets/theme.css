@@ -14467,9 +14467,4 @@ a.link:hover{
     padding: var(--spacing-small) var(--space-outer);
   }
 }
-
-@media (min-width: 60em) {
-  .product-footer__right.product-footer--widgets {
-    background-color: none!important;
-}
-}
+}s
