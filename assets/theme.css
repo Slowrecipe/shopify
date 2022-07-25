@@ -21,6 +21,7 @@ https://flickity.metafizzy.co
 .brand_link {
   width: 120px;
   height: 35px;
+  background: red;
   text-decoration: none!important;
 }
 
