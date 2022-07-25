@@ -26,33 +26,6 @@ https://flickity.metafizzy.co
   }
 }
 
-@media (max-width: 60em) {
-  .brand_name {
-    font-size: 24px!important;
-    margin-bottom: 5px!important;
-  }
-  .brand_home {
-    width: 120px;
-    height: 35px;
-    font-size: 15px!important;
-    background: white;
-    font-weight: normal!important;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    text-align: center;
-    padding-top: 7px;
-    margin-top: 10px!important;
-  }
-  .brand_info {
-    line-height: 1%;
-  }
-  .brand_link {
-    width: 120px;
-    height: 35px;
-    text-decoration: none!important;
-  }
-}
-
 .bq_tabs {
   background: none!important;
   padding: 0!important; 
