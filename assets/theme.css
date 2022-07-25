@@ -9,13 +9,13 @@ https://flickity.metafizzy.co
 .brand_home {
   width: 130px;
   height: 35px;
-  font-size: 15px!important;
+  font-size: 13px!important;
   background: white;
   font-weight: normal!important;
   border: 1px solid #ccc;
   border-radius: 3px;
   text-align: center;
-  padding-top: 7px;
+  padding-top: 8px;
   margin-top: 10px!important;
 }
 .brand_link {
