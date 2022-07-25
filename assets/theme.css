@@ -7,11 +7,7 @@ https://flickity.metafizzy.co
   margin-bottom: 5px!important;
 }
 .brand_home {
-  
-}
-.brand_link {
-  text-decoration: none!important;
-  width: 120px;
+  width: 130px;
   height: 35px;
   font-size: 15px!important;
   background: white;
@@ -21,6 +17,9 @@ https://flickity.metafizzy.co
   text-align: center;
   padding-top: 7px;
   margin-top: 10px!important;
+}
+.brand_link {
+  text-decoration: none!important;
 }
 
 .bq_tabs {
