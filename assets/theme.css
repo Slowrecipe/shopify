@@ -13644,9 +13644,6 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 /*   display:flex; */
   margin-top:var(--spacing-small)  
 }
-.product-footer--widgets {
-  width: 100%; background: red;
-}
 @media (max-width: 60em){
 .product-footer{
     margin-top:0;
@@ -13708,6 +13705,11 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 .product-footer__left.product-footer--widgets, .product-footer__right.product-footer--widgets{
     flex-shrink:1
   }
+
+.product-footer--widgets {
+  width: 100%; background: red;
+}
+
 @media (max-width: 60em){
 .product-footer__left.product-footer--widgets, .product-footer__right.product-footer--widgets{
       order:2;
