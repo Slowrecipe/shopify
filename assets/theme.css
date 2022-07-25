@@ -21,7 +21,9 @@ img.brand_logo {
 .brand_link {
   text-decoration: none!important;
 }
-
+.block_content {
+  margin_bottom: 10px;
+}
 .product_img {
   display: inline!important;
   margin: 0 0 10px 0!important;
