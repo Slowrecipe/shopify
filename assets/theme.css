@@ -24,6 +24,7 @@ img.brand_logo {
 
 .product_img {
   display: inline!important;
+  margin-bottom: 10px!important;
 }
 .bq_tabs {
   background: none!important;
