@@ -17,11 +17,11 @@ https://flickity.metafizzy.co
   text-align: center;
   padding-top: 7px;
   margin-top: 10px!important;
-  text-decoration: none!important;
 }
 .brand_link {
   width: 120px;
   height: 35px;
+  text-decoration: none!important;
 }
 
 .bq_tabs {
