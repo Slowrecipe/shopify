@@ -5315,10 +5315,10 @@ html:not(.no-js) body.template-index .header--transparent-home:not(.is-sticky).h
     margin-bottom:var(--spacing-medium-large);
   }
 .product__description--inline .product__description-header{
-    display:block;
+    display:none;
   }
 .variant-popup__content{
-  display:block;
+  display:none;
 }
 .product__thumbnail-image{
   border:2px solid transparent;
