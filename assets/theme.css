@@ -2477,7 +2477,7 @@ textarea.spr-form-input{
     font-family:var(--font-heading);
     font-weight:var(--font-heading-weight);
     font-style:var(--font-heading-style);
-    margin-top:var(--s-line-height);
+/*     margin-top:var(--s-line-height); */
     margin-bottom:var(--s-line-height);
     color:var(--color-text);
     line-height:1.3
