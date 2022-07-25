@@ -30,6 +30,23 @@ https://flickity.metafizzy.co
   .brand_box {
     text-align: center;
   }
+  .brand_home {
+    width: 120px;
+    height: 35px;
+    font-size: 15px!important;
+    background: white;
+    font-weight: normal!important;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    text-align: center;
+    padding-top: 7px;
+    margin-top: 10px!important;
+  }
+  .brand_link {
+    width: 120px;
+    height: 35px;
+    text-decoration: none!important;
+  }
 }
 
 .bq_tabs {
