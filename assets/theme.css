@@ -11550,7 +11550,7 @@ model-viewer{
 .widgets.widgets--show-on-desktop{
       display:block;
       flex-shrink:2;
-      background: none!important;
+      background: white!important;
   }
     }
 .widgets + .widgets{
