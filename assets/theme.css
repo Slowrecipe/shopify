@@ -11549,7 +11549,8 @@ model-viewer{
 @media (min-width: 60em){
 .widgets.widgets--show-on-desktop{
       display:block;
-      flex-shrink:2
+      flex-shrink:2;
+      background: none!important;
   }
     }
 .widgets + .widgets{
