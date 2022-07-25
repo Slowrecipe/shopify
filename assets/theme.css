@@ -20,7 +20,8 @@ https://flickity.metafizzy.co
   text-decoration: none!important;
 }
 .brand_link {
-  
+  width: 120px;
+  height: 35px;
 }
 
 .bq_tabs {
