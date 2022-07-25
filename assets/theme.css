@@ -5225,7 +5225,7 @@ html:not(.no-js) body.template-index .header--transparent-home:not(.is-sticky).h
   }
 @media (min-width: 60em){
 .product__bottom{
-    display:none
+    display:block;
 }
   }
 .product__bottom .widgets{
@@ -5313,7 +5313,6 @@ html:not(.no-js) body.template-index .header--transparent-home:not(.is-sticky).h
 }
 .product__description--below .product__description-header{
     margin-bottom:var(--spacing-medium-large);
-    background: red;
   }
 .product__description--inline .product__description-header{
     display:none;
