@@ -5318,7 +5318,7 @@ html:not(.no-js) body.template-index .header--transparent-home:not(.is-sticky).h
     display:block;
   }
 .variant-popup__content{
-  display:none;
+  display:block;
 }
 .product__thumbnail-image{
   border:2px solid transparent;
