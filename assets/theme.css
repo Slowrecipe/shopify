@@ -13718,6 +13718,9 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 .product-footer__left + .product-footer__right{
 /*     margin-left:var(--spacing-extra-extra-large) */
 }
+.product-footer--widgets {
+  background: none!important;
+}
   }
 .inventory-counter{
   display:none
