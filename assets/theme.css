@@ -2523,7 +2523,8 @@ textarea.spr-form-input{
     letter-spacing:0.125em;
   }
 .rte h5 {
-  	font-family: var(--font-body)!important;
+/*   	font-family: var(--font-body)!important; */
+    font-family: Arial, sans-serif;
     font-size: 18px;
     text-transform: none;
     letter-spacing: 0.6px;
