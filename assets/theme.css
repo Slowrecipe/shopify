@@ -1,4 +1,4 @@
-/*! Flickity v2.2.2
+tant/*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
 /* 상세페이지 */
@@ -22,7 +22,7 @@ img.brand_logo {
   text-decoration: none!important;
 }
 .block_content {
-  margin_bottom: 10px;
+  margin_bottom: 10px!important;
 }
 .product_img {
   display: inline!important;
