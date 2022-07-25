@@ -5224,6 +5224,9 @@ html:not(.no-js) body.template-index .header--transparent-home:not(.is-sticky).h
     padding-bottom:var(--spacing-large);
   }
 @media (min-width: 60em){
+.product__description{
+  width:100%
+}
 .product__bottom{
     display:none;
 }
