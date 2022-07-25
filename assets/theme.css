@@ -6,15 +6,15 @@ https://flickity.metafizzy.co
   font-size: 30px!important;
 }
 .brand_home {
-  width: 140px;
-  height: 40px;
-  font-size: 15px;
+  width: 130px;
+  height: 35px;
+  font-size: 12px;
   background: white;
   font-weight: normal!important;
   border: 1px solid #ddd;
   border-radius: 3px;
   text-align: center;
-  padding-top: 7px;
+  padding-top: 5px;
   margin-top: 10px!important;
 }
 
