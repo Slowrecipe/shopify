@@ -13713,7 +13713,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   }
     }
 .product-footer__left:not(.product-footer--widgets), .product-footer__right:not(.product-footer--widgets){
-    width:100%;
+/*     width:100%; */
   }
 @media (min-width: 60em){
 .product-footer__left + .product-footer__right{
@@ -13721,7 +13721,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 }
   }
 .inventory-counter{
-/*   display:none */
+  display:none
 }
 .inventory-counter.active{
     display:block;
