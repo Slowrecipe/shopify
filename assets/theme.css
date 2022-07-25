@@ -27,9 +27,6 @@ https://flickity.metafizzy.co
 }
 
 @media (max-width: 60em) {
-  .brand_box {
-    text-align: center;
-  }
   .brand_name {
     font-size: 24px!important;
     margin-bottom: 5px!important;
