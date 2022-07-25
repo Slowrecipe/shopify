@@ -11549,7 +11549,7 @@ model-viewer{
 @media (min-width: 60em){
 .widgets.widgets--show-on-desktop{
       display:block;
-      width:340px;
+      width:100%;
       flex-shrink:2
   }
     }
