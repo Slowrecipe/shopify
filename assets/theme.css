@@ -4,6 +4,7 @@ https://flickity.metafizzy.co
 /* 상세페이지 */
 .brand_name {
   font-size: 24px!important;
+  margin-top: 10px;
   margin-bottom: 5px!important;
 }
 .brand_home {
@@ -15,7 +16,7 @@ https://flickity.metafizzy.co
   border: 1px solid #ccc;
   border-radius: 3px;
   text-align: center;
-  padding-top: 8px;
+  padding-top: 9px;
   margin-top: 10px!important;
 }
 .brand_link {
