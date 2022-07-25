@@ -2564,6 +2564,9 @@ textarea.spr-form-input{
     height:auto;
     display:block;
   }
+.rte img {
+  width: 150px;
+}
 .rte strong,
   .rte b,
   .shopify-policy__body strong,
