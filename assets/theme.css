@@ -13721,7 +13721,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   }
 @media (min-width: 60em){
 .product-footer__left + .product-footer__right{
-    margin-left:var(--spacing-extra-extra-large)
+/*     margin-left:var(--spacing-extra-extra-large) */
 }
   }
 .inventory-counter{
