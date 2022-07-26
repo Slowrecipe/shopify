@@ -2421,6 +2421,11 @@ textarea.spr-form-input{
 .input-control + .input-control{
     margin-top:var(--spacing-medium);
   }
+.shopify-policy__title {
+  font-family: europa, sans-serif!important;
+  font-weight: 400!important;
+  font-style: normal!important; 
+}
 .rte,
 .shopify-policy__body{
   --s-line-height:calc(
