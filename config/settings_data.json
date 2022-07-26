@@ -91,6 +91,7 @@
       "header": {
         "type": "header",
         "settings": {
+          "logo": "shopify:\/\/shop_images\/white.png",
           "logo_max_width": 220,
           "menu": "main-menu",
           "secondary_menu": "about-us",
