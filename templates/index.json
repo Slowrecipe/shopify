@@ -307,6 +307,13 @@
             "image": "shopify:\/\/shop_images\/13.png",
             "link": "shopify:\/\/collections\/toun28"
           }
+        },
+        "c66e12cd-460d-40f2-9023-d915aa4ea1cc": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/77e0b794a98831e0b53ec60f1d5ee36e.png",
+            "link": "shopify:\/\/collections\/happy-earth"
+          }
         }
       },
       "block_order": [
@@ -319,7 +326,8 @@
         "906f50b4-b825-4650-8aa1-f5aa61631be7",
         "940717f6-5f19-4d10-9975-23e34c5c42e4",
         "8a34486f-1961-4f0a-ba12-1877698bf404",
-        "4b0e7f89-27b4-4583-a0f7-5bf802dd5abf"
+        "4b0e7f89-27b4-4583-a0f7-5bf802dd5abf",
+        "c66e12cd-460d-40f2-9023-d915aa4ea1cc"
       ],
       "settings": {
         "columns": 5,
