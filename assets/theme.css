@@ -2019,8 +2019,7 @@ html:not(.no-js) body:not(.user-is-tabbing) :focus{
 }
 body{
   margin:0;
-/*   font-family:var(--font-body); */
-  font-family: Arial, sans-serif;
+  font-family:var(--font-body);
   font-weight:var(--font-body-weight);
   font-style:var(--font-body-style);
   font-size:var(--font-body-base-size);
@@ -2487,9 +2486,12 @@ textarea.spr-form-input{
   .shopify-policy__body h4,
   .shopify-policy__body h5,
   .shopify-policy__body h6{
-    font-family:var(--font-heading);
+/*     font-family:var(--font-heading);
     font-weight:var(--font-heading-weight);
-    font-style:var(--font-heading-style);
+    font-style:var(--font-heading-style); */
+    font-family: europa, sans-serif;
+    font-weight: 400;
+    font-style: normal;
     margin-top:var(--s-line-height);
     margin-bottom:var(--s-line-height);
     color:var(--color-text);
@@ -2652,9 +2654,12 @@ img.brand_logo {
       margin:0;
     }
 .rte--page .accordion__heading, .rte--article .accordion__heading{
-    font-family:var(--font-heading);
+/*     font-family:var(--font-heading);
     font-weight:var(--font-heading-weight);
-    font-style:var(--font-heading-style);
+    font-style:var(--font-heading-style); */
+    font-family: europa, sans-serif;
+    font-weight: 400;
+    font-style: normal;
     margin:0;
     padding:var(--spacing-small) var(--spacing-medium);
   }
