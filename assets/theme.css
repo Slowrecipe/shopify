@@ -2534,6 +2534,7 @@ textarea.spr-form-input{
 .rte h5 {
     font-size: 18px;
     text-transform: none;
+    letter-spacing: 0.3px;
   }
 .rte a, .shopify-policy__body a{
     color:var(--color-text-link);
