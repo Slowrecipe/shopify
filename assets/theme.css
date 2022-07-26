@@ -2019,7 +2019,8 @@ html:not(.no-js) body:not(.user-is-tabbing) :focus{
 }
 body{
   margin:0;
-  font-family:var(--font-body);
+/*   font-family:var(--font-body); */
+  font-family: Arial, sans-serif;
   font-weight:var(--font-body-weight);
   font-style:var(--font-body-style);
   font-size:var(--font-body-base-size);
