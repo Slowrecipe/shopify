@@ -507,8 +507,11 @@ input[name="tab_item"] {
 .spr-header-title,
 .spr-form-title,
 .spr-review-header-title{
-  font-family:var(--font-heading);
-  font-style:var(--font-heading-style);
+/*   font-family:var(--font-heading);
+  font-style:var(--font-heading-style); */
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
   letter-spacing:var(--font-heading-base-letter-spacing);
 }
 .spr-header-title{
@@ -2766,11 +2769,14 @@ img.brand_logo {
       padding:var(--spacing-small) calc(var(--spacing-unit) * 4);
       cursor:pointer;
       text-decoration:none;
-      font-family:var(--font-heading);
-      font-style:var(--font-heading-style);
+/*       font-family:var(--font-heading);
+      font-style:var(--font-heading-style); */
+      font-family: europa, sans-serif;
+      font-weight: 400;
+      font-style: normal;
       letter-spacing:var(--font-heading-base-letter-spacing);
       font-size:var(--font-size-heading-4-base);
-      font-weight:var(--font-heading-weight);
+/*       font-weight:var(--font-heading-weight); */
       line-height:var(--line-height-heading-4-base);
       color:inherit;
       border-radius:2px;
@@ -11638,9 +11644,12 @@ model-viewer{
       margin-top:0;
     }
 .widgets-accordion .accordion__heading{
-    font-family:var(--font-heading);
+/*     font-family:var(--font-heading);
     font-weight:var(--font-heading-weight);
-    font-style:var(--font-heading-style);
+    font-style:var(--font-heading-style); */
+    font-family: europa, sans-serif;
+    font-weight: 400;
+    font-style: normal;
     margin:0;
     padding:var(--spacing-small) var(--spacing-medium);
   }
@@ -14186,10 +14195,12 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   letter-spacing:var(--font-body-base-letter-spacing);
 }
 .ff-heading{
-/*   font-family:var(--font-heading);*/
-  font-family: Arial, sans-serif;
+/*   font-family:var(--font-heading);
   font-weight:var(--font-heading-weight);
-  font-style:var(--font-heading-style);
+  font-style:var(--font-heading-style); */
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
   letter-spacing:var(--font-heading-base-letter-spacing);
 }
 .fs-product-title{
