@@ -50,15 +50,6 @@
           "settings": {
             "show_dynamic_checkout": true
           }
-        },
-        "a21ba7a4-6a91-4034-88a6-a5f7961e4c07": {
-          "type": "shopify:\/\/apps\/ryviu-aliexpress-reviews-app\/blocks\/ryviu-widget\/807ad6ed-1a6a-4559-abea-ed062858d9da",
-          "settings": {
-            "hide_when_no_reviews": false,
-            "r_wapper_class": "",
-            "r_max_width": 1920,
-            "r_padding_block": 0
-          }
         }
       },
       "block_order": [
@@ -69,8 +60,7 @@
         "border",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "a21ba7a4-6a91-4034-88a6-a5f7961e4c07"
+        "buy_buttons"
       ],
       "settings": {
         "enable_quick_purchase_bar": false,
