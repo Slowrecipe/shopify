@@ -3292,7 +3292,7 @@ body.header-sticky .header__outer-wrapper{
     background-color:transparent;
   }
 .regular-logo {
-  top: -15px;
+  top: -12px;
 }
 .header .regular-logo .image__img.lazyloaded, .header .trasparent-logo .image__img.lazyloaded{
       transition:none;
