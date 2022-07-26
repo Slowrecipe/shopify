@@ -95,7 +95,7 @@
           "menu": "main-menu",
           "secondary_menu": "",
           "style": "icon",
-          "navigation_position": "inline",
+          "navigation_position": "below",
           "logo_position": "center",
           "enable_transparent_home": false,
           "color_text_transparent": "#ffffff",
