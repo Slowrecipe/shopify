@@ -73,7 +73,7 @@
         "a21ba7a4-6a91-4034-88a6-a5f7961e4c07"
       ],
       "settings": {
-        "enable_quick_purchase_bar": true,
+        "enable_quick_purchase_bar": false,
         "show_share_buttons": true,
         "enable_product_lightbox": true,
         "enable_video_looping": true
