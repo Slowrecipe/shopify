@@ -263,7 +263,7 @@
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/barrrk.jpg",
-            "link": "shopify:\/\/products\/barrrk-toilet-flushable-dog-poop-waste-bags-6-rolls10-bags-in-a-roll-100-biodegradable-eco-friendly-poop-bags"
+            "link": "shopify:\/\/collections\/barrrk"
           }
         },
         "logo-4": {
@@ -291,21 +291,21 @@
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/8c7697514655732fbb603ba534064c45.png",
-            "link": ""
+            "link": "shopify:\/\/collections\/codegreen"
           }
         },
         "8a34486f-1961-4f0a-ba12-1877698bf404": {
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/12.png",
-            "link": ""
+            "link": "shopify:\/\/collections\/sanguine"
           }
         },
         "4b0e7f89-27b4-4583-a0f7-5bf802dd5abf": {
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/13.png",
-            "link": ""
+            "link": "shopify:\/\/collections\/toun28"
           }
         }
       },
