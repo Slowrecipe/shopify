@@ -308,6 +308,13 @@
             "link": "shopify:\/\/collections\/toun28"
           }
         },
+        "0303dd50-5720-4ce5-ab31-3c658c761e62": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo.png",
+            "link": ""
+          }
+        },
         "c66e12cd-460d-40f2-9023-d915aa4ea1cc": {
           "type": "logo",
           "settings": {
@@ -327,6 +334,7 @@
         "940717f6-5f19-4d10-9975-23e34c5c42e4",
         "8a34486f-1961-4f0a-ba12-1877698bf404",
         "4b0e7f89-27b4-4583-a0f7-5bf802dd5abf",
+        "0303dd50-5720-4ce5-ab31-3c658c761e62",
         "c66e12cd-460d-40f2-9023-d915aa4ea1cc"
       ],
       "settings": {
