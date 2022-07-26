@@ -2489,12 +2489,12 @@ textarea.spr-form-input{
   .shopify-policy__body h4,
   .shopify-policy__body h5,
   .shopify-policy__body h6{
-/*     font-family:var(--font-heading);
-    font-weight:var(--font-heading-weight);
-    font-style:var(--font-heading-style); */
+/*  font-family:var(--font-heading);    */
+/*  font-style:var(--font-heading-style); */
     font-family: europa, sans-serif;
-    font-weight: 400;
+    font-weight:var(--font-heading-weight);
     font-style: normal;
+/*  font-weight: 400; */
     margin-top:var(--s-line-height);
     margin-bottom:var(--s-line-height);
     color:var(--color-text);
