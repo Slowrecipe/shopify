@@ -2093,7 +2093,7 @@ body > .page{
 .shopify-challenge__container{
   margin:var(--spacing-large) auto !important
 }
-.shopify-policy__title {
+.shopify-policy__title h1{
   font-family: europa, sans-serif!important;
   font-weight: 400!important;
   font-style: normal!important;
