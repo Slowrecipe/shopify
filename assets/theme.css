@@ -3291,6 +3291,9 @@ body.header-sticky .header__outer-wrapper{
 .header .image{
     background-color:transparent;
   }
+.regular-logo {
+  top: -30px;
+}
 .header .regular-logo .image__img.lazyloaded, .header .trasparent-logo .image__img.lazyloaded{
       transition:none;
     }
