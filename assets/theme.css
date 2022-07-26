@@ -14201,7 +14201,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   font-family: europa, sans-serif;
   font-weight: 400;
   font-style: normal;
-  letter-spacing:var(--font-heading-base-letter-spacing);
+/*   letter-spacing:var(--font-heading-base-letter-spacing); */
 }
 .fs-product-title{
   text-transform:var(--font-product-title-text-transform);
