@@ -2,7 +2,6 @@
   "sections": {
     "slideshow-1": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "slide-2": {
           "type": "slide",
