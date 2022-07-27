@@ -158,6 +158,25 @@ input[name="tab_item"] {
     line-height: 49px;
     color: white;
   }
+  /*  스크롤다운 버튼  */
+  .scrolldown-btn {
+    position: fixed;
+    display: none;
+    width: 49px;
+    height: 49px;
+    background: white;
+    border-radius: 100%;
+    border: 2px solid black;
+    z-index: 2;
+    right: 20px;
+    bottom: 40px;
+    cursor: pointer;
+    font-size: 23px;
+    text-align: center;
+    line-height: 49px;
+    color: black;
+    transition: all 0.3s;
+  }
   /*  헤더 사이즈 조정  */
   #shopify-section-header {
     height: 65px!important;
