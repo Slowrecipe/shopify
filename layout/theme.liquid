@@ -38,10 +38,10 @@
   window.onscroll = function() {scroll()};
   function scroll() {
     if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-      document.getElementsByClassName('scroll').style.display = 'block';
+      document.getElementById('up').style.display = 'block';
     }
     else {
-      document.getElementsByClassName('scroll').style.display = 'none';
+      document.getElementById('up').style.display = 'none';
     }
   }
   function gotop() {
@@ -49,6 +49,13 @@
   }
   // 하단 이동 버튼
   function godown() {
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+      document.getElementById('down').style.display = 'block';
+    }
+    else {
+      document.getElementById('down').style.display = 'none';
+    }
+    
     var top_loc = document.querySelector(".footer").offsetTop;
     var left_loc = document.querySelector(".footer").offsetLeft;
     window.scrollTo({top: top_loc, left: left_loc, behavior:'smooth'});
@@ -174,7 +181,7 @@ This is your recipe for vegan and sustainable life.">
   {% endif %}
 {% include 'social-login' %}
 {% include 'swymSnippet' %}
-  <div class="scrollup-btn scroll" onclick="gotop()"><i class="fa-solid fa-chevron-up"></i></div>
-  <div class="scrolldown-btn scroll" onClick="godown()"><i class="fa-solid fa-chevron-down"></i></div>
+  <div class="scrollup-btn" id="up" onclick="gotop()"><i class="fa-solid fa-chevron-up"></i></div>
+  <div class="scrolldown-btn" id="down" onClick="godown()"><i class="fa-solid fa-chevron-down"></i></div>
 </body>
 </html>
