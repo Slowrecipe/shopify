@@ -169,7 +169,7 @@ input[name="tab_item"] {
     border: 2px solid black;
     z-index: 2;
     right: 20px;
-    bottom: 30px;
+    bottom: 20px;
     cursor: pointer;
     font-size: 23px;
     text-align: center;
