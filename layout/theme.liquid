@@ -49,10 +49,10 @@
     window.scrollTo({top:0, left:0, behavior:'smooth'});
   }
   // 하단 이동 버튼
-  const scrollToBottom = (class) => {
-    const element = document.getElementByClass(class);
-    element.scrollTop = element.scrollHeight;
-  }
+  const scrollToBottom = (id) => {
+	 const element = document.getElementById(id);
+   element.scrollTop = element.scrollHeight;
+}
 </script>
   
   <meta charset="UTF-8">
@@ -173,7 +173,7 @@ This is your recipe for vegan and sustainable life.">
 {% include 'social-login' %}
 {% include 'swymSnippet' %}
   <div class="scrollup-btn" id="scroll" onclick="clickme()"><i class="fa-solid fa-chevron-up"></i></div>
-  <div class="scrolldown-btn" onClick="scrollToBottom('footer')"><i class="fa-solid fa-chevron-up"></i></div>
+  <div class="shopify-section-footer" onClick="scrollToBottom('footer')"><i class="fa-solid fa-chevron-up"></i></div>
 <!--   <button onClick="scrollToBottom('header')">Scroll to Bottom</button> -->
 </body>
 </html>
