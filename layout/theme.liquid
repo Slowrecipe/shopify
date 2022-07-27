@@ -48,14 +48,13 @@
     window.scrollTo({top:0, left:0, behavior:'smooth'});
   }
   // 하단 이동 버튼
-  function godown() {
     if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
       document.getElementById('down').style.display = 'block';
     }
     else {
       document.getElementById('down').style.display = 'none';
     }
-    
+  function godown() {  
     var top_loc = document.querySelector(".footer").offsetTop;
     var left_loc = document.querySelector(".footer").offsetLeft;
     window.scrollTo({top: top_loc, left: left_loc, behavior:'smooth'});
