@@ -238,7 +238,7 @@ input[name="tab_item"] {
   }
 }
 @media screen and (max-width: 1023px) { /* Tablet */
-  .scrollup-btn{
+  #scrollup-btn{
     position: fixed;
     display: none;
     width: 49px;
@@ -256,7 +256,7 @@ input[name="tab_item"] {
     color: black;
     transition: all 0.3s;
   }
-  .scrollup-btn:hover {
+  #scrollup-btn:hover {
     position: fixed;
     display: none;
     width: 49px;
@@ -317,7 +317,7 @@ input[name="tab_item"] {
   }
 }
 @media screen and (max-width:720px) { /* Mobile */
-  .scrollup-btn{
+  #scrollup-btn{
     position: fixed;
     display: none;
     width: 49px;
@@ -335,7 +335,7 @@ input[name="tab_item"] {
     color: black;
     transition: all 0.3s;
   }
-  .scrollup-btn:hover {
+  #scrollup-btn:hover {
     position: fixed;
     display: none;
     width: 49px;
