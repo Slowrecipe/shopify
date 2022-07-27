@@ -48,20 +48,20 @@
     window.scrollTo({top:0, left:0, behavior:'smooth'});
   }
   // 하단 이동 버튼
-  window.onscroll = function() {scrolldown()};
-  function scrolldown() {
-    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-      document.getElementById('scrolldown-btn').style.display = 'block';
-    }
-    else {
-      document.getElementById('scrolldown-btn').style.display = 'none';
-    }
-  }
-  function godown() {  
-    var top_loc = document.querySelector(".footer").offsetTop;
-    var left_loc = document.querySelector(".footer").offsetLeft;
-    window.scrollTo({top: top_loc, left: left_loc, behavior:'smooth'});
-  }
+  // window.onscroll = function() {scrolldown()};
+  // function scrolldown() {
+  //   if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+  //     document.getElementById('scrolldown-btn').style.display = 'block';
+  //   }
+  //   else {
+  //     document.getElementById('scrolldown-btn').style.display = 'none';
+  //   }
+  // }
+  // function godown() {  
+  //   var top_loc = document.querySelector(".footer").offsetTop;
+  //   var left_loc = document.querySelector(".footer").offsetLeft;
+  //   window.scrollTo({top: top_loc, left: left_loc, behavior:'smooth'});
+  // }
 </script>
   
   <meta charset="UTF-8">
