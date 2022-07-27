@@ -49,9 +49,10 @@
     window.scrollTo({top:0, left:0, behavior:'smooth'});
   }
   // 하단 이동 버튼
-  const scrollToBottom = (id) => {
-    const element = document.getElementById(id);
-    element.scrollTop = element.scrollHeight;
+  let loc = document.querySelector("#shopify-section-footer").offsetTop;
+  function godown() {
+    window.scrollTo({top:loc, left:0, behavior:'smooth'});
+  }
 }
 </script>
   
