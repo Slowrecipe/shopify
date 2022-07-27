@@ -38,10 +38,10 @@
   window.onscroll = function() {scroll()};
   function scroll() {
     if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-      document.getElementsById('scroll').style.display = 'block';
+      document.getElementsByClassName('scroll').style.display = 'block';
     }
     else {
-      document.getElementsById('scroll').style.display = 'none';
+      document.getElementsByClassName('scroll').style.display = 'none';
     }
   }
   function gotop() {
@@ -174,7 +174,7 @@ This is your recipe for vegan and sustainable life.">
   {% endif %}
 {% include 'social-login' %}
 {% include 'swymSnippet' %}
-  <div class="scrollup-btn" id="scroll" onclick="gotop()"><i class="fa-solid fa-chevron-up"></i></div>
-  <div class="scrolldown-btn" id="scroll" onClick="godown()"><i class="fa-solid fa-chevron-down"></i></div>
+  <div class="scrollup-btn scroll" onclick="gotop()"><i class="fa-solid fa-chevron-up"></i></div>
+  <div class="scrolldown-btn scroll" onClick="godown()"><i class="fa-solid fa-chevron-down"></i></div>
 </body>
 </html>
