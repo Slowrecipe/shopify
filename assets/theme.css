@@ -159,9 +159,9 @@ input[name="tab_item"] {
     color: white;
   }
   /*  스크롤다운 버튼  */
-  .scrolldown-btn {
+    .scrolldown-btn{
     position: fixed;
-    display: block;
+    display: none;
     width: 49px;
     height: 49px;
     background: white;
@@ -176,7 +176,7 @@ input[name="tab_item"] {
     line-height: 49px;
     color: black;
     transition: all 0.3s;
-  }
+	}
   .scrolldown-btn:hover {
     position: fixed;
     display: none;
