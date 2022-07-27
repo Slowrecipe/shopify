@@ -51,7 +51,7 @@
   // 하단 이동 버튼
   let loc = document.querySelector("#shopify-section-footer").offsetTop;
   function godown() {
-    window.scrollTo({top:loc, left:0, behavior:'smooth'});
+    window.scrollTo({top:loc, behavior:'smooth'});
   }
 </script>
   
@@ -175,6 +175,6 @@ This is your recipe for vegan and sustainable life.">
 {% include 'social-login' %}
 {% include 'swymSnippet' %}
   <div class="scrollup-btn" id="scroll" onclick="clickme()"><i class="fa-solid fa-chevron-up"></i></div>
-<!--   <button class="scrolldown-btn" onClick="godown()"><i class="fa-solid fa-chevron-down"></i></button> -->
+  <button class="scrolldown-btn" onClick="godown()"><i class="fa-solid fa-chevron-down"></i></button>
 </body>
 </html>
