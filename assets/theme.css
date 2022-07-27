@@ -123,7 +123,7 @@ input[name="tab_item"] {
 
 /* 스크롤업 버튼 */
 @media screen and (min-width:1024px) { /* Desktop */
-  .scrollup-btn{
+  #scrollup-btn{
     position: fixed;
     display: none;
     width: 49px;
@@ -141,7 +141,7 @@ input[name="tab_item"] {
     color: black;
     transition: all 0.3s;
 	}
-  .scrollup-btn:hover {
+  #scrollup-btn:hover {
     position: fixed;
     display: none;
     width: 49px;
@@ -159,7 +159,7 @@ input[name="tab_item"] {
     color: white;
   }
   /*  스크롤다운 버튼  */
-    .scrolldown-btn{
+    #scrolldown-btn{
     position: fixed;
     display: block;
     width: 49px;
@@ -177,7 +177,7 @@ input[name="tab_item"] {
     color: black;
     transition: all 0.3s;
 	}
-  .scrolldown-btn:hover {
+  #scrolldown-btn:hover {
     position: fixed;
     display: block;
     width: 49px;
