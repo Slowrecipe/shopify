@@ -2607,9 +2607,12 @@ textarea.spr-form-input{
     height:auto;
     display:block;
   }
+.brand_box {
+  margin-top: 0!important;
+}
 img.brand_logo {
   width: 150px!important;
-  margin-top:5px!important;
+  margin-top: 5px!important;
   margin-bottom: 5px!important;
 }
 .rte strong,
