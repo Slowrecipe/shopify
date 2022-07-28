@@ -14,7 +14,7 @@ img.brand_logo {
   border: 1px solid #ccc;
   border-radius: 3px;
   text-align: center;
-  line-height: 35px;
+  line-height: 35px!important;
   margin-top: 10px!important;
 }
 .brand_link {
