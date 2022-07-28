@@ -34,7 +34,7 @@ img.brand_logo {
   display: inline!important;
   margin: 0 0 10px 0!important;
 }
-.product_img:first-child {
+.product_img:nth-child(1) {
   margin-top: 20px;
 }
 .bq_tabs {
