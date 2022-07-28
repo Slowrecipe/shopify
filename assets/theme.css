@@ -14265,7 +14265,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 .fs-product-title{
   text-transform:var(--font-product-title-text-transform);
 /*   letter-spacing:var(--font-product-title-base-letter-spacing); */
-  letter-spacing: 0.5px;
+  letter-spacing: 0.05px;
 }
 .fs-heading-1-large{
   font-size:var(--font-size-heading-1-large);
