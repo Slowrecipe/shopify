@@ -284,6 +284,41 @@ input[name="tab_item"] {
     line-height: 49px;
     color: white;
   }
+  #scrolldown-btn{
+    position: fixed;
+    display: block;
+    width: 49px;
+    height: 49px;
+    background: white;
+    border-radius: 100%;
+    border: 2px solid black;
+    z-index: 2;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+    font-size: 23px;
+    text-align: center;
+    line-height: 49px;
+    color: black;
+    transition: all 0.3s;
+	}
+  #scrolldown-btn:hover {
+    position: fixed;
+    display: block;
+    width: 49px;
+    height: 49px;
+    background: black;
+    border-radius: 100%;
+    border: 2px solid black;
+    z-index: 2;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+    font-size: 23px;
+    text-align: center;
+    line-height: 49px;
+    color: white;
+  }
   /*  헤더 사이즈 조정  */
   #shopify-section-header {
     height: 65px!important;
@@ -357,6 +392,41 @@ input[name="tab_item"] {
     z-index: 2;
     right: 20px;
     bottom: 80px;
+    cursor: pointer;
+    font-size: 23px;
+    text-align: center;
+    line-height: 49px;
+    color: white;
+  }
+  #scrolldown-btn{
+    position: fixed;
+    display: block;
+    width: 49px;
+    height: 49px;
+    background: white;
+    border-radius: 100%;
+    border: 2px solid black;
+    z-index: 2;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+    font-size: 23px;
+    text-align: center;
+    line-height: 49px;
+    color: black;
+    transition: all 0.3s;
+	}
+  #scrolldown-btn:hover {
+    position: fixed;
+    display: block;
+    width: 49px;
+    height: 49px;
+    background: black;
+    border-radius: 100%;
+    border: 2px solid black;
+    z-index: 2;
+    right: 20px;
+    bottom: 20px;
     cursor: pointer;
     font-size: 23px;
     text-align: center;
