@@ -2638,7 +2638,7 @@ img.brand_logo {
 .rte blockquote > ul:last-child > ul:last-child > li:last-child,
 .rte blockquote > ul:last-child > li:last-child,
 .ul-last {
-  padding-bottom: var(--spacing-medium);
+/*   padding-bottom: var(--spacing-medium); */
 }
 .rte div, .shopify-policy__body div{
     margin:var(--s-vertical-space) 0;
