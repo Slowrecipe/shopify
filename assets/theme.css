@@ -2599,6 +2599,9 @@ textarea.spr-form-input{
   .shopify-policy__body ul{
     margin:var(--s-line-height) 0;
   }
+.rte ul.block_content {
+  margin: 0;
+}
   .rte ul {
   	margin-top: 0;
 /*     margin-bottom: 0; */
