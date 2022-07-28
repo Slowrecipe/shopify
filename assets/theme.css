@@ -14279,7 +14279,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   line-height:var(--line-height-heading-2-large);
 }
 @media (max-width: 45em) {
-  font-size: 15px;
+  font-size: 15px!important;
 }
 /* 상품명 폰트 사이즈 */
 @media screen and (min-width:1024px) {
