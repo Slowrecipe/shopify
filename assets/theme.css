@@ -32,10 +32,7 @@ img.brand_logo {
 }
 .product_img {
   display: inline!important;
-  margin: 0 0 10px 0!important;
-}
-.product_img:nth-child(1) {
-  margin-top: 20px;
+  margin: 10px 0!important;
 }
 .bq_tabs {
   background: none!important;
