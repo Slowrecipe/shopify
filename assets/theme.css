@@ -14265,7 +14265,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   text-transform:var(--font-product-title-text-transform);
   letter-spacing:var(--font-product-title-base-letter-spacing);
   line-height: 25px;
-  font-size: 25px;
+  font-size: 15px;
 }
 .fs-heading-1-large{
   font-size:var(--font-size-heading-1-large);
