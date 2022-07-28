@@ -35,7 +35,7 @@
   gtag('config', 'UA-222133515-1');
   
   // 상단 이동 버튼
-  window.onscroll = function() {scrollup()};
+  window.onscroll = function() {scrollup(), scrolldown()};
   function scrollup() {
     if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
       document.getElementById('scrollup-btn').style.display = 'block';
