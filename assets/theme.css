@@ -13832,9 +13832,6 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 @media (min-width: 60em){
 .product-footer__left + .product-footer__right{
 /*     margin-left:var(--spacing-extra-extra-large) */
-.fs-product-title {
-  line-height: var(--line-height-body-small)!important;
-}
 }
   }
 .inventory-counter{
@@ -14272,7 +14269,6 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   text-transform:var(--font-product-title-text-transform);
 /*   letter-spacing:var(--font-product-title-base-letter-spacing); */
   letter-spacing: 0.5px!important;
-  line-height: 30px;
 }
 .fs-heading-1-large{
   font-size:var(--font-size-heading-1-large);
