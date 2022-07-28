@@ -10041,7 +10041,6 @@ a.logo-list__item:hover{
   font-family: europa, sans-serif!important;
   font-weight: 400!important;
   font-style: normal!important;
-  letter-spacing: 0.03px!important;
 }
 @media (min-width: 45em){
 .product-item__text{
@@ -14264,8 +14263,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 }
 .fs-product-title{
   text-transform:var(--font-product-title-text-transform);
-/*   letter-spacing:var(--font-product-title-base-letter-spacing); */
-  letter-spacing: 0.05px;
+  letter-spacing:var(--font-product-title-base-letter-spacing);
 }
 .fs-heading-1-large{
   font-size:var(--font-size-heading-1-large);
