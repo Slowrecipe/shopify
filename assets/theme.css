@@ -6,9 +6,9 @@ img.brand_logo {
   display: inline!important;
 }
 .brand_home {
-  display: block!important;
+  display: inline!important;
   width: 130px;
-  height: 35px; background:red;
+  height: 35px;
   font-size: 13px!important;
   background: white;
   font-weight: normal!important;
