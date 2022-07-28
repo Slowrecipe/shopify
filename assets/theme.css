@@ -19,8 +19,6 @@ img.brand_logo {
   cursor: pointer;
 }
 .brand_link {
-  width: 130px;
-  height: 35px; background:red;
   text-decoration: none!important;
 }
 .block_content {
