@@ -18,6 +18,7 @@ img.brand_logo {
   margin-top: 10px!important;
 }
 .brand_link {
+  display: inline;
   width: 130px;
   height: 35px; background:red;
   text-decoration: none!important;
