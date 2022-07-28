@@ -58,6 +58,7 @@ img.brand_logo {
   transition: all 0.2s ease;
   cursor: pointer;
 }
+
 .tab_item:hover {
   color: #333;
   border-bottom: 2.5px solid #333;
@@ -13831,6 +13832,9 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 @media (min-width: 60em){
 .product-footer__left + .product-footer__right{
 /*     margin-left:var(--spacing-extra-extra-large) */
+  .fs-product-title {
+    line-height: 25px;
+  }
 }
   }
 .inventory-counter{
