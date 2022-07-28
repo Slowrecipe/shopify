@@ -32,7 +32,7 @@ img.brand_logo {
 }
 .product_img {
   display: inline!important;
-  margin: 10px 0 10px 0!important;
+  margin: 0 0 10px 0!important;
 }
 .bq_tabs {
   background: none!important;
