@@ -10093,7 +10093,7 @@ a.logo-list__item:hover{
       margin:var(--spacing-small) auto 0
   }
   .product-item__product-title{
-    font-size: 15px;
+    font-size: 14px;
   }
     }
 @media (max-width: 45em){
