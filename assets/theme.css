@@ -10092,6 +10092,9 @@ a.logo-list__item:hover{
   .product-item--compact .product-item__text{
       margin:var(--spacing-small) auto 0
   }
+  .product-item__product-title{
+    font-size: 15px;
+  }
     }
 @media (max-width: 45em){
   .product-item--compact .product-item__badges{
