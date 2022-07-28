@@ -13832,9 +13832,9 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 @media (min-width: 60em){
 .product-footer__left + .product-footer__right{
 /*     margin-left:var(--spacing-extra-extra-large) */
-  .fs-product-title {
-    line-height: 25px;
-  }
+.fs-product-title {
+  line-height: 25px;
+}
 }
   }
 .inventory-counter{
