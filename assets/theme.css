@@ -13062,7 +13062,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   list-style:none;
   padding:0;
   font-family: europa, sans-serif;
-  font-weight: 200;
+  font-weight: 100;
   font-style: normal;
 }
 .drawer-menu__item span{
