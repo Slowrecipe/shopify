@@ -141,7 +141,7 @@ input[name="tab_item"] {
     height: 49px;
     background: black;
     border-radius: 100% 100% 0 0;
-    border: 2px solid white;
+/*     border: 2px solid white; */
     z-index: 2;
     right: 20px;
     bottom: 60px;
@@ -159,7 +159,7 @@ input[name="tab_item"] {
     height: 49px;
     background: white;
     border-radius: 100% 100% 0 0;
-    border: 2px solid white;
+/*     border: 2px solid white; */
     z-index: 2;
     right: 20px;
     bottom: 60px;
@@ -177,7 +177,7 @@ input[name="tab_item"] {
     height: 49px;
     background: black;
     border-radius: 0 0 100% 100%;
-    border: 2px solid white;
+/*     border: 2px solid white; */
     z-index: 2;
     right: 20px;
     bottom: 20px;
@@ -195,7 +195,7 @@ input[name="tab_item"] {
     height: 49px;
     background: black;
     border-radius: 0 0 100% 100%;
-    border: 2px solid white;
+/*     border: 2px solid white; */
     z-index: 2;
     right: 20px;
     bottom: 20px;
