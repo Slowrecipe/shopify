@@ -33,8 +33,18 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'UA-222133515-1');
+
+  window.onscroll = function() {scrollup(), scrolldown()};
   // 복사 버튼
-  function clip(){
+  function clip() {
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+      document.getElementById('clip-btn').style.display = 'block';
+    }
+    else {
+      document.getElementById('clip-btn').style.display = 'none';
+    }
+  }
+  function gocopy(){
 	var url = '';
 	var textarea = document.createElement("textarea");
 	document.body.appendChild(textarea);
@@ -47,7 +57,6 @@
 }
   
   // 상단 이동 버튼
-  window.onscroll = function() {scrollup(), scrolldown()};
   function scrollup() {
     if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
       document.getElementById('scrollup-btn').style.display = 'block';
@@ -194,7 +203,7 @@ This is your recipe for vegan and sustainable life.">
   {% endif %}
 {% include 'social-login' %}
 {% include 'swymSnippet' %}
-  <div id="copy-btn" onclick="clip()"></div>
+  <div id="clip-btn" onclick="gocopy()"></div>
   <div id="scrollup-btn" onclick="gotop()"><i class="fa fa-solid fa-angle-up"></i></div>
   <div id="scrolldown-btn" onClick="godown()"><i class="fa fa-solid fa-angle-down"></i></div>
 </body>
