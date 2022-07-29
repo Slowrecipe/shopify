@@ -152,10 +152,6 @@ input[name="tab_item"] {
     transition: all 0.3s;
 	}
   #scrollup-btn:hover {
-    position: fixed;
-    display: none;
-    width: 40px;
-    height: 40px;
     background: white;
     color: white;
   }
