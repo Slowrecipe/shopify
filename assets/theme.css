@@ -144,7 +144,7 @@ input[name="tab_item"] {
     border: 2px solid white;
     z-index: 2;
     right: 20px;
-    bottom: 80px;
+    bottom: 60px;
     cursor: pointer;
     font-size: 23px;
     text-align: center;
@@ -162,7 +162,7 @@ input[name="tab_item"] {
     border: 2px solid white;
     z-index: 2;
     right: 20px;
-    bottom: 80px;
+    bottom: 60px;
     cursor: pointer;
     font-size: 23px;
     text-align: center;
