@@ -131,6 +131,12 @@ input[name="tab_item"] {
   line-height: 35px;
   font-size: 15px;
 }
+/* 복사 버튼 */
+#copy-btn {
+  width: 40px;
+  height: 40px;
+  border-radius:100%;
+}
 
 /* 스크롤업 버튼 */
 @media screen and (min-width:1024px) { /* Desktop */
