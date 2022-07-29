@@ -153,7 +153,7 @@ input[name="tab_item"] {
 	}
   #scrollup-btn:hover {
     background: white;
-    color: white;
+    color: black;
   }
   /*  스크롤다운 버튼  */
     #scrolldown-btn{
