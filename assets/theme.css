@@ -141,7 +141,6 @@ input[name="tab_item"] {
     height: 40px;
     background: black;
     border-radius: 100% 100% 0 0;
-/*     border-bottom: 1px solid white; */
     z-index: 2;
     right: 20px;
     bottom: 60px;
@@ -164,7 +163,7 @@ input[name="tab_item"] {
     height: 40px;
     background: black;
     border-radius: 0 0 100% 100%;
-    border-top: 1px solid white;
+    border-top: 1px solid gray;
     z-index: 2;
     right: 20px;
     bottom: 21px;
