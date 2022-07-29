@@ -161,7 +161,7 @@ input[name="tab_item"] {
     height: 40px;
     background: black;
     border-radius: 0 0 100% 100%;
-    border-top: 1px solid gray;
+    border-top: 1px solid rgba(0,0,0,0.7);
     z-index: 2;
     right: 20px;
     bottom: 21px;
