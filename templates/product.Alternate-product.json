@@ -5,7 +5,6 @@
       "blocks": {
         "d1f1e508-d44a-4633-9113-6732923ba28e": {
           "type": "border",
-          "disabled": true,
           "settings": {
           }
         },
@@ -64,7 +63,7 @@
         "buy_buttons"
       ],
       "settings": {
-        "enable_quick_purchase_bar": false,
+        "enable_quick_purchase_bar": true,
         "show_share_buttons": true,
         "enable_product_lightbox": true,
         "enable_video_looping": true
