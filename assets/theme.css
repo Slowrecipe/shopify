@@ -141,6 +141,10 @@ input[name="tab_item"] {
   height: 40px;
   border-radius:100%;
   background: black;
+  transition: all 0.25s ease-in-out;
+}
+#clip-btn:hover {
+  background: rgba(0,0,0,0.7);
 }
 
 /* 스크롤업 버튼 */
