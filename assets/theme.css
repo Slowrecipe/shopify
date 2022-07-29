@@ -137,8 +137,8 @@ input[name="tab_item"] {
   #scrollup-btn{
     position: fixed;
     display: none;
-    width: 49px;
-    height: 49px;
+    width: 40px;
+    height: 40px;
     background: black;
     border-radius: 100% 100% 0 0;
 /*     border: 2px solid white; */
@@ -155,8 +155,8 @@ input[name="tab_item"] {
   #scrollup-btn:hover {
     position: fixed;
     display: none;
-    width: 49px;
-    height: 49px;
+    width: 40px;
+    height: 40px;
     background: white;
     border-radius: 100% 100% 0 0;
 /*     border: 2px solid white; */
@@ -173,8 +173,8 @@ input[name="tab_item"] {
     #scrolldown-btn{
     position: fixed;
     display: block;
-    width: 49px;
-    height: 49px;
+    width: 40px;
+    height: 40px;
     background: black;
     border-radius: 0 0 100% 100%;
 /*     border: 2px solid white; */
@@ -191,8 +191,8 @@ input[name="tab_item"] {
   #scrolldown-btn:hover {
     position: fixed;
     display: block;
-    width: 49px;
-    height: 49px;
+    width: 40px;
+    height: 40px;
     background: black;
     border-radius: 0 0 100% 100%;
 /*     border: 2px solid white; */
