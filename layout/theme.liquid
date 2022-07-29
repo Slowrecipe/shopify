@@ -34,27 +34,27 @@
   gtag('js', new Date());
   gtag('config', 'UA-222133515-1');
 
-  window.onscroll = function() {clip(), scrollup(), scrolldown()};
+  window.onscroll = function() {scrollup(), scrolldown()};
   // 복사 버튼
-  function clip() {
-    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-      document.getElementById('clip-btn').style.display = 'block';
-    }
-    else {
-      document.getElementById('clip-btn').style.display = 'none';
-    }
-  }
-  function gocopy(){
-	var url = '';
-	var textarea = document.createElement("textarea");
-	document.body.appendChild(textarea);
-	url = window.document.location.href;
-	textarea.value = url;
-	textarea.select();
-	document.execCommand("copy");
-	document.body.removeChild(textarea);
-	alert("URL copied.")
-}
+//   function clip() {
+//     if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+//       document.getElementById('clip-btn').style.display = 'block';
+//     }
+//     else {
+//       document.getElementById('clip-btn').style.display = 'none';
+//     }
+//   }
+//   function gocopy(){
+// 	var url = '';
+// 	var textarea = document.createElement("textarea");
+// 	document.body.appendChild(textarea);
+// 	url = window.document.location.href;
+// 	textarea.value = url;
+// 	textarea.select();
+// 	document.execCommand("copy");
+// 	document.body.removeChild(textarea);
+// 	alert("URL copied.")
+// }
   // 상단 이동 버튼
   function scrollup() {
     if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
@@ -202,7 +202,7 @@ This is your recipe for vegan and sustainable life.">
   {% endif %}
 {% include 'social-login' %}
 {% include 'swymSnippet' %}
-  <div id="clip-btn" onclick="gocopy()"><i class="fa fa-thin fa-arrow-up-right-from-square"></i></div>
+<!--   <div id="clip-btn" onclick="gocopy()"><i class="fa fa-thin fa-arrow-up-right-from-square"></i></div> -->
   <div id="scrollup-btn" onclick="gotop()"><i class="fa fa-solid fa-angle-up"></i></div>
   <div id="scrolldown-btn" onClick="godown()"><i class="fa fa-solid fa-angle-down"></i></div>
 </body>
