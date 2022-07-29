@@ -5845,11 +5845,6 @@ p + .account__cta-wrap{
 .account__col-heading + .account__cta-wrap{
   margin-top:var(--spacing-unit);
 }
-.account__col-heading {
-  font-family: europa, sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
 .account__table{
   width:100%;
   border-collapse:collapse;
@@ -14241,9 +14236,6 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   font-family:var(--font-body);
   font-weight:var(--font-body-weight);
   font-style:var(--font-body-style);
-/*   font-family: europa, sans-serif;
-  font-weight: 400;
-  font-style: normal; */
   line-height:var(--line-height-body-base);
   letter-spacing:var(--font-body-base-letter-spacing);
 }
@@ -14272,6 +14264,11 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 .fs-heading-2-large{
   font-size:var(--font-size-heading-2-large);
   line-height:var(--line-height-heading-2-large);
+}
+.account__col-heading {
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 @media (max-width: 45em) {
   font-size: 15px!important;
