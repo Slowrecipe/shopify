@@ -1,4 +1,4 @@
-/*! Flickity v2.2.2
+bla/*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
 /* 상세페이지 */
@@ -136,6 +136,7 @@ input[name="tab_item"] {
   width: 40px;
   height: 40px;
   border-radius:100%;
+  background: black;
 }
 
 /* 스크롤업 버튼 */
