@@ -12859,7 +12859,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
     }
 .drawer-menu__item {
   font-family: europa, sans-serif;
-  font-weight: 300;
+  font-weight: 100;
   font-style: normal; 
 }
 .drawer-menu.search-active .drawer-menu__item--heading{
