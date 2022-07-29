@@ -151,10 +151,8 @@ input[name="tab_item"] {
 #clip-btn:hover {
   background: rgba(0,0,0,0.7);
 }
-
 /* 스크롤업 버튼 */
-@media screen and (min-width:1024px) { /* Desktop */
-  #scrollup-btn{
+#scrollup-btn{
     position: fixed;
     display: none;
     width: 40px;
@@ -170,30 +168,31 @@ input[name="tab_item"] {
     color: white;
     transition: all 0.25s ease-in-out;
 	}
-  #scrollup-btn:hover {
-    background: rgba(0,0,0,0.7);
+#scrollup-btn:hover {
+  background: rgba(0,0,0,0.7);
+}
+/*  스크롤다운 버튼  */
+#scrolldown-btn{
+  position: fixed;
+  display: none;
+  width: 40px;
+  height: 40px;
+  background: black;
+  border-radius: 0 0 100% 100%;
+  border-top: 0.5px solid #989898;
+  z-index: 2;
+  right: 20px;
+  bottom: 21px;
+  font-size: 15px;
+  text-align: center;
+  line-height: 40px;
+  color: white;
+  transition: all 0.25s ease-in-out;
   }
-  /*  스크롤다운 버튼  */
-  #scrolldown-btn{
-    position: fixed;
-    display: none;
-    width: 40px;
-    height: 40px;
-    background: black;
-    border-radius: 0 0 100% 100%;
-    border-top: 0.5px solid #989898;
-    z-index: 2;
-    right: 20px;
-    bottom: 21px;
-    font-size: 15px;
-    text-align: center;
-    line-height: 40px;
-    color: white;
-    transition: all 0.25s ease-in-out;
-	}
-  #scrolldown-btn:hover {
-    background: rgba(0,0,0,0.7);
-  }
+#scrolldown-btn:hover {
+  background: rgba(0,0,0,0.7);
+}
+@media screen and (min-width:1024px) { /* Desktop */
   /*  헤더 사이즈 조정  */
   #shopify-section-header {
     height: 65px!important;
@@ -238,46 +237,6 @@ input[name="tab_item"] {
   }
 }
 @media screen and (max-width: 1023px) { /* Tablet */
-  #scrollup-btn{
-    position: fixed;
-    display: none;
-    width: 40px;
-    height: 40px;
-    background: black;
-    border-radius: 100% 100% 0 0;
-    z-index: 2;
-    right: 20px;
-    bottom: 60px;
-    font-size: 15px;
-    text-align: center;
-    line-height: 40px;
-    color: white;
-    transition: all 0.25s ease-in-out;
-	}
-  #scrollup-btn:hover {
-    background: rgba(0,0,0,0.7);
-  }
-  /*  스크롤다운 버튼  */
-  #scrolldown-btn{
-    position: fixed;
-    display: none;
-    width: 40px;
-    height: 40px;
-    background: black;
-    border-radius: 0 0 100% 100%;
-    border-top: 0.5px solid #989898;
-    z-index: 2;
-    right: 20px;
-    bottom: 21px;
-    font-size: 15px;
-    text-align: center;
-    line-height: 40px;
-    color: white;
-    transition: all 0.25s ease-in-out;
-	}
-  #scrolldown-btn:hover {
-    background: rgba(0,0,0,0.7);
-  }
   /*  헤더 사이즈 조정  */
   #shopify-section-header {
     height: 65px!important;
@@ -322,46 +281,6 @@ input[name="tab_item"] {
   }
 }
 @media screen and (max-width:720px) { /* Mobile */
-  #scrollup-btn{
-    position: fixed;
-    display: none;
-    width: 40px;
-    height: 40px;
-    background: black;
-    border-radius: 100% 100% 0 0;
-    z-index: 2;
-    right: 20px;
-    bottom: 60px;
-    font-size: 15px;
-    text-align: center;
-    line-height: 40px;
-    color: white;
-    transition: all 0.25s ease-in-out;
-	}
-  #scrollup-btn:hover {
-    background: rgba(0,0,0,0.7);
-  }
-  /*  스크롤다운 버튼  */
-  #scrolldown-btn{
-    position: fixed;
-    display: none;
-    width: 40px;
-    height: 40px;
-    background: black;
-    border-radius: 0 0 100% 100%;
-    border-top: 0.5px solid #989898;
-    z-index: 2;
-    right: 20px;
-    bottom: 21px;
-    font-size: 15px;
-    text-align: center;
-    line-height: 40px;
-    color: white;
-    transition: all 0.25s ease-in-out;
-	}
-  #scrolldown-btn:hover {
-    background: rgba(0,0,0,0.7);
-  }
   /*  헤더 사이즈 조정  */
   #shopify-section-header {
     height: 50px!important;
