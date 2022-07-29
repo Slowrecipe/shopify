@@ -152,7 +152,6 @@ input[name="tab_item"] {
 	}
   #scrollup-btn:hover {
     background: rgba(0,0,0,0.7);
-/*     color: black; */
   }
   /*  스크롤다운 버튼  */
   #scrolldown-btn{
@@ -170,11 +169,10 @@ input[name="tab_item"] {
     text-align: center;
     line-height: 40px;
     color: white;
-    transition: all 0.3s;
+    transition: all 0.25s ease-in-out;
 	}
   #scrolldown-btn:hover {
-    background: white;
-    color: black;
+    background: rgba(0,0,0,0.7);
   }
   /*  헤더 사이즈 조정  */
   #shopify-section-header {
