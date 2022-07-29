@@ -148,7 +148,7 @@ input[name="tab_item"] {
     text-align: center;
     line-height: 40px;
     color: white;
-    transition: all 0.2s;
+    transition: all 0.4s;
 	}
   #scrollup-btn:hover {
     background: rgba(0,0,0,0.7);
