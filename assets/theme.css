@@ -5845,6 +5845,11 @@ p + .account__cta-wrap{
 .account__col-heading + .account__cta-wrap{
   margin-top:var(--spacing-unit);
 }
+.account__col-heading {
+  font-family: europa, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 .account__table{
   width:100%;
   border-collapse:collapse;
