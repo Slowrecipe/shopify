@@ -2667,8 +2667,7 @@ textarea.spr-form-input{
 }
 img.brand_logo {
   width: 150px!important;
-  margin-top: 10px!important;
-  margin-bottom: 10px!important;
+  margin: 0!important;
 }
 .rte strong,
   .rte b,
