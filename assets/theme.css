@@ -12857,11 +12857,6 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 .drawer-menu.search-active .drawer-menu__list--sub{
       transition:visibility 0s, opacity 0s;
     }
-.drawer-menu__item {
-  font-family: europa, sans-serif;
-  font-weight: 100;
-  font-style: normal; 
-}
 .drawer-menu.search-active .drawer-menu__item--heading{
       display:flex;
     }
@@ -13066,6 +13061,9 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 .drawer-menu__item{
   list-style:none;
   padding:0;
+  font-family: europa, sans-serif;
+  font-weight: 100;
+  font-style: normal;
 }
 .drawer-menu__item span{
     white-space:nowrap;
