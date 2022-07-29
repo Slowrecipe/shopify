@@ -5,6 +5,7 @@
       "blocks": {
         "d1f1e508-d44a-4633-9113-6732923ba28e": {
           "type": "border",
+          "disabled": true,
           "settings": {
           }
         },
