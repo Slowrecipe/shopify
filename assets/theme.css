@@ -158,40 +158,28 @@ input[name="tab_item"] {
     border: 1px solid black;
   }
   /*  스크롤다운 버튼  */
-    #scrolldown-btn{
+  #scrolldown-btn{
     position: fixed;
-    display: block;
+    display: none;
     width: 40px;
     height: 40px;
     background: black;
     border-radius: 0 0 100% 100%;
-/*     border: 2px solid white; */
+    border: 1px solid white;
     z-index: 2;
     right: 20px;
-    bottom: 20px;
+    bottom: 60px;
     cursor: pointer;
-    font-size: 23px;
+    font-size: 17px;
     text-align: center;
     line-height: 49px;
     color: white;
     transition: all 0.3s;
 	}
   #scrolldown-btn:hover {
-    position: fixed;
-    display: block;
-    width: 40px;
-    height: 40px;
-    background: black;
-    border-radius: 0 0 100% 100%;
-/*     border: 2px solid white; */
-    z-index: 2;
-    right: 20px;
-    bottom: 20px;
-    cursor: pointer;
-    font-size: 23px;
-    text-align: center;
-    line-height: 49px;
+    background: white;
     color: black;
+    border: 1px solid black;
   }
   /*  헤더 사이즈 조정  */
   #shopify-section-header {
