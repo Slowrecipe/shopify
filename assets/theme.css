@@ -14233,12 +14233,12 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
     height:100%;
   }
 .ff-body{
-/*   font-family:var(--font-body);
+  font-family:var(--font-body);
   font-weight:var(--font-body-weight);
-  font-style:var(--font-body-style); */
-  font-family: europa, sans-serif;
+  font-style:var(--font-body-style);
+/*   font-family: europa, sans-serif;
   font-weight: 400;
-  font-style: normal;
+  font-style: normal; */
   line-height:var(--line-height-body-base);
   letter-spacing:var(--font-body-base-letter-spacing);
 }
