@@ -151,8 +151,8 @@ input[name="tab_item"] {
     transition: all 0.3s;
 	}
   #scrollup-btn:hover {
-/*     background: white;
-    color: black; */
+    background: rgba(0,0,0,0.3);
+    color: black;
   }
   /*  스크롤다운 버튼  */
   #scrolldown-btn{
