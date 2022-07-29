@@ -12166,7 +12166,7 @@ model-viewer{
   --image-size:64px;
   position:fixed;
   min-height:calc(var(--spacing-unit) * 18);
-  visibility:hidden;
+  visibility:visible;
   right:0;
   bottom:0;
   left:0;
