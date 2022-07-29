@@ -132,7 +132,7 @@ input[name="tab_item"] {
   font-size: 15px;
 }
 /* 복사 버튼 */
-#copy-btn {
+#clip-btn {
   position: fixed;
   display: none;
   right: 20px;
