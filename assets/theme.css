@@ -148,6 +148,7 @@ input[name="tab_item"] {
     bottom: 60px;
     cursor: pointer;
     font-size: 17px;
+    font-weight: normal;
     text-align: center;
     line-height: 40px;
     color: white;
