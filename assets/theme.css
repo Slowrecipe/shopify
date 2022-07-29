@@ -141,7 +141,7 @@ input[name="tab_item"] {
     height: 40px;
     background: black;
     border-radius: 100% 100% 0 0;
-    border: 1px solid white;
+    border: 0.5px solid white;
     z-index: 2;
     right: 20px;
     bottom: 60px;
@@ -155,7 +155,7 @@ input[name="tab_item"] {
   #scrollup-btn:hover {
     background: white;
     color: black;
-    border: 1px solid black;
+    border: 0.5px solid black;
   }
   /*  스크롤다운 버튼  */
   #scrolldown-btn{
@@ -165,7 +165,7 @@ input[name="tab_item"] {
     height: 40px;
     background: black;
     border-radius: 0 0 100% 100%;
-    border: 1px solid white;
+    border: 0.5px solid white;
     z-index: 2;
     right: 20px;
     bottom: 21px;
@@ -179,7 +179,7 @@ input[name="tab_item"] {
   #scrolldown-btn:hover {
     background: white;
     color: black;
-    border: 1px solid black;
+    border: 0.5px solid black;
   }
   /*  헤더 사이즈 조정  */
   #shopify-section-header {
