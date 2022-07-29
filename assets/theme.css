@@ -221,72 +221,42 @@ input[name="tab_item"] {
   #scrollup-btn{
     position: fixed;
     display: none;
-    width: 49px;
-    height: 49px;
-    background: white;
-    border-radius: 100%;
-    border: 2px solid black;
-    z-index: 2;
-    right: 20px;
-    bottom: 80px;
-    cursor: pointer;
-    font-size: 23px;
-    text-align: center;
-    line-height: 49px;
-    color: black;
-    transition: all 0.3s;
-  }
-  #scrollup-btn:hover {
-    position: fixed;
-    display: none;
-    width: 49px;
-    height: 49px;
+    width: 40px;
+    height: 40px;
     background: black;
-    border-radius: 100%;
-    border: 2px solid black;
+    border-radius: 100% 100% 0 0;
     z-index: 2;
     right: 20px;
-    bottom: 80px;
-    cursor: pointer;
-    font-size: 23px;
+    bottom: 60px;
+    font-size: 15px;
     text-align: center;
-    line-height: 49px;
+    line-height: 40px;
     color: white;
+    transition: all 0.25s ease-in-out;
+	}
+  #scrollup-btn:hover {
+    background: rgba(0,0,0,0.7);
   }
+  /*  스크롤다운 버튼  */
   #scrolldown-btn{
     position: fixed;
-    display: block;
-    width: 49px;
-    height: 49px;
-    background: white;
-    border-radius: 100%;
-    border: 2px solid black;
+    display: none;
+    width: 40px;
+    height: 40px;
+    background: black;
+    border-radius: 0 0 100% 100%;
+    border-top: 0.5px solid #989898;
     z-index: 2;
     right: 20px;
-    bottom: 20px;
-    cursor: pointer;
-    font-size: 23px;
+    bottom: 21px;
+    font-size: 15px;
     text-align: center;
-    line-height: 49px;
-    color: black;
-    transition: all 0.3s;
+    line-height: 40px;
+    color: white;
+    transition: all 0.25s ease-in-out;
 	}
   #scrolldown-btn:hover {
-    position: fixed;
-    display: block;
-    width: 49px;
-    height: 49px;
-    background: black;
-    border-radius: 100%;
-    border: 2px solid black;
-    z-index: 2;
-    right: 20px;
-    bottom: 20px;
-    cursor: pointer;
-    font-size: 23px;
-    text-align: center;
-    line-height: 49px;
-    color: white;
+    background: rgba(0,0,0,0.7);
   }
   /*  헤더 사이즈 조정  */
   #shopify-section-header {
@@ -335,72 +305,42 @@ input[name="tab_item"] {
   #scrollup-btn{
     position: fixed;
     display: none;
-    width: 49px;
-    height: 49px;
-    background: white;
-    border-radius: 100%;
-    border: 2px solid black;
-    z-index: 2;
-    right: 20px;
-    bottom: 80px;
-    cursor: pointer;
-    font-size: 23px;
-    text-align: center;
-    line-height: 49px;
-    color: black;
-    transition: all 0.3s;
-  }
-  #scrollup-btn:hover {
-    position: fixed;
-    display: none;
-    width: 49px;
-    height: 49px;
+    width: 40px;
+    height: 40px;
     background: black;
-    border-radius: 100%;
-    border: 2px solid black;
+    border-radius: 100% 100% 0 0;
     z-index: 2;
     right: 20px;
-    bottom: 80px;
-    cursor: pointer;
-    font-size: 23px;
+    bottom: 60px;
+    font-size: 15px;
     text-align: center;
-    line-height: 49px;
+    line-height: 40px;
     color: white;
+    transition: all 0.25s ease-in-out;
+	}
+  #scrollup-btn:hover {
+    background: rgba(0,0,0,0.7);
   }
+  /*  스크롤다운 버튼  */
   #scrolldown-btn{
     position: fixed;
-    display: block;
-    width: 49px;
-    height: 49px;
-    background: white;
-    border-radius: 100%;
-    border: 2px solid black;
+    display: none;
+    width: 40px;
+    height: 40px;
+    background: black;
+    border-radius: 0 0 100% 100%;
+    border-top: 0.5px solid #989898;
     z-index: 2;
     right: 20px;
-    bottom: 20px;
-    cursor: pointer;
-    font-size: 23px;
+    bottom: 21px;
+    font-size: 15px;
     text-align: center;
-    line-height: 49px;
-    color: black;
-    transition: all 0.3s;
+    line-height: 40px;
+    color: white;
+    transition: all 0.25s ease-in-out;
 	}
   #scrolldown-btn:hover {
-    position: fixed;
-    display: block;
-    width: 49px;
-    height: 49px;
-    background: black;
-    border-radius: 100%;
-    border: 2px solid black;
-    z-index: 2;
-    right: 20px;
-    bottom: 20px;
-    cursor: pointer;
-    font-size: 23px;
-    text-align: center;
-    line-height: 49px;
-    color: white;
+    background: rgba(0,0,0,0.7);
   }
   /*  헤더 사이즈 조정  */
   #shopify-section-header {
