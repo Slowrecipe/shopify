@@ -14446,11 +14446,11 @@ a.link:hover{
 .t-subdued{
   opacity:0.65;
 }
-th {
+/* th {
   font-family: europa, sans-serif;
   font-weight: 200;
   font-style: normal;
-}
+} */
 .shopify-section--contrast
   + .shopify-section--contrast:not(.hidden):not(.shopify-section--logo-list){
   margin-top:var(--spacing-small);
