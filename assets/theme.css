@@ -141,6 +141,7 @@ input[name="tab_item"] {
   height: 40px;
   border-radius:100%;
   background: black;
+  cursor: pointer;
   transition: all 0.25s ease-in-out;
 }
 #clip-btn:hover {
