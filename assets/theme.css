@@ -141,6 +141,8 @@ input[name="tab_item"] {
   height: 40px;
   border-radius:100%;
   background: black;
+  color: white;
+  font-size: 15px;
   cursor: pointer;
   transition: all 0.25s ease-in-out;
 }
