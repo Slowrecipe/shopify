@@ -1,4 +1,4 @@
-y15px;tant/*! Flickity v2.2.2
+/*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
 /* 상세페이지 */
@@ -141,7 +141,7 @@ input[name="tab_item"] {
     height: 40px;
     background: black;
     border-radius: 100% 100% 0 0;
-    border-bottom: 0.5px solid white;
+    border-bottom: 0.5px solid gray;
     z-index: 2;
     right: 20px;
     bottom: 60px;
@@ -155,7 +155,6 @@ input[name="tab_item"] {
   #scrollup-btn:hover {
     background: white;
     color: black;
-    border: 0.5px solid black;
   }
   /*  스크롤다운 버튼  */
   #scrolldown-btn{
@@ -165,7 +164,6 @@ input[name="tab_item"] {
     height: 40px;
     background: black;
     border-radius: 0 0 100% 100%;
-    border: 0.5px solid white;
     z-index: 2;
     right: 20px;
     bottom: 21px;
@@ -179,7 +177,6 @@ input[name="tab_item"] {
   #scrolldown-btn:hover {
     background: white;
     color: black;
-    border: 0.5px solid black;
   }
   /*  헤더 사이즈 조정  */
   #shopify-section-header {
