@@ -154,6 +154,7 @@ input[name="tab_item"] {
   #scrollup-btn:hover {
     background: white;
     color: black;
+    border: 1px solid black;
   }
   /*  스크롤다운 버튼  */
     #scrolldown-btn{
