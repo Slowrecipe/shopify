@@ -134,40 +134,64 @@
         "1659335473328aa843-0": {
           "type": "question",
           "settings": {
-            "title": "This is an example of a question that a customer might ask",
-            "answer": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>",
+            "title": "Accessing, Updating, and Modifying Personal Information",
+            "answer": "<p>Subject to applicable law, you may have the right to request access to and receive details about the personal information we maintain about you, update and correct inaccuracies in your personal information, and have the personal information deleted, as appropriate. These rights may be limited in some circumstances by local law. We may take reasonable steps to verify your identity before granting access or making corrections. You may request to access, change, or delete your personal information through contacting us at<a href=\"mailto:help@slowrecipe.com\" target=\"_top\">help@slowrecipe.com<\/a>. If you are residents of California, please see the ‘Notice to California Residents’ section below for the specific privacy rights.<\/p>",
             "author": ""
           }
         },
         "1659335473328aa843-1": {
           "type": "question",
           "settings": {
-            "title": "This is an example of a question that a customer might ask",
-            "answer": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>",
+            "title": "Cookies",
+            "answer": "<p>A cookie is a small amount of information that’s downloaded to your computer or device when you visit our Site. We use a number of different cookies, including functional, performance, advertising, and social media or content cookies. Cookies make your browsing experience better by allowing the website to remember your actions and preferences (such as login and region selection). This means you don’t have to re-enter this information each time you return to the site or browse from one page to another. Cookies also provide information on how people use the website, for instance whether it’s their first time visiting or if they are a frequent visitor.<\/p><p>We use the following cookies to optimize your experience on our Site and to provide our services.<\/p>",
             "author": ""
           }
         },
         "1659335473328aa843-2": {
           "type": "question",
           "settings": {
-            "title": "This is an example of a question that a customer might ask",
-            "answer": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>",
+            "title": "Cookies Necessary for the Functioning of the Store",
+            "answer": "<p><strong>Name<\/strong><\/p><p><strong>Function<\/strong><\/p><p><em>_ab<\/em><\/p><p>Used in connection with access to admin.<\/p><p><em>_secure_session_id<\/em><\/p><p>Used in connection with navigation through a storefront.<\/p><p><em>cart<\/em><\/p><p>Used in connection with shopping cart.<\/p><p><em>cart_sig<\/em><\/p><p>Used in connection with checkout.<\/p><p><em>cart_ts<\/em><\/p><p>Used in connection with checkout.<\/p><p><em>checkout_token<\/em><\/p><p>Used in connection with checkout.<\/p><p><em>secret<\/em><\/p><p>Used in connection with checkout.<\/p><p><em>secure_customer_sig<\/em><\/p><p>Used in connection with customer login.<\/p><p><em>storefront_digest<\/em><\/p><p>Used in connection with customer login.<\/p><p><em>_shopify_u<\/em><\/p><p>Used to facilitate updating customer account information.<\/p>",
             "author": ""
           }
         },
         "1659335473328aa843-3": {
           "type": "question",
           "settings": {
-            "title": "This is an example of a question that a customer might ask",
-            "answer": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>",
+            "title": "Reporting and Analytics",
+            "answer": "<p><strong>Name<\/strong><\/p><p><strong>Function<\/strong><\/p><p><em>_tracking_consent<\/em><\/p><p>Tracking preferences.<\/p><p><em>_landing_page<\/em><\/p><p>Track landing pages<\/p><p><em>_orig_referrer<\/em><\/p><p>Track landing pages<\/p><p><em>_s<\/em><\/p><p>Shopify analytics.<\/p><p><em>_shopify_s<\/em><\/p><p>Shopify analytics.<\/p><p><em>_shopify_sa_p<\/em><\/p><p>Shopify analytics relating to marketing & referrals.<\/p><p><em>_shopify_sa_t<\/em><\/p><p>Shopify analytics relating to marketing & referrals.<\/p><p><em>_shopify_y<\/em><\/p><p>Shopify analytics.<\/p><p><em>_y<\/em><\/p><p>Shopify analytics.<\/p><p><\/p><p>The length of time that a cookie remains on your computer or mobile device depends on whether it is a “persistent” or “session” cookie. Session cookies last until you stop browsing and persistent cookies last until they expire or are deleted. Most of the cookies we use are persistent and will expire between 30 minutes and two years from the date they are downloaded to your device.<\/p><p>You can control and manage cookies in various ways. Please keep in mind that removing or blocking cookies can negatively impact your user experience and parts of our website may no longer be fully accessible.<\/p><p>Most browsers automatically accept cookies, but you can choose whether or not to accept cookies through your browser controls, often found in your browser’s “Tools” or “Preferences” menu. For more information on how to modify your browser settings or how to block, manage or filter cookies can be found in your browser’s help file or through such sites as <a href=\"https:\/\/slowrecipe.myshopify.com\/admin\/settings\/www.allaboutcookies.org\" target=\"_top\">www.allaboutcookies.org<\/a>.<\/p><p>Additionally, please note that blocking cookies may not completely prevent how we share information with third parties such as our advertising partners. To exercise your rights or opt-out of certain uses of your information by these parties, please follow the instructions in the “Behavioural Advertising and Opt-out Option” section above.<\/p><p>Please note that your opt-out only applies to the browser you use to submit your opt-out, so if you use multiple browsers or devices, you must opt-out on each browser, on each device. Your opt-out is enabled using cookies so once you opt-out, if you delete your browser’s saved cookies on a device, you will need to opt-out again on that browser on that device.<\/p>",
             "author": ""
           }
         },
         "6b888b62-6d9f-4a64-8dbd-d5f744a2545b": {
           "type": "question",
           "settings": {
-            "title": "This is an example of a question that a customer might ask",
-            "answer": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>",
+            "title": "Do Not Track",
+            "answer": "<p>Please note that because there is no consistent industry understanding of how to respond to “Do Not Track” signals, we do not alter our data collection and usage practices when we detect such a signal from your browser.<\/p>",
+            "author": ""
+          }
+        },
+        "809b55cf-62ad-40de-bd0e-eaa4c650fa4f": {
+          "type": "question",
+          "settings": {
+            "title": "Transfer of Personal Information to Other Countries",
+            "answer": "<p>We may transfer the personal information we collect about you to recipients in countries other than the country in which you originally provided it, including transferring it outside of the U.S. These countries may not have the same data protection laws as the country in which you provided the information. When we transfer your information to recipients in other countries, we will protect that information as described in this Privacy Policy and will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries other than the one in which you provided the information.<\/p>",
+            "author": ""
+          }
+        },
+        "1863333c-b0d7-42de-a3eb-a6194e400fd0": {
+          "type": "question",
+          "settings": {
+            "title": "Children’s Privacy",
+            "answer": "<p>This website is not intended for or directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on the website. If we become aware that a child under the age of thirteen has provided us with personal information, we will delete the information from our records. If you are the parent or guardian and believe your child has provided us with Personal Information, please contact us to request deletion.<\/p>",
+            "author": ""
+          }
+        },
+        "9927b692-9ada-4569-85ba-fd2e1b2474de": {
+          "type": "question",
+          "settings": {
+            "title": "Revisions to Our Privacy Policy",
+            "answer": "<p>This Privacy Policy may be changed from time to time and without prior notice to you to reflect changes in our personal information practices, operational reasons or relevant laws. We will post a notice on the site to notify you of any significant changes to our Privacy Policy and indicate at the top of the notice when it was updated. Your continued use of the Site following any modifications demonstrates your agreement to such changes. If at any time you do not agree to the terms of this Privacy Policy, please do not use this Site.<\/p>",
             "author": ""
           }
         }
@@ -177,10 +201,52 @@
         "1659335473328aa843-1",
         "1659335473328aa843-2",
         "1659335473328aa843-3",
-        "6b888b62-6d9f-4a64-8dbd-d5f744a2545b"
+        "6b888b62-6d9f-4a64-8dbd-d5f744a2545b",
+        "809b55cf-62ad-40de-bd0e-eaa4c650fa4f",
+        "1863333c-b0d7-42de-a3eb-a6194e400fd0",
+        "9927b692-9ada-4569-85ba-fd2e1b2474de"
       ],
       "settings": {
         "section_title": "Your Rights",
+        "subheading": "",
+        "section_contrast": false
+      }
+    },
+    "16593363519105b3c3": {
+      "type": "questions",
+      "blocks": {
+        "1659336351f79f999a-0": {
+          "type": "question",
+          "settings": {
+            "title": "California Resident Rights Regarding Personal Information",
+            "answer": "<p>Capitalized terms in this “Notice to California Residents” section shall have the meanings set forth in the California Consumer Privacy Act of 2018. Subject to certain limits under California law, California residents have a number of rights regarding their personal information.<\/p><p>California residents have the right to request in writing, (i) a list of the categories of personal information, such as name, address, e–mail address, and the type of services provided to the customer, that We have disclosed to third parties the immediately preceding calendar year for the third parties' direct marketing purposes, and (ii) the names and addresses of all such third parties. In addition, California residents have the right to request that we disclose to them (i) the categories of personal information we have collected about them, (ii) the categories of sources from which personal information is collected, (iii) the business or commercial purpose for the information collection, (iv) the categories of third parties with whom we have shared personal information, and (v) the specific pieces of personal information we hold about an individual.<\/p><p>California residents have the right to have their personal information deleted, unless the personal information is necessary for Us or our service provider to: complete a transaction for which the personal information was collected, provide a good or service requested by the consumer or otherwise perform a contract between the business and the consumer; detect security incidents; protect against malicious, deceptive, fraudulent or illegal activity (or prosecute those responsible); debug to identify and repair functionality errors; exercise or ensure the right of another to exercise free speech or another legal right; comply with the California Electronic Communications Privacy Act, which compels the production of or access to electronic communication information or electronic device information with a search warrant; engage in research in the public interest (if the consumer has provided informed consent); to enable solely internal uses aligned with the consumer's expectations given their relationship with the business; comply with a legal obligation; otherwise use the information internally in a lawful manner compatible with the context in which the consumer provided it.<\/p><p>California residents have the right to opt-out of having their personal information sold. While we do not receive compensation in exchange for our customer’s personal information, we do utilize third party cookies, tracking technology, and other digital advertising tools that may further use the information we share with them for their own commercial purposes. California residents can opt out of the sharing of your personal information with those third parties at any time.<\/p><p>Sales of Personal Information<br\/>In the preceding twelve 12 months, we have not sold personal information.  Our policy is that we do not and will not sell your personal information, unless you give us your consent or direct us to do so.<\/p><p>We do not sell the personal information of individuals we have actual knowledge are under the age of 13, unless we receive affirmative authorization from the consumer (if the consumer is between 13 and 16 years of age) or their guardian (if the consumer is under the age of 13).<\/p><p>It goes without saying, but we will not hold it against you or discriminate when you exercise any of your rights. In fact, we encourage you to review your privacy settings closely and reach out to us with your questions<\/p><p>Californians can exercise their privacy rights by contacting us at help@slowrecipe.com.<\/p><p>We will handle the request under applicable law in California. When a request is made, we may verify your identity to protect your privacy and security. In some cases we may need to collect additional information to verify your identity, such as your name and proof of residence. We will use the information provided in connection with a verification request solely for the purposes of verification. We cannot effectuate your request if we are unable to verify your identity or authority to make the request and confirm that the personal information relates to you.<\/p><p>California residents may exercise these rights themselves or they may designate an authorized agent to make these requests on their behalf. If we receive a request from an authorized agent, we may take steps to verify their ability to act on the customer’s behalf, including through contacting the customer. In most cases, we will facilitate a rights request through automated tools available on our website or through your password protected account.<\/p><p>We will respond to written rights requests within 45 days following receipt of email. Please note that we are only required to respond to each customer’s request twice per consecutive 12-month period.<\/p>",
+            "author": ""
+          }
+        },
+        "1659336351f79f999a-1": {
+          "type": "question",
+          "settings": {
+            "title": "California Resident Personal Information Collected",
+            "answer": "<p>We collect the following categories of data, as defined and categorized under California law from California residents:<\/p><p>We collect Identifiers, Characteristics protected under state and federal law, Commercial information, Internet information, and Inferences, directly from you for the operation of our services, auditing, security, internal research and development, and quality and safety business purposes. Such information may be collected by or shared with our service providers, on our behalf.<\/p><p>Personal information collected from you is shared with service providers, vendors, and contractors to maintain our operations, for auditing related to our operations, for transient and short term usages, to detect security incidents, for debugging errors, and to maintain the quality and safety of the Site, and our operations.<\/p><p>We collect the following categories of personal information by automated means when you visit our website: Identifiers, Characteristics protected under state and federal law, Commercial information, Internet information, and Inferences, for the operation of our services, auditing, security, internal research and development, and quality and safety business purposes. This personal information is collected directly from individuals, as well as from service providers on our behalf.<\/p><p>Personal information collected through automated means is shared with service providers, vendors, and contractors to maintain our operations, for transient and short-term usages, to detect security incidents, and to maintain the quality and safety of the Site, and our operations.<\/p><p>When performing behavioural advertising, we collect the following categories of personal information: Identifiers, Characteristics protected under state and federal law, Commercial information, Internet information, and Inferences, for the operation of our services, auditing, security, internal research and development, and quality and safety business purposes. This personal information is collected directly from individuals, as well as from service providers on our behalf.<\/p><p>Personal information collected when performing interest-based advertising is shared with service providers, vendors, and contractors to maintain our operations, for transient and short-term usages, and to maintain the quality and safety of the Site, and our operations.<\/p>",
+            "author": ""
+          }
+        },
+        "1659336351f79f999a-2": {
+          "type": "question",
+          "settings": {
+            "title": "Your California Privacy Rights (California's Shine the Light law)",
+            "answer": "<p>Under California Civil Code Section 1798 (California's Shine the Light law), California residents with an established business relationship with us can request information once a year about sharing their Personal Information with third parties for the third parties' direct marketing purposes.<\/p><p>If you'd like to request more information under the California Shine the Light law, and if You are a California resident, You can contact Us using the contact information provided in this policy<\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659336351f79f999a-0",
+        "1659336351f79f999a-1",
+        "1659336351f79f999a-2"
+      ],
+      "settings": {
+        "section_title": "Notice to California Residents",
         "subheading": "",
         "section_contrast": false
       }
@@ -189,6 +255,7 @@
   "order": [
     "rich-text",
     "1659330320cdd53d1a",
-    "1659335473e4e76dc6"
+    "1659335473e4e76dc6",
+    "16593363519105b3c3"
   ]
 }
