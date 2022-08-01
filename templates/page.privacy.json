@@ -238,12 +238,21 @@
             "answer": "<p>Under California Civil Code Section 1798 (California's Shine the Light law), California residents with an established business relationship with us can request information once a year about sharing their Personal Information with third parties for the third parties' direct marketing purposes.<\/p><p>If you'd like to request more information under the California Shine the Light law, and if You are a California resident, You can contact Us using the contact information provided in this policy<\/p>",
             "author": ""
           }
+        },
+        "a11fa489-7a9e-497a-812f-8f70f7013926": {
+          "type": "question",
+          "settings": {
+            "title": "Contact",
+            "answer": "<p>For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [help@slowrecipe.com] or by mail using the details provided below:<\/p><p>Namdaemun-ro 63, 21st floor of Hanjin Building, 04532 Jung-gu, Seoul, South Korea.<\/p><p>If you are not satisfied with our response to your complaint, you have the right to lodge your complaint with the relevant data protection authority. You can contact your local data protection authority, or our supervisory authority here: https:\/\/www.pipc.go.kr\/<\/p>",
+            "author": ""
+          }
         }
       },
       "block_order": [
         "1659336351f79f999a-0",
         "1659336351f79f999a-1",
-        "1659336351f79f999a-2"
+        "1659336351f79f999a-2",
+        "a11fa489-7a9e-497a-812f-8f70f7013926"
       ],
       "settings": {
         "section_title": "Notice to California Residents",
