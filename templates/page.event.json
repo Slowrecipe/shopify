@@ -12,15 +12,15 @@
         "8a05ccad-e42a-4920-ba21-2c108e8a96d2": {
           "type": "slide",
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/masked-woman-with-shopping-bags.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/masked-woman-with-shopping-bags.jpg",
+            "desktop_image": "shopify:\/\/shop_images\/hands-holding-multiple-shopping-bags.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/hands-holding-multiple-shopping-bags.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "Membership Special Offer",
             "subheading": "<p>All registered customers will receive “Free shipping & a 10% discount”<br\/>and first time purchases will be gifted an Efilow 3 piece mask sheet set.<br\/>Promo code is applicable to all categories<br\/><br\/>※ Free Shipping - FREE DAYZ<br\/>※ 10% Discount - ENJOY10<\/p>",
             "heading_text_size": 64,
             "overlay_shadow": 10,
-            "max_width_subheading": 40,
+            "max_width_subheading": 50,
             "link_text": "Learn more",
             "link": "",
             "alignment": "center_center",
