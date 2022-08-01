@@ -2489,10 +2489,6 @@ textarea.spr-form-input{
 .rte h4, .shopify-policy__body h4{
     font-size:1.5em;
   }
-/* 푸터 */
-.ft_title {
-  font-size: 20px!important;
-}
 .rte h5, .shopify-policy__body h5{
     font-size:1em;
   }
@@ -2619,6 +2615,10 @@ img.brand_logo {
     border:1px solid var(--color-border);
     margin:var(--s-line-height) 0
   }
+/* 푸터 */
+.ft_title {
+  font-size: 20px!important;
+}
 @media (min-width: 45em){
   .rte--page .accordion, .rte--article .accordion{
       margin:var(--spacing-large) 0
