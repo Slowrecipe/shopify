@@ -2618,6 +2618,7 @@ img.brand_logo {
 /* 푸터 */
 .ft_title {
   font-size: 20px!important;
+  margin: 0;
 }
 @media (min-width: 45em){
   .rte--page .accordion, .rte--article .accordion{
