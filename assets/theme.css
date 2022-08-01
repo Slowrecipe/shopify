@@ -1,11 +1,6 @@
 bla/*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-/* 푸터 */
-.ft_title {
-  font-size: 20px!important;
-}
-
 /* 상세페이지 */
 img.brand_logo {
   display: inline!important;
@@ -2494,6 +2489,10 @@ textarea.spr-form-input{
 .rte h4, .shopify-policy__body h4{
     font-size:1.5em;
   }
+/* 푸터 */
+.ft_title {
+  font-size: 20px!important;
+}
 .rte h5, .shopify-policy__body h5{
     font-size:1em;
   }
@@ -14526,4 +14525,4 @@ a.link:hover{
     padding: var(--spacing-small) var(--space-outer);
   }
 }
-}s
+}
