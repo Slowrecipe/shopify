@@ -1058,9 +1058,15 @@
       "type": "powr-popup",
       "settings": {
       }
+    },
+    "c6bc23fd_1659319508": {
+      "type": "powr-popup",
+      "settings": {
+      }
     }
   },
   "order": [
+    "c6bc23fd_1659319508",
     "b7ef8735_1659319277",
     "slideshow-1",
     "featured-collection",
