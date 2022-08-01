@@ -12817,7 +12817,8 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   display:block;
 }
 .drawer-menu.visible .drawer-menu__overlay{
-    opacity:0.9;
+  opacity:0.9;
+  z-index:200;
   }
 .drawer-menu.visible .drawer-menu__panel{
     transform:translateX(0);
