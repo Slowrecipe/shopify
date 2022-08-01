@@ -1,35 +1,26 @@
 {
   "sections": {
-    "rich-text": {
+    "165933731125d9f065": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
+        "1659337311ee5f020b-0": {
           "type": "heading",
           "settings": {
             "title": "Privacy Policy",
             "text_max_width": 42
           }
         },
-        "text": {
+        "1659337311ee5f020b-1": {
           "type": "text",
           "settings": {
             "subheading": "<p>This Privacy Policy describes how <a href=\"http:\/\/www.slowrecipe.com\/\" target=\"_top\">www.slowrecipe.com<\/a> (slowrecipe.myshopify.com) collects, uses, and discloses your Personal Information when you visit or make a purchase from the Site.<\/p><p>(Last Updated : Jan. 25. 2021)<\/p>",
             "text_max_width": 42
           }
-        },
-        "button": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "link_text": "Read more"
-          }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "1659337311ee5f020b-0",
+        "1659337311ee5f020b-1"
       ],
       "settings": {
         "section_contrast": false
@@ -262,7 +253,7 @@
     }
   },
   "order": [
-    "rich-text",
+    "165933731125d9f065",
     "1659330320cdd53d1a",
     "1659335473e4e76dc6",
     "16593363519105b3c3"
