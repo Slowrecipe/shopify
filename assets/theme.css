@@ -7626,7 +7626,7 @@ p + .account__cta-wrap{
   display: block;
   width: 100%!important;
 }
-.rich-text__subheading p, .rich-text__subheading a {
+.rich-text__subheading #text, .rich-text__subheading p, .rich-text__subheading a {
   white-space: normal!important;
 }
 @media (min-width: 45em){
