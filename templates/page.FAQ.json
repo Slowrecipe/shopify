@@ -42,40 +42,24 @@
         "16593303204b12a0e8-0": {
           "type": "question",
           "settings": {
-            "title": "Refund policy",
-            "answer": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.<br\/>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.<br\/>To start a return, you can contact us at help@slowrecipe.com. If your return is accepted, we’ll send you a return shipping label, as well as instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.<br\/>You can always contact us for any return question at help@slowrecipe.com.<\/p>",
+            "title": "When will you send my order?",
+            "answer": "<p>We usually ship out orders within 1~5 business days after payment clear.<br\/>During the special events the ship out time can be delayed as the number of orders increases, and we will put a notice to make sure to avoid any misunderstanding.<\/p>",
             "author": ""
           }
         },
         "16593303204b12a0e8-1": {
           "type": "question",
           "settings": {
-            "title": "Damages and issues",
-            "answer": "<p>Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.<\/p>",
+            "title": "Is this a genuine item?",
+            "answer": "<p>Sure, we only sell 100% genuine and new items in our store.<br\/>We receive products directly from the manufacturer or the official retailers. There is no need to be concerned about the product's authenticity.<\/p>",
             "author": ""
           }
         },
         "16593303204b12a0e8-2": {
           "type": "question",
           "settings": {
-            "title": "Exceptions \/ non-returnable items",
-            "answer": "<p>Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item. Unfortunately, we cannot accept returns on sale items or gift cards.<\/p>",
-            "author": ""
-          }
-        },
-        "16593303204b12a0e8-3": {
-          "type": "question",
-          "settings": {
-            "title": "Exchanges",
-            "answer": "<p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.<\/p>",
-            "author": ""
-          }
-        },
-        "0c00ed2b-c02e-40fb-9b01-3fb1dfdcef3a": {
-          "type": "question",
-          "settings": {
-            "title": "Refunds",
-            "answer": "<p>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.<\/p>",
+            "title": "How can I contact to Slowrecipe?",
+            "answer": "<p>There is a 'contact us' button on the bottom of page, just click the button. Then, you will be able to send an email directly to slowrecipe.<\/p>",
             "author": ""
           }
         }
@@ -83,9 +67,7 @@
       "block_order": [
         "16593303204b12a0e8-0",
         "16593303204b12a0e8-1",
-        "16593303204b12a0e8-2",
-        "16593303204b12a0e8-3",
-        "0c00ed2b-c02e-40fb-9b01-3fb1dfdcef3a"
+        "16593303204b12a0e8-2"
       ],
       "settings": {
         "section_title": "",
