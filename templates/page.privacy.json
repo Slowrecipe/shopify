@@ -27,6 +27,12 @@
         "section_contrast": false
       }
     },
+    "1659337475e36d059b": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"text-align:center\">This Privacy Policy describes how www.slowrecipe.com (slowrecipe.myshopify.com) collects, uses, and discloses your Personal Information when you visit or make a purchase from the Site.\n\n(Last Updated : Jan. 25. 2021)<\/div>"
+      }
+    },
     "1659330320cdd53d1a": {
       "type": "questions",
       "blocks": {
@@ -251,19 +257,13 @@
         "subheading": "",
         "section_contrast": false
       }
-    },
-    "1659337475e36d059b": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div>This Privacy Policy describes how www.slowrecipe.com (slowrecipe.myshopify.com) collects, uses, and discloses your Personal Information when you visit or make a purchase from the Site.\n\n(Last Updated : Jan. 25. 2021)<\/div>"
-      }
     }
   },
   "order": [
     "165933731125d9f065",
+    "1659337475e36d059b",
     "1659330320cdd53d1a",
     "1659335473e4e76dc6",
-    "16593363519105b3c3",
-    "1659337475e36d059b"
+    "16593363519105b3c3"
   ]
 }
