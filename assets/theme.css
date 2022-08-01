@@ -2620,6 +2620,9 @@ img.brand_logo {
   font-size: 20px!important;
   margin-bottom: 10px!important;
 }
+.ft_box {
+  margin-bottom: 30px;
+}
 @media (min-width: 45em){
   .rte--page .accordion, .rte--article .accordion{
       margin:var(--spacing-large) 0
