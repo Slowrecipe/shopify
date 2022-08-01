@@ -7616,6 +7616,9 @@ p + .account__cta-wrap{
   margin-right:auto;
   margin-left:auto;
 }
+.rich-text__subheading {
+  margin: 0 auto; 
+}
 .rich-text__heading + .rich-text__subheading,
 .rich-text__subheading + .rich-text__heading,
 .rich-text__button-wrapper + .rich-text__heading,
