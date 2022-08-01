@@ -1053,9 +1053,15 @@
         "aspect_ratio": "natural",
         "section_contrast": false
       }
+    },
+    "b7ef8735_1659319277": {
+      "type": "powr-popup",
+      "settings": {
+      }
     }
   },
   "order": [
+    "b7ef8735_1659319277",
     "slideshow-1",
     "featured-collection",
     "text-columns-with-images",
