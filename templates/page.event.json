@@ -12,6 +12,7 @@
         "8a05ccad-e42a-4920-ba21-2c108e8a96d2": {
           "type": "slide",
           "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/masked-woman-with-shopping-bags.jpg",
             "mobile_image": "shopify:\/\/shop_images\/masked-woman-with-shopping-bags.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
@@ -25,8 +26,8 @@
             "alignment": "center_center",
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_overlay": "#000",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         }
