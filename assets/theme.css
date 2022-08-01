@@ -160,8 +160,8 @@ input[name="tab_item"] {
     background: black;
     border-radius: 100% 100% 0 0;
     z-index: 2;
-    right: 20px;
-    bottom: 100px;
+    right: 30px;
+    bottom: 120px;
     font-size: 15px;
     text-align: center;
     line-height: 40px;
@@ -181,8 +181,8 @@ input[name="tab_item"] {
   border-radius: 0 0 100% 100%;
   border-top: 0.5px solid #989898;
   z-index: 2;
-  right: 20px;
-  bottom: 61px;
+  right: 30px;
+  bottom: 81px;
   font-size: 15px;
   text-align: center;
   line-height: 40px;
