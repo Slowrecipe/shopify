@@ -215,9 +215,22 @@
     "1659341269777a1bb1": {
       "type": "featured-collection",
       "settings": {
-        "collection": "whats-new",
+        "collection": "new-arrival",
         "columns": 4,
         "title": "Keep up with Slowrecipe",
+        "subheading": "",
+        "link_text": "",
+        "text_max_width": 36,
+        "aspect_ratio": "natural",
+        "section_contrast": false
+      }
+    },
+    "165934138496f121a0": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "test1",
+        "columns": 3,
+        "title": "",
         "subheading": "",
         "link_text": "",
         "text_max_width": 36,
@@ -232,6 +245,7 @@
     "1650513576ec74f37f",
     "1650513629bed248e0",
     "1650513968411b9e3b",
-    "1659341269777a1bb1"
+    "1659341269777a1bb1",
+    "165934138496f121a0"
   ]
 }
