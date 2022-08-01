@@ -166,6 +166,7 @@
     },
     "1650513968411b9e3b": {
       "type": "quote",
+      "disabled": true,
       "blocks": {
         "1650513968d3201c7b-0": {
           "type": "quote",

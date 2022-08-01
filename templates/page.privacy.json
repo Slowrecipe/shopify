@@ -6,15 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "title": "FAQ",
+            "title": "Privacy Policy",
             "text_max_width": 42
           }
         },
         "text": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "subheading": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "subheading": "<p>This Privacy Policy describes how <a href=\"http:\/\/www.slowrecipe.com\/\" target=\"_top\">www.slowrecipe.com<\/a> (slowrecipe.myshopify.com) collects, uses, and discloses your Personal Information when you visit or make a purchase from the Site.<\/p>",
             "text_max_width": 42
           }
         },
@@ -42,24 +41,72 @@
         "16593303204b12a0e8-0": {
           "type": "question",
           "settings": {
-            "title": "When will you send my order?",
-            "answer": "<p>We usually ship out orders within 1~5 business days after payment clear.<br\/>During the special events the ship out time can be delayed as the number of orders increases, and we will put a notice to make sure to avoid any misunderstanding.<\/p>",
+            "title": "Collection Personal Information",
+            "answer": "<p>When you visit the Site, we collect certain information about your device, your interaction with the Site, and information necessary to process your purchases. We may also collect additional information if you contact us for customer support. In this Privacy Policy, we refer to any information that can uniquely identify an individual (including the information below) as “Personal Information”. See the list below for more information about what Personal Information we collect and why.<\/p>",
             "author": ""
           }
         },
         "16593303204b12a0e8-1": {
           "type": "question",
           "settings": {
-            "title": "Is this a genuine item?",
-            "answer": "<p>Sure, we only sell 100% genuine and new items in our store.<br\/>We receive products directly from the manufacturer or the official retailers. There is no need to be concerned about the product's authenticity.<\/p>",
+            "title": "Device Information",
+            "answer": "<p><strong>- Examples of Personal Information collected<\/strong><\/p><p>Version of web browser, IP address, time zone, cookie information, what sites or products you view, search terms, and how you interact with the Site.<\/p><p><strong>- Purpose of collection<\/strong><\/p><p>To load the Site accurately for you, and to perform analytics on Site usage to optimize our Site.<\/p><p><strong>- Source of collection<\/strong><\/p><p>Collected automatically when you access our Site using cookies, log files, web beacons, tags, or pixels.<\/p><p><strong>- Disclosure for a business purpose<\/strong><\/p><p>Shared with our processor Shopify.<\/p>",
             "author": ""
           }
         },
         "16593303204b12a0e8-2": {
           "type": "question",
           "settings": {
-            "title": "How can I contact to Slowrecipe?",
-            "answer": "<p>There is a 'contact us' button on the bottom of page, just click the button. Then, you will be able to send an email directly to slowrecipe.<\/p>",
+            "title": "Order Information",
+            "answer": "<p><strong>- Examples of Personal Information collected<\/strong><\/p><p>Name, billing address, shipping address, payment information (including credit card numbers), email address, and phone number.<\/p><p><strong>- Purpose of collection<\/strong><\/p><p>To provide products or services to you to fulfill our contract, to process your payment information, arrange for shipping, and provide you with invoices and\/or order confirmations, communicate with you, screen our orders for potential risk or fraud, and when in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.<\/p><p><strong>- Source of collection<\/strong><\/p><p>Collected from you.<\/p><p><strong>- Disclosure for a business purpose<\/strong><\/p><p>Shared with our processor Shopify and shipping \/ fulfillment partners.<\/p>",
+            "author": ""
+          }
+        },
+        "750815ca-6a1e-42be-a08b-11895b15e5f1": {
+          "type": "question",
+          "settings": {
+            "title": "Customer Support Information",
+            "answer": "<p><strong>- Examples of Personal Information collected<\/strong><\/p><p>Same as order information<\/p><p><strong>- Purpose of collection<\/strong><\/p><p>To provide customer support.<\/p><p><strong>- Source of collection<\/strong><\/p><p>Collected from you.<\/p><p><strong>- Disclosure for a business purpose<\/strong><\/p><p>None<\/p>",
+            "author": ""
+          }
+        },
+        "911a54bd-b0ef-4206-818e-14a41e808c74": {
+          "type": "question",
+          "settings": {
+            "title": "Sharing Personal Information",
+            "answer": "<p>We share your Personal Information with service providers to help us provide our services and fulfill our contracts with you, as described above.<\/p><p>For example:<\/p><p>- We use Shopify to power our online store. You can read more about how Shopify uses your Personal Information here: <a href=\"https:\/\/www.shopify.com\/legal\/privacy\" target=\"_top\">https:\/\/www.shopify.com\/legal\/privacy<\/a>.<\/p><p>- We may share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.<\/p><p>- We may provide paid product and\/or services within the Service. In that case, we may use third-party service for payment processing (e.g.payment processors)<\/p><p>- We may share information about you for safety, and security reason to protect the right, property, or safety of us, our users, or others and detect and resolve any fraud or security concerns.<\/p>",
+            "author": ""
+          }
+        },
+        "97718625-2cc4-456f-88ee-863af7b2cac3": {
+          "type": "question",
+          "settings": {
+            "title": "Behavioural Advertising and Opt-out Option",
+            "answer": "<p>As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For example:<\/p><p>- We use Google Analytics to help us understand how our customers use the Site. You can read more about how Google uses your Personal Information here: <a href=\"https:\/\/policies.google.com\/privacy?hl=en\" target=\"_top\">https:\/\/policies.google.com\/privacy?hl=en<\/a>.You can also opt-out of Google Analytics here: <a href=\"https:\/\/tools.google.com\/dlpage\/gaoptout\" target=\"_top\">https:\/\/tools.google.com\/dlpage\/gaoptout<\/a>.<br\/><\/p><p>For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at <a href=\"http:\/\/www.networkadvertising.org\/understanding-online-advertising\/how-does-it-work\" target=\"_top\">http:\/\/www.networkadvertising.org\/understanding-online-advertising\/how-does-it-work<\/a>.<\/p><p>You can opt out of targeted advertising by:<\/p><p><em>&gt; FACEBOOK - <\/em><a href=\"https:\/\/www.facebook.com\/settings\/?tab=ads\" target=\"_top\">https:\/\/www.facebook.com\/settings\/?tab=ads<\/a><\/p><p><em>&gt; GOOGLE - <\/em><a href=\"https:\/\/www.google.com\/settings\/ads\/anonymous\" target=\"_top\">https:\/\/www.google.com\/settings\/ads\/anonymous<\/a><\/p><p><em>&gt; BING - <\/em><a href=\"https:\/\/advertise.bingads.microsoft.com\/en-us\/resources\/policies\/personalized-ads\" target=\"_top\">https:\/\/advertise.bingads.microsoft.com\/en-us\/resources\/policies\/personalized-ads<\/a><em>]<\/em><\/p><p>Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: <a href=\"http:\/\/optout.aboutads.info\/\" target=\"_top\">http:\/\/optout.aboutads.info\/<\/a>.<\/p>",
+            "author": ""
+          }
+        },
+        "c99a3fc9-0877-4fa2-ad64-948a9aefc8ce": {
+          "type": "question",
+          "settings": {
+            "title": "Using Personal Information",
+            "answer": "<p>We use your Personal Information to provide our services to you, which includes:<\/p><p>- Offering products for sale, processing payments, shipping and fulfillment of your order.<\/p><p>- Keeping you up to date on new products, services, and offers.<\/p><p>- For analytics purpose, such as to understand how you use our website, understand your perferred method of purchasing with us; determine what browser and devices you use to visit our site; and to evaluate and improve our products, services, advertisement, website.<\/p><p>- For legal and security purposes, such as to detect, prevent, and prosecute hamful, fraudulent, or illegal activity, loss prevention, identify and repair bugs on our website, and to comply with applicable legal requirements, relevant industry standards and our policies.<\/p>",
+            "author": ""
+          }
+        },
+        "e9a45cab-086c-43bd-81c3-89a1d003d6c6": {
+          "type": "question",
+          "settings": {
+            "title": "Security of Your Personal Information",
+            "answer": "<p>The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security<\/p>",
+            "author": ""
+          }
+        },
+        "c8b45a21-f749-4bf3-a4a3-e4e37a8cb99f": {
+          "type": "question",
+          "settings": {
+            "title": "Retention",
+            "answer": "<p>When you place an order through the Site, we will retain your Personal Information for our records unless and until you ask us to erase this information. For more information on your right of erasure, please see the ‘Your rights’ section below.<\/p>",
             "author": ""
           }
         }
@@ -67,10 +114,73 @@
       "block_order": [
         "16593303204b12a0e8-0",
         "16593303204b12a0e8-1",
-        "16593303204b12a0e8-2"
+        "16593303204b12a0e8-2",
+        "750815ca-6a1e-42be-a08b-11895b15e5f1",
+        "911a54bd-b0ef-4206-818e-14a41e808c74",
+        "97718625-2cc4-456f-88ee-863af7b2cac3",
+        "c99a3fc9-0877-4fa2-ad64-948a9aefc8ce",
+        "e9a45cab-086c-43bd-81c3-89a1d003d6c6",
+        "c8b45a21-f749-4bf3-a4a3-e4e37a8cb99f"
       ],
       "settings": {
         "section_title": "",
+        "subheading": "",
+        "section_contrast": false
+      }
+    },
+    "1659335473e4e76dc6": {
+      "type": "questions",
+      "blocks": {
+        "1659335473328aa843-0": {
+          "type": "question",
+          "settings": {
+            "title": "This is an example of a question that a customer might ask",
+            "answer": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>",
+            "author": ""
+          }
+        },
+        "1659335473328aa843-1": {
+          "type": "question",
+          "settings": {
+            "title": "This is an example of a question that a customer might ask",
+            "answer": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>",
+            "author": ""
+          }
+        },
+        "1659335473328aa843-2": {
+          "type": "question",
+          "settings": {
+            "title": "This is an example of a question that a customer might ask",
+            "answer": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>",
+            "author": ""
+          }
+        },
+        "1659335473328aa843-3": {
+          "type": "question",
+          "settings": {
+            "title": "This is an example of a question that a customer might ask",
+            "answer": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>",
+            "author": ""
+          }
+        },
+        "6b888b62-6d9f-4a64-8dbd-d5f744a2545b": {
+          "type": "question",
+          "settings": {
+            "title": "This is an example of a question that a customer might ask",
+            "answer": "<p>This is an example of a response that you might give. It's good to be as thorough as possible in responses as that has a tendency to improve trust overall.<\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659335473328aa843-0",
+        "1659335473328aa843-1",
+        "1659335473328aa843-2",
+        "1659335473328aa843-3",
+        "6b888b62-6d9f-4a64-8dbd-d5f744a2545b"
+      ],
+      "settings": {
+        "section_title": "Your Rights",
         "subheading": "",
         "section_contrast": false
       }
@@ -78,6 +188,7 @@
   },
   "order": [
     "rich-text",
-    "1659330320cdd53d1a"
+    "1659330320cdd53d1a",
+    "1659335473e4e76dc6"
   ]
 }
