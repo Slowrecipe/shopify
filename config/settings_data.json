@@ -156,6 +156,7 @@
         "blocks": {
           "popup-0": {
             "type": "heading",
+            "disabled": true,
             "settings": {
               "title": "Newsletter signup",
               "subheading": ""
@@ -163,6 +164,7 @@
           },
           "5509dd42-b8ec-45ac-854f-3df25621abff": {
             "type": "newsletter_signup",
+            "disabled": true,
             "settings": {
             }
           }
