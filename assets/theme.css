@@ -7624,8 +7624,9 @@ p + .account__cta-wrap{
 }
 .rich-text__subheading {
   width: 100%!important;
+}
+.rich-text__subheading {
   word-break: normal;
-/*   margin: 0 auto!important; */
 }
 @media (min-width: 45em){
 .rich-text__heading + .rich-text__subheading,
