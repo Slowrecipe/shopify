@@ -2621,7 +2621,7 @@ img.brand_logo {
   margin-bottom: 10px!important;
 }
 .ft_box {
-  margin-bottom: 30px;
+  margin: 0 0 30px 0!important;
 }
 @media (min-width: 45em){
   .rte--page .accordion, .rte--article .accordion{
