@@ -1,1 +1,82 @@
-{"sections":{"rich-text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{}},"text":{"type":"text","settings":{}},"button":{"type":"button","settings":{}}},"block_order":["heading","text","button"],"settings":{}},"questions":{"type":"questions","blocks":{"question-1":{"type":"question","settings":{}},"question-2":{"type":"question","settings":{}},"question-3":{"type":"question","settings":{}},"question-4":{"type":"question","settings":{}},"question-5":{"type":"question","settings":{}},"question-6":{"type":"question","settings":{}},"question-7":{"type":"question","settings":{}}},"block_order":["question-1","question-2","question-3","question-4","question-5","question-6","question-7"],"settings":{}}},"order":["rich-text","questions"]}
+{
+  "sections": {
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "FAQ",
+            "text_max_width": 42
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "subheading": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_max_width": 42
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "Read more"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "section_contrast": false
+      }
+    },
+    "questions": {
+      "type": "questions",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "When will you send my order?",
+            "answer": "<p>We usually ship out orders within 1~5 business days after payment clear.<br\/>During the special events the ship out time can be delayed as the number of orders increases, and we will put a notice to make sure to avoid any misunderstanding.<\/p>",
+            "author": ""
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Is this a genuine item?",
+            "answer": "<p>Sure, we only sell 100% genuine and new items in our store.<br\/>We receive products directly from the manufacturer or the official retailers. There is no need to be concerned about the product's authenticity.<\/p>",
+            "author": ""
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "title": "How can I contact to Slowrecipe?",
+            "answer": "<p>There is a 'contact us' button on the bottom of page, just click the button. Then, you will be able to send an email directly to slowrecipe.<\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2",
+        "question-3"
+      ],
+      "settings": {
+        "section_title": "Questions",
+        "subheading": "",
+        "section_contrast": false
+      }
+    }
+  },
+  "order": [
+    "rich-text",
+    "questions"
+  ]
+}
