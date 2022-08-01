@@ -7622,7 +7622,7 @@ p + .account__cta-wrap{
 .rich-text__button-wrapper + .rich-text__subheading{
   margin-top:var(--spacing-small)
 }
-.rich-text__subheading {
+.rich-text__subheading p {
   margin: 0 auto!important; 
 }
 @media (min-width: 45em){
