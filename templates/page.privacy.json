@@ -30,7 +30,7 @@
     "1659337475e36d059b": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div style=\"margin-top:0!important; text-align:center\">This Privacy Policy describes how www.slowrecipe.com (slowrecipe.myshopify.com) collects, uses, and discloses your Personal Information when you visit or make a purchase from the Site.\n\n(Last Updated : Jan. 25. 2021)<\/div>"
+        "custom_liquid": "<div style=\"margin-top:-25px!important; text-align:center\">This Privacy Policy describes how www.slowrecipe.com (slowrecipe.myshopify.com) collects, uses, and discloses your Personal Information when you visit or make a purchase from the Site.\n\n(Last Updated : Jan. 25. 2021)<\/div>"
       }
     },
     "1659330320cdd53d1a": {
