@@ -3,7 +3,7 @@ https://flickity.metafizzy.co
 ---------------------------------------------- */
 /* 푸터 */
 .ft_title {
-  font-size: 17px;
+  font-size: 17px!important;
 }
 
 /* 상세페이지 */
