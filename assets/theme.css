@@ -12772,8 +12772,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   right:0;
   bottom:0;
   left:0;
-/*   z-index:var(--z-index-modal); */
-  z-index: 999999;
+  z-index:var(--z-index-modal);;
 }
 .drawer-menu .quick-search__header,
   .drawer-menu .quick-search__result-subheading{
