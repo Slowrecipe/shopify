@@ -12772,7 +12772,8 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   right:0;
   bottom:0;
   left:0;
-  z-index:var(--z-index-modal);
+/*   z-index:var(--z-index-modal); */
+  z-index: 9999999;
 }
 .drawer-menu .quick-search__header,
   .drawer-menu .quick-search__result-subheading{
@@ -12815,7 +12816,6 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
       }
 .drawer-menu.active{
   display:block;
-  z-index: 9999999;
 }
 .drawer-menu.visible .drawer-menu__overlay{
   opacity:0.9;
