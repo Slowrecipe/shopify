@@ -12818,10 +12818,11 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
 }
 .drawer-menu.visible .drawer-menu__overlay{
   opacity:0.9;
-  z-index:200;
+  z-index: 200;
   }
 .drawer-menu.visible .drawer-menu__panel{
     transform:translateX(0);
+    z-index: 190;
   }
 .drawer-menu__overlay{
   background-color:var(--color-overlay);
