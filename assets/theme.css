@@ -12815,14 +12815,13 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
       }
 .drawer-menu.active{
   display:block;
+  z-index: 9999999;
 }
 .drawer-menu.visible .drawer-menu__overlay{
   opacity:0.9;
-  z-index: 8888888;
   }
 .drawer-menu.visible .drawer-menu__panel{
     transform:translateX(0);
-    z-index: 9999999;
   }
 .drawer-menu__overlay{
   background-color:var(--color-overlay);
