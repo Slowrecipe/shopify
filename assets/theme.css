@@ -133,6 +133,7 @@ input[name="tab_item"] {
 }
 /* 복사 버튼 */
 #clip-btn {
+  display: none;
   position: fixed;
   right: 25px;
   bottom: 45px;
