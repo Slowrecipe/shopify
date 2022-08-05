@@ -431,6 +431,18 @@
 <script>
   window.ShopifyXR=window.ShopifyXR||function(){(ShopifyXR.q=ShopifyXR.q||[]).push(arguments)}
   ShopifyXR('addModels', {{ models }});
+  // 복사 버튼
+  function gocopy(){
+	var url = '';
+	var textarea = document.createElement("textarea");
+	document.body.appendChild(textarea);
+	url = window.document.location.href;
+	textarea.value = url;
+	textarea.select();
+	document.execCommand("copy");
+	document.body.removeChild(textarea);
+	alert("URL copied.")
+  }
 </script>
 <script src='//cdn.shopify.com/shopifycloud/shopify-xr-js/assets/v1.0/shopify-xr.en.js' defer='defer'></script>
 
