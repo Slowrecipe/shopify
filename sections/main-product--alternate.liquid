@@ -425,8 +425,6 @@
     {% render 'quick-purchase-bar' with product: product, show_share_buttons: show_share_buttons  %}
   {%- endif -%}
 </div>
-<div id="clip-btn" onclick="gocopy()"><i class="fa fa-thin fa-arrow-up-right-from-square"></i></div>
-
 {%- assign models = product.media | where: 'media_type', 'model' | json -%}
 
 <script>
@@ -765,3 +763,4 @@
     ]
   }
 {% endschema %}
+<div id="clip-btn" onclick="gocopy()"><i class="fa fa-thin fa-arrow-up-right-from-square"></i></div>
