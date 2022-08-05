@@ -134,7 +134,6 @@ input[name="tab_item"] {
 /* 복사 버튼 */
 #clip-btn {
   position: fixed;
-  display: none;
   right: 25px;
   bottom: 45px;
   width: 40px;
