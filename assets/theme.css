@@ -135,7 +135,7 @@ input[name="tab_item"] {
 #clip-btn {
   position: fixed;
   display: none;
-  right: 20px;
+  right: 25px;
   bottom: 105px;
   width: 40px;
   height: 40px;
