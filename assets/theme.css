@@ -147,7 +147,7 @@ input[name="tab_item"] {
   line-height: 40px;
   cursor: pointer;
   transition: all 0.25s ease-in-out;
-  z-index: 9999;
+  z-index: 99;
 }
 #clip-btn:hover {
   background: rgba(0,0,0,0.7);
