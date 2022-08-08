@@ -8,12 +8,12 @@ https://flickity.metafizzy.co
 }
 @media screen and (max-width:1023px) {
   .track__page__rte {
-    height: 950px!important;
+    height: 900px!important;
   }
 }
 @media screen and (max-width:720px) {
   .track__page__rte {
-    height: 850px!important;
+    height: 750px!important;
   }
 }
 
