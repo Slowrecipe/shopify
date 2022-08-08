@@ -1,6 +1,11 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
+.track__page__rte {
+  height: 500px;
+  
+}
+
 /* 상세페이지 */
 img.brand_logo {
   display: inline!important;
