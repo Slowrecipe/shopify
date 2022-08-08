@@ -1,8 +1,20 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-.track__page__rte {
-  height: 1250px;
+@media screen and (min-width:1024px) {
+  .track__page__rte {
+    height: 1050px!important;
+  }
+}
+@media screen and (max-width:1023px) {
+  .track__page__rte {
+    height: 750px!important;
+  }
+}
+@media screen and (max-width:720px) {
+  .track__page__rte {
+    height: 650px!important;
+  }
 }
 
 /* 상세페이지 */
