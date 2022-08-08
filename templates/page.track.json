@@ -193,14 +193,14 @@
         "1659920992a3dc5345-0": {
           "type": "heading",
           "settings": {
-            "title": "Contact Us",
+            "title": "Track Your Order",
             "text_max_width": 42
           }
         },
         "1659920992a3dc5345-1": {
           "type": "text",
           "settings": {
-            "subheading": "<p><strong>Customer Service<\/strong><\/p><p>▪️ Call : Monday-Friday 9 AM - 5 PM KST<\/p><p>▪️ Email : Monday-Friday 9 AM - 5 PM KST<\/p><p>▪️ 21F, Hanjin NEW Building 63, Namdaemun-ro, Jung-gu, Seoul, Korea<\/p><p>▪️ TEL : +82-2-728-5803<\/p><p><\/p><p><strong>For Customer Service Inquiries<\/strong><\/p><p><a href=\"mailto:help@slowrecipe.com\" target=\"_blank\">help@slowrecipe.com<\/a><\/p><p><\/p><p><strong>For Marketing & Business Inquiries<\/strong><\/p><p><a href=\"mailto:business@slowrecipe.com\" target=\"_blank\">business@slowrecipe.com<\/a><\/p>",
+            "subheading": "<p>Please check your Tracking Number on \"My Account\" tab.<\/p>",
             "text_max_width": 42
           }
         }
@@ -212,6 +212,12 @@
       "settings": {
         "section_contrast": false
       }
+    },
+    "165993369705164267": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"page__inner track__page__inner\">\n<div class=\"page__rte track__page__rte ff-body rte rte--page\"><iframe src=\"https:\/\/www.hanjin.co.kr\/eng\/CMS\/DeliveryMgr\/WaybillSch.do?mCode=MN034\"><\/iframe><\/div>\n<\/div>"
+      }
     }
   },
   "order": [
@@ -220,6 +226,7 @@
     "1650513576ec74f37f",
     "1650513629bed248e0",
     "1650513968411b9e3b",
-    "16599209922286870e"
+    "16599209922286870e",
+    "165993369705164267"
   ]
 }
