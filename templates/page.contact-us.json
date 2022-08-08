@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "content_max_width": 700
       }
@@ -185,6 +186,32 @@
         "image_shape": "round",
         "section_contrast": false
       }
+    },
+    "16599209922286870e": {
+      "type": "rich-text",
+      "blocks": {
+        "1659920992a3dc5345-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Contact Us",
+            "text_max_width": 42
+          }
+        },
+        "1659920992a3dc5345-1": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p><strong>Customer Service<\/strong><\/p><p>▪️ Call : Monday-Friday 9 AM - 5 PM KST<\/p><p>▪️ Email : Monday-Friday 9 AM - 5 PM KST<\/p><p>▪️ 21F, Hanjin NEW Building 63, Namdaemun-ro, Jung-gu, Seoul, Korea<\/p><p>▪️ TEL : +82-2-728-5803<\/p><p><\/p><p><strong>For Customer Service Inquiries<\/strong><\/p><p><a href=\"mailto:help@slowrecipe.com\" target=\"_blank\">help@slowrecipe.com<\/a><\/p><p><\/p><p><strong>For Marketing & Business Inquiries<\/strong><\/p><p><a href=\"mailto:business@slowrecipe.com\" target=\"_blank\">business@slowrecipe.com<\/a><\/p>",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "1659920992a3dc5345-0",
+        "1659920992a3dc5345-1"
+      ],
+      "settings": {
+        "section_contrast": false
+      }
     }
   },
   "order": [
@@ -192,6 +219,7 @@
     "1650504951004561ae",
     "1650513576ec74f37f",
     "1650513629bed248e0",
-    "1650513968411b9e3b"
+    "1650513968411b9e3b",
+    "16599209922286870e"
   ]
 }
