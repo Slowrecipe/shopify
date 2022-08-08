@@ -106,7 +106,7 @@ input[name="tab_item"] {
 
 /* iframe 크기 유동적으로 변경 */
 @media screen and (min-width:1024px) {
-  .rte__iframe {
+  iframe {
     height: 1050px!important;
   }
 }
