@@ -117,17 +117,17 @@ input[name="tab_item"] {
 
 /* iframe 크기 유동적으로 변경 */
 @media screen and (min-width:1024px) {
-  iframe {
+  .track__page__rte iframe {
     height: 1050px!important;
   }
 }
 @media screen and (max-width:1023px) {
-  iframe {
+  .track__page__rte iframe {
     height: 750px!important;
   }
 }
 @media screen and (max-width:720px) {
-  iframe {
+  .track__page__rte iframe {
     height: 650px!important;
   }
 }
