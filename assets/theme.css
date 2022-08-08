@@ -110,17 +110,17 @@ input[name="tab_item"] {
   }
 }
 @media screen and (max-width:1023px) {
-  .rte__iframe {
+  iframe {
     height: 750px!important;
   }
 }
 @media screen and (max-width:720px) {
-  .rte__iframe {
+  iframe {
     height: 650px!important;
   }
 }
 /* iframe border */
-.rte__iframe iframe {
+iframe {
   border: 1px solid #aaaaaa;
 }
 
