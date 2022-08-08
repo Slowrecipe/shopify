@@ -3,17 +3,17 @@ https://flickity.metafizzy.co
 ---------------------------------------------- */
 @media screen and (min-width:1024px) {
   .track__page__rte {
-    height: 1050px!important;
+    height: 1250px!important;
   }
 }
 @media screen and (max-width:1023px) {
   .track__page__rte {
-    height: 750px!important;
+    height: 950px!important;
   }
 }
 @media screen and (max-width:720px) {
   .track__page__rte {
-    height: 650px!important;
+    height: 850px!important;
   }
 }
 
