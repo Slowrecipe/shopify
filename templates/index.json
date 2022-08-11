@@ -344,6 +344,13 @@
             "image": "shopify:\/\/shop_images\/84a136848e05575d3beb6b84ce97a22b.png",
             "link": "shopify:\/\/collections\/remetome"
           }
+        },
+        "d6a481bf-4a14-4c29-88c5-9e61a4b875dd": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/b55ebd09e9cb2bd4d35bd250515f0928.png",
+            "link": "shopify:\/\/collections\/harrynmari"
+          }
         }
       },
       "block_order": [
@@ -360,7 +367,8 @@
         "0303dd50-5720-4ce5-ab31-3c658c761e62",
         "fc1914f9-9c30-4c36-a8db-1f8e2d771cca",
         "c66e12cd-460d-40f2-9023-d915aa4ea1cc",
-        "18ff4c84-398b-477d-874d-4175b7fc9e5a"
+        "18ff4c84-398b-477d-874d-4175b7fc9e5a",
+        "d6a481bf-4a14-4c29-88c5-9e61a4b875dd"
       ],
       "settings": {
         "columns": 5,
