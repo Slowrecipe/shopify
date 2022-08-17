@@ -229,10 +229,10 @@ iframe {
     height: 35px!important;
   }
   .icon-button__icon::before { /* 마우스 오버 */
-/*     position: absolute!important;
+    position: absolute!important;
     top: -10px!important;
     width: 50px!important;
-    height: 50px!important; */
+    height: 50px!important;
   }
   .header__left .icon-button__icon::before { /* 트리거 마우스 오버 */
     top: -12px!important;
