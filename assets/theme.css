@@ -228,10 +228,6 @@ iframe {
     width: 35px!important;
     height: 35px!important;
   }
-  .addresses__modal popover {
-    position: 0!important;
-    top:0!important;
-  }
   .icon-button__icon::before { /* 마우스 오버 */
     position: absolute!important;
     top: -10px!important;
@@ -243,6 +239,10 @@ iframe {
   }
   .drawer-menu__close-wrapper .icon-button__icon::before { /* 닫기 마우스 오버 */
     top: 2px!important;
+  }
+  .addresses__modal .icon-button__icon::before {
+    position: 0!important;
+    top:0!important;
   }
   .header__logo-text { /* 로고 */
     position: relative!important;
