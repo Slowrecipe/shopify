@@ -716,6 +716,7 @@
         },
         "39f9515a-bbbb-4984-8395-56ee84186b1a": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/2022-03-23_3.51.22.png",
             "focal_point": "center_center",
