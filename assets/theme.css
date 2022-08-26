@@ -289,7 +289,7 @@ iframe {
   .drawer-menu__close-wrapper .icon-button__icon::before { /* 닫기 마우스 오버 */
     top: 2px!important;
   }
-  .addresses__modal .icon-button__icon::before { /* 주소 입력 닫기 마우스 오버 */
+  .addresses__modal .icon-button__icon::before, .quick-cart__close .icon-button__icon::before { /* 주소 입력 닫기, 카트 닫기 마우스 오버 */
     position: 0!important;
     top:2px!important;
   }
@@ -337,7 +337,7 @@ iframe {
   .drawer-menu__close-wrapper .icon-button__icon::before { /* 닫기 마우스 오버 */
     top: 2px!important;
   }
-  .addresses__modal .icon-button__icon::before { /* 주소 입력 닫기 마우스 오버 */
+  .addresses__modal .icon-button__icon::before, .quick-cart__close .icon-button__icon::before { /* 주소 입력 닫기, 카트 닫기 마우스 오버 */
     position: 0!important;
     top:2px!important;
 }
