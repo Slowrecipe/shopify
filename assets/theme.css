@@ -240,10 +240,11 @@ iframe {
   .drawer-menu__close-wrapper .icon-button__icon::before { /* 닫기 마우스 오버 */
     top: 2px!important;
   }
-  .addresses__modal .icon-button__icon::before { /* 주소 입력 닫기 마우스 오버 */
+  .addresses__modal .icon-button__icon::before, .quick-cart__close .icon-button__icon::before { /* 주소 입력 닫기, 카드 닫기 마우스 오버 */
     position: 0!important;
     top:2px!important;
   }
+  .quick-cart__close 
   .header__logo-text { /* 로고 */
     position: relative!important;
     top: -17.3px!important;
