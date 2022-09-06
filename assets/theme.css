@@ -340,7 +340,11 @@ iframe {
     position: 0!important;
     top:2px!important;
 }
-  .quick-search__close .icon-button { background: red; }
+  .quick-search__close .icon-button {
+    background: red;
+    left: 30px;
+    top: 30px;
+  }
   .header__logo-text { /* 로고 */
     position: relative!important;
     top: -15px!important;
