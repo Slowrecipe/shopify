@@ -14573,7 +14573,7 @@ a.link:hover{
     padding: var(--spacing-small) var(--space-outer);
   }
 }
-.drawer-menu__item .drawer-menu__search-parent {
+.drawer-menu__item .drawer-menu__search-parent > a.drawer-menu__link {
   display: none!important;
 }
 }
