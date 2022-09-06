@@ -3482,7 +3482,6 @@ body.header-sticky .header__outer-wrapper{
 .header__icon-touch.header__icon-touch--search {
   display: block;
   width: 10px;
-  height: 10px;
 }
     }
 .header__icon-touch + .header__icon-touch{
