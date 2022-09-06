@@ -68,18 +68,7 @@
                 {% render 'drawer-menu-list', links: links, emphasized: true %}
               {%- endif -%}
 
-              <li class="drawer-menu__item drawer-menu__search-parent" data-list-item>
-                <a
-                  class="drawer-menu__link fs-body-base fs-body-large-ns"
-                  href="#"
-                  data-item="parent"
-                  aria-haspopup="true"
-                  aria-expanded="false"
-                >
-                  {{ 'sections.drawer_menu.search_title' | t }}
-                  {% render 'icon' with icon: 'arrow-stroke', class: 'menu-icon' %}
-                </a>
-                <ul class="drawer-menu__list drawer-menu__list--sub" data-search-menu aria-hidden="true">
+              <ul class="drawer-menu__list drawer-menu__list--sub" data-search-menu aria-hidden="true">
                   <li class="drawer-menu__item drawer-menu__item--heading">
                     <button class="drawer-menu__link" data-item="back">
                       <span class="ff-heading fs-heading-2-base fs-heading-2-large-ns">
@@ -124,6 +113,19 @@
                     </form>
                   </li>
                 </ul>
+              
+              <li class="drawer-menu__item drawer-menu__search-parent" data-list-item>
+                <a
+                  class="drawer-menu__link fs-body-base fs-body-large-ns"
+                  href="#"
+                  data-item="parent"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  {{ 'sections.drawer_menu.search_title' | t }}
+                  {% render 'icon' with icon: 'arrow-stroke', class: 'menu-icon' %}
+                </a>
+                
               </li>
 
               {%- if account_visible -%}
