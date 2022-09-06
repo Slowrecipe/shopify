@@ -14574,6 +14574,6 @@ a.link:hover{
   }
 }
 .drawer-menu__item .drawer-menu__search-parent {
-  background:red;
+  display: none!important;
 }
 }
