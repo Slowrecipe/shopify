@@ -292,6 +292,10 @@ iframe {
     position: 0!important;
     top:2px!important;
   }
+  .quick-search__close .icon-button {
+    left: 20px!important;
+    top: -20px!important;
+  }
   .header__logo-text { /* 로고 */
     position: relative!important;
     top: -17.3px!important;
@@ -341,7 +345,6 @@ iframe {
     top:0!important;
 }
   .quick-search__close .icon-button {
-/*     background: red; */
     left: 20px!important;
     top: -20px!important;
   }
