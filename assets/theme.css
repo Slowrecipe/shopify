@@ -14574,7 +14574,7 @@ a.link:hover{
   }
 }
 @media (max-width: 45em){
-  .drawer-menu__item .drawer-menu__search-parent > a.drawer-menu__link {
+  .drawer-menu__item > a.drawer-menu__link {
     display: none!important;
   }
 }
