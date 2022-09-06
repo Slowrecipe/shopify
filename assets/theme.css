@@ -3477,8 +3477,11 @@ body.header-sticky .header__outer-wrapper{
 @media (max-width: 45em){
 .header__icon-touch.header__icon-touch--search,
   .header__icon-touch.header__icon-touch--account{
-      display:block;
+      display:none;
   }
+.header__icon-touch.header__icon-touch--search {
+  display: block;
+}
     }
 .header__icon-touch + .header__icon-touch{
     margin-left:var(--spacing-unit);
