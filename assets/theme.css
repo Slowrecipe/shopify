@@ -14573,9 +14573,8 @@ a.link:hover{
     padding: var(--spacing-small) var(--space-outer);
   }
 }
-@media (max-width: 45em){
-  .drawer-menu__search-parent > a.drawer-menu__link {
-    display: none!important;
-  }
+
+.drawer-menu__search-parent > a.drawer-menu__link {
+  display: none!important;
 }
 }
