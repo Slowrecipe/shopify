@@ -342,7 +342,7 @@ iframe {
 }
   .quick-search__close .icon-button {
     background: red;
-    left: 30px;
+    left: -30px!important;
     top: 30px;
   }
   .header__logo-text { /* 로고 */
