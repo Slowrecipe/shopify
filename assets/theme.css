@@ -341,7 +341,7 @@ iframe {
     top:0!important;
 }
   .quick-search__close .icon-button {
-    background: red;
+/*     background: red; */
     left: 0px!important;
     top: -30px!important;
   }
