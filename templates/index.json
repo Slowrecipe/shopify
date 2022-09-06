@@ -509,6 +509,7 @@
       "blocks": {
         "slide-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/cm_sub_brandstory_top_banner_img_2.jpg",
             "focal_point": "center_center",
