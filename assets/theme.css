@@ -14575,7 +14575,7 @@ a.link:hover{
   }
 }
 
-.drawer-menu__item .drawer-menu__search-parent + a {
+.drawer-menu__item .drawer-menu__search-parent {
     display: none!important;
   }
 }
