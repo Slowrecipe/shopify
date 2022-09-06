@@ -12919,6 +12919,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   }
   .drawer-menu__link:nth-child(13) {
     background: red!important;
+    width: 100%;
   }
     }
 .drawer-menu__close-icon .icon-button .icon{
