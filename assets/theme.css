@@ -13142,9 +13142,6 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   pointer-events:all;
   border:1px solid var(--color-border-popover)
 }
-.drawer-menu__link:nth-child(13) {
-  
-}
 .drawer-menu__search-input.active{
     border-color:var(--color-text-popover);
     box-shadow:0 0 0 1px var(--color-text-popover);
