@@ -4145,7 +4145,7 @@ html:not(.no-js) body.template-index .header--transparent-home:not(.is-sticky).h
   }
 .cart__form-header-quantity{
   margin-left:auto;
-  width:10px;
+  width:100px;
   text-align:center;
 }
 .cart__form-header-total{
