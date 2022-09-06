@@ -294,8 +294,8 @@ iframe {
   }
   .quick-search__close .icon-button {
     background: red;
-    left: -50px!important;
-    top: 50px!important;
+    left: 100px!important;
+    top: 100px!important;
   }
   .header__logo-text { /* 로고 */
     position: relative!important;
