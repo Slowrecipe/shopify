@@ -12918,7 +12918,7 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
       transform:translate(8px, 30px)
   }
   .drawer-menu__item:nth-child(6) .drawer-menu__link:nth-child(1) {
-    display: none!important;
+    background: red;
   }
     }
 .drawer-menu__close-icon .icon-button .icon{
