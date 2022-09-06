@@ -14569,10 +14569,6 @@ a.link:hover{
   max-width:var(--max-width-narrow);
 }
 
-.drawer-menu__item .drawer-menu__search-parent + a {
-    display: none!important;
-  }
-
 @media (width: 720px) {
   .header {
     padding: var(--spacing-small) var(--space-outer);
