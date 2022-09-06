@@ -344,6 +344,13 @@
             "image": "shopify:\/\/shop_images\/b55ebd09e9cb2bd4d35bd250515f0928.png",
             "link": "shopify:\/\/collections\/harrynmari"
           }
+        },
+        "258d2005-7494-42a3-95a7-0de249769c6f": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/392a988241963c2a7c3199d4b211a457.png",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -360,7 +367,8 @@
         "fc1914f9-9c30-4c36-a8db-1f8e2d771cca",
         "c66e12cd-460d-40f2-9023-d915aa4ea1cc",
         "18ff4c84-398b-477d-874d-4175b7fc9e5a",
-        "d6a481bf-4a14-4c29-88c5-9e61a4b875dd"
+        "d6a481bf-4a14-4c29-88c5-9e61a4b875dd",
+        "258d2005-7494-42a3-95a7-0de249769c6f"
       ],
       "settings": {
         "columns": 5,
@@ -509,7 +517,6 @@
       "blocks": {
         "slide-1": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/cm_sub_brandstory_top_banner_img_2.jpg",
             "focal_point": "center_center",
