@@ -13118,9 +13118,6 @@ html:not(.no-js) .navigation__submenu-trigger[aria-expanded='true'] .icon{
   color:inherit;
   border:none;
 }
-.drawer-menu__link:nth-child(13) {
-  display:none!important;
-}
 .drawer-menu__link span{
     text-overflow:ellipsis;
     overflow-x:hidden;
