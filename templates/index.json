@@ -351,6 +351,13 @@
             "image": "shopify:\/\/shop_images\/392a988241963c2a7c3199d4b211a457.png",
             "link": "shopify:\/\/collections\/yeonji"
           }
+        },
+        "36b8b425-b237-4f97-a46f-f8104c9c82c3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_G.png",
+            "link": "shopify:\/\/collections\/1o7"
+          }
         }
       },
       "block_order": [
@@ -368,7 +375,8 @@
         "c66e12cd-460d-40f2-9023-d915aa4ea1cc",
         "18ff4c84-398b-477d-874d-4175b7fc9e5a",
         "d6a481bf-4a14-4c29-88c5-9e61a4b875dd",
-        "258d2005-7494-42a3-95a7-0de249769c6f"
+        "258d2005-7494-42a3-95a7-0de249769c6f",
+        "36b8b425-b237-4f97-a46f-f8104c9c82c3"
       ],
       "settings": {
         "columns": 5,
