@@ -379,8 +379,8 @@
         "36b8b425-b237-4f97-a46f-f8104c9c82c3"
       ],
       "settings": {
-        "columns": 5,
-        "gutter_spacing": 55,
+        "columns": 6,
+        "gutter_spacing": 35,
         "title": "Our brand",
         "section_contrast": false
       }
