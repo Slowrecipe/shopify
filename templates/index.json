@@ -334,7 +334,7 @@
         "18ff4c84-398b-477d-874d-4175b7fc9e5a": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/84a136848e05575d3beb6b84ce97a22b_d36525cb-564a-426c-b041-70386365a606.png",
+            "image": "shopify:\/\/shop_images\/4_43f3235e-58d8-4b02-bd86-66de5663c37d.png",
             "link": "shopify:\/\/collections\/remetome"
           }
         },
@@ -355,15 +355,8 @@
         "36b8b425-b237-4f97-a46f-f8104c9c82c3": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/11_56693736-daa2-4998-8961-b6a5fc5b1eac.png",
+            "image": "shopify:\/\/shop_images\/5_ce2df3eb-75c8-417e-aabd-b3d63f7a9b02.png",
             "link": "shopify:\/\/collections\/1o7"
-          }
-        },
-        "a5eaa160-c5bc-414c-aec9-ee1f03795e43": {
-          "type": "logo",
-          "disabled": true,
-          "settings": {
-            "link": ""
           }
         }
       },
@@ -383,8 +376,7 @@
         "18ff4c84-398b-477d-874d-4175b7fc9e5a",
         "d6a481bf-4a14-4c29-88c5-9e61a4b875dd",
         "258d2005-7494-42a3-95a7-0de249769c6f",
-        "36b8b425-b237-4f97-a46f-f8104c9c82c3",
-        "a5eaa160-c5bc-414c-aec9-ee1f03795e43"
+        "36b8b425-b237-4f97-a46f-f8104c9c82c3"
       ],
       "settings": {
         "columns": 5,
