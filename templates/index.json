@@ -29,8 +29,8 @@
             "alignment": "center_center",
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_overlay": "#000",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         },
@@ -139,7 +139,7 @@
       "type": "featured-collection",
       "settings": {
         "collection": "whats-new",
-        "columns": 3,
+        "columns": 4,
         "title": "What's New",
         "subheading": "",
         "link_text": "",
