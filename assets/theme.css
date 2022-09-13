@@ -14582,6 +14582,7 @@ a.link:hover{
 }
 
 .one_video {
+  display: inline!important;
   width: 100%!important;
 }
 }
