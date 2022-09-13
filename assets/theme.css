@@ -14584,7 +14584,7 @@ a.link:hover{
 .collection__header {
   position: relative!important;
 }
-.collection__header  {
+.collection__header .one_video {
   position: absolute!important;
 }
 
