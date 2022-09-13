@@ -14580,9 +14580,5 @@ a.link:hover{
 .drawer-menu__search-parent > a.drawer-menu__link {
   display: none!important;
 }
-.collection__header .one_video {
-  position: relative!important;
-  width: 100%;
-}
 
 }
