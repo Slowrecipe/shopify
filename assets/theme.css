@@ -20,7 +20,6 @@ https://flickity.metafizzy.co
 /* 상세페이지 */
 img.brand_logo {
   display: inline!important;
-  width: 10px!important;
 }
 .brand_home {
   width: 130px;
@@ -2581,7 +2580,7 @@ textarea.spr-form-input{
   margin: 0!important;
 }
 img.brand_logo {
-  width: 150px!important;
+  width: 100px!important;
   margin: 0!important;
 }
 .rte strong,
