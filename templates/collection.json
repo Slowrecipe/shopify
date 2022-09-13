@@ -3,7 +3,7 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_image": true,
+        "show_collection_image": false,
         "collection_image_aspect_ratio": "natural",
         "show_collection_description": true,
         "text_max_width": 35
