@@ -14583,6 +14583,7 @@ a.link:hover{
 
 .collection__header {
   position: relative!important;
+  width: 1000px;
 }
 .collection__header .one_video {
   position: relative!important;
