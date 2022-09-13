@@ -14586,6 +14586,7 @@ a.link:hover{
 }
 .collection__header .one_video {
   position: relative!important;
+  width: 100%;
 }
 
 }
