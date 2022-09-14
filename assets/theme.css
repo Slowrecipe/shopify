@@ -325,7 +325,7 @@ iframe {
   }
   .header__right .icon-button__icon .icon { /* 오른쪽 아이콘 */
     position: relative!important;
-    right: -20px!important;
+    right: -10px!important;
     top: -15px!important;
     width: 28px!important;
     height: 28px!important;
@@ -338,7 +338,7 @@ iframe {
     height: 50px!important;
   }
   .header__left .icon-button__icon::before { /* 트리거 마우스 오버 */
-    left: -10px!important;
+    left: -20px!important;
     top: -12px!important;
   }
   .drawer-menu__close-wrapper .icon-button__icon::before { /* 닫기 마우스 오버 */
