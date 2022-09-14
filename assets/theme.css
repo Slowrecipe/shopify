@@ -325,14 +325,14 @@ iframe {
   }
   .header__right .icon-button__icon .icon { /* 오른쪽 아이콘 */
     position: relative!important;
-    right: -10px!important;
+    right: -20px!important;
     top: -15px!important;
     width: 28px!important;
     height: 28px!important;
   }
   .icon-button__icon::before { /* 마우스 오버 */
     position: absolute!important;
-    right: -10px!important;
+    right: -20px!important;
     top: -12px!important;
     width: 50px!important;
     height: 50px!important;
