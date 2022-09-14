@@ -318,6 +318,7 @@ iframe {
     height: 100%!important;
   }
   .header__left .icon-button__icon .icon { /* 왼쪽 아이콘 */
+    left: 120px;
     top: -15px!important;
     width: 30px!important;
     height: 30px!important;
@@ -345,7 +346,7 @@ iframe {
     top:3px!important;
 }
   .quick-search__close .icon-button {
-    left: 120px!important;
+    left: 20px!important;
     top: -20px!important;
   }
   .header__logo-text { /* 로고 */
