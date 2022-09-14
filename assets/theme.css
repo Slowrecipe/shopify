@@ -357,7 +357,7 @@ iframe {
   }
   .header__cart-count { /* 장바구니 숫자 */
     top: 3px!important;
-    right: 13px!important;
+    right: -7px!important;
     width: 15px!important;
     height: 15px!important;
     font-size: 8px!important;
