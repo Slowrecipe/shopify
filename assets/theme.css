@@ -332,13 +332,13 @@ iframe {
   }
   .icon-button__icon::before { /* 마우스 오버 */
     position: absolute!important;
-    left: -20px!important;
+    right: 0!important;
     top: -12px!important;
     width: 50px!important;
     height: 50px!important;
   }
   .header__left .icon-button__icon::before { /* 트리거 마우스 오버 */
-    right: -20px!important;
+    left: 0!important;
     top: -12px!important;
   }
   .drawer-menu__close-wrapper .icon-button__icon::before { /* 닫기 마우스 오버 */
