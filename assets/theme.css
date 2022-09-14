@@ -338,6 +338,7 @@ iframe {
     height: 50px!important;
   }
   .header__left .icon-button__icon::before { /* 트리거 마우스 오버 */
+    position: absolute!important;
     left: -5px!important;
     top: -12px!important;
   }
