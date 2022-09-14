@@ -220,6 +220,7 @@ iframe {
   .header__right .icon-button__icon .icon { /* 왼쪽 아이콘 */
     position: relative!important;
     top: -13px!important;
+    left: 100px!important;
     width: 25px!important;
     height: 25px!important;
   }
