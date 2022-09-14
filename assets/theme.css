@@ -318,7 +318,7 @@ iframe {
     height: 100%!important;
   }
   .header__left .icon-button__icon .icon { /* 왼쪽 아이콘 */
-    left: 120px;
+    left: -20px!important;
     top: -15px!important;
     width: 30px!important;
     height: 30px!important;
