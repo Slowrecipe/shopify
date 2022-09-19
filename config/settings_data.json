@@ -91,9 +91,10 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo_max_width": 220,
+          "logo": "shopify:\/\/shop_images\/sr_logo__1_e9b7e2b7-6c09-4afa-a5fc-1eb5669345a7.png",
+          "logo_max_width": 210,
           "menu": "main-menu",
-          "secondary_menu": "about-us",
+          "secondary_menu": "",
           "style": "icon",
           "navigation_position": "below",
           "logo_position": "center",
