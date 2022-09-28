@@ -365,6 +365,13 @@
             "image": "shopify:\/\/shop_images\/toplogo.png",
             "link": "shopify:\/\/collections\/project-1907"
           }
+        },
+        "4541183f-d338-42a6-92cd-175b9a534b0d": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_211228_2.png",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -384,7 +391,8 @@
         "d6a481bf-4a14-4c29-88c5-9e61a4b875dd",
         "258d2005-7494-42a3-95a7-0de249769c6f",
         "36b8b425-b237-4f97-a46f-f8104c9c82c3",
-        "77bdad6d-0169-4649-9f4e-2f6fd0bfcee4"
+        "77bdad6d-0169-4649-9f4e-2f6fd0bfcee4",
+        "4541183f-d338-42a6-92cd-175b9a534b0d"
       ],
       "settings": {
         "columns": 6,
