@@ -341,7 +341,7 @@
                   </div>
                 </div>
             {%- when 'buy_buttons' -%}
-
+              <button class="buy_button">Amazon</button>
               {%- unless has_quantity_selector -%}
                 <div class="product__quantity-error product__block product__block--medium hidden" data-quantity-error>
                   {{ 'products.product.quantity_error' | t }}
@@ -426,8 +426,6 @@
 </div>
 <div id="clip-btn" onclick="gocopy()"><i class="fa fa-light fa-paperclip"></i></div>
 {%- assign models = product.media | where: 'media_type', 'model' | json -%}
-
-<button class="buy_button">Amazon</button>
 
 <script>
   window.ShopifyXR=window.ShopifyXR||function(){(ShopifyXR.q=ShopifyXR.q||[]).push(arguments)}
