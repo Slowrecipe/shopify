@@ -41,6 +41,7 @@
     data-social-share
     aria-haspopup="true"
   >
+  <div class="buy_button">Amazon</div>
     <span class="product__share-text fs-body-small fs-body-bold">
       {%- render 'icon' with icon: 'social-share' -%}
       {{ 'general.social.share' | t }}
@@ -340,7 +341,6 @@
                     >
                   </div>
                 </div>
-            <div class="buy_button">Amazon</div>
             {%- when 'buy_buttons' -%}
 
               {%- unless has_quantity_selector -%}
