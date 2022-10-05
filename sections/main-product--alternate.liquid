@@ -302,7 +302,6 @@
                   >
                     {% render 'icon' with icon: 'plus', non_focusable: true %}
                   </button>
-                  <button class="buy_button">Amazon</button>
                 </div>
               </div>
 
@@ -341,7 +340,6 @@
                   </div>
                 </div>
             {%- when 'buy_buttons' -%}
-              <button class="buy_button">Amazon</button>
               {%- unless has_quantity_selector -%}
                 <div class="product__quantity-error product__block product__block--medium hidden" data-quantity-error>
                   {{ 'products.product.quantity_error' | t }}
