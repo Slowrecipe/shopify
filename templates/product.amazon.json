@@ -1,0 +1,154 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product--alternate",
+      "blocks": {
+        "d1f1e508-d44a-4633-9113-6732923ba28e": {
+          "type": "border",
+          "settings": {
+          }
+        },
+        "a7518583-dc06-4d1d-a437-4242d4a06d74": {
+          "type": "shopify:\/\/apps\/ryviu-aliexpress-reviews-app\/blocks\/ryviu-total\/807ad6ed-1a6a-4559-abea-ed062858d9da",
+          "settings": {
+            "show_when_no_reviews": false,
+            "show_average_rating": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "border": {
+          "type": "border",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_labels": true,
+            "variant_popup_option": "Size",
+            "variant_popup_text": "Size guide",
+            "variant_popup_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+            "show_labels": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        }
+      },
+      "block_order": [
+        "d1f1e508-d44a-4633-9113-6732923ba28e",
+        "a7518583-dc06-4d1d-a437-4242d4a06d74",
+        "title",
+        "price",
+        "border",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "enable_quick_purchase_bar": true,
+        "show_share_buttons": true,
+        "enable_product_lightbox": true,
+        "enable_video_looping": true
+      }
+    },
+    "product-footer": {
+      "type": "main-product--footer",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {
+            "style": "paragraph"
+          }
+        },
+        "payment_widget": {
+          "type": "payment_widget",
+          "settings": {
+            "icon": "payment",
+            "title": "Payment",
+            "show_payment_icons": true,
+            "text": "<p>Your payment information is processed securely. We do not store credit card details nor have access to your credit card information.<\/p>"
+          }
+        },
+        "security_widget": {
+          "type": "security_widget",
+          "settings": {
+            "icon": "security",
+            "title": "Security",
+            "text": "<p>This website is encrypted. We take your security very seriously. All transactions powered by Shopify.<\/p>"
+          }
+        },
+        "shipping_widget": {
+          "type": "shipping_widget",
+          "settings": {
+            "icon": "shipping",
+            "title": "Shipping",
+            "text": "<p>Rates are approximations. Exact rates will be provided at checkout.<\/p>",
+            "show_estimator": true
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "payment_widget",
+        "security_widget",
+        "shipping_widget"
+      ],
+      "settings": {
+      }
+    },
+    "16587911862c0936b4": {
+      "type": "apps",
+      "blocks": {
+        "11fe3578-e9e1-469b-a10f-c433ed9b8078": {
+          "type": "shopify:\/\/apps\/ryviu-aliexpress-reviews-app\/blocks\/ryviu-widget\/807ad6ed-1a6a-4559-abea-ed062858d9da",
+          "settings": {
+            "hide_when_no_reviews": true,
+            "r_wapper_class": "",
+            "r_max_width": 1920,
+            "r_padding_block": 30
+          }
+        }
+      },
+      "block_order": [
+        "11fe3578-e9e1-469b-a10f-c433ed9b8078"
+      ],
+      "settings": {
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "columns": 3,
+        "title": "Recommended",
+        "subheading": "<p>You might want to take a closer look.<\/p>",
+        "text_max_width": 42,
+        "aspect_ratio": "natural",
+        "section_contrast": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-footer",
+    "16587911862c0936b4",
+    "recommendations"
+  ]
+}
