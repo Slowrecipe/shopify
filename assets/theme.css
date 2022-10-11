@@ -345,17 +345,14 @@ iframe {
   .drawer-menu__close-wrapper .icon-button__icon::before { /* 닫기 마우스 오버 */
     top: 2px!important;
   }
-  .addresses__modal .icon-button__icon::before, .quick-cart__close .icon-button__icon::before { /* 주소 입력 닫기, 카트 닫기 마우스 오버 */
+  .addresses__modal .icon-button__icon::before, .quick-cart__close .icon-button__icon::before { /* 주소 입력 닫기, 카트 닫기, 검색 닫기 마우스 오버 */
     position: 0!important;
     top:3px!important;
-    right: -3px!important;
+    right: 2px!important;
 }
-  .quick-search__close .icon-button { /* 검색 닫기 */
+  .quick-search__close .icon-button {
     left: 20px!important;
     top: -20px!important;
-  }
-  .quick-search__close .icon-button__icon::before { /* 검색 닫기 마우스 오버 */
-    right : 2px!important;
   }
   .header__logo-text { /* 로고 */
     position: relative!important;
