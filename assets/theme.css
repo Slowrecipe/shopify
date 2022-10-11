@@ -332,7 +332,7 @@ iframe {
   }
   .icon-button__icon::before { /* 마우스 오버 */
     position: absolute!important;
-    right: -7px!important;
+    right: -12px!important;
     top: -12px!important;
     width: 50px!important;
     height: 50px!important;
