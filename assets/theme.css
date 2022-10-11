@@ -325,7 +325,7 @@ iframe {
   }
   .header__right .icon-button__icon .icon { /* 오른쪽 아이콘 */
     position: relative!important;
-    right: -10px!important;
+    right: -15px!important;
     top: -15px!important;
     width: 23px!important;
     height: 23px!important;
