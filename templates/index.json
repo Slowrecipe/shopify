@@ -372,6 +372,13 @@
             "image": "shopify:\/\/shop_images\/logo_211228_2.png",
             "link": "shopify:\/\/collections\/fruitybasket"
           }
+        },
+        "08c8fd8d-a29d-433e-8d8f-5a1400a7a75d": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_r.gif",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -392,7 +399,8 @@
         "258d2005-7494-42a3-95a7-0de249769c6f",
         "36b8b425-b237-4f97-a46f-f8104c9c82c3",
         "77bdad6d-0169-4649-9f4e-2f6fd0bfcee4",
-        "4541183f-d338-42a6-92cd-175b9a534b0d"
+        "4541183f-d338-42a6-92cd-175b9a534b0d",
+        "08c8fd8d-a29d-433e-8d8f-5a1400a7a75d"
       ],
       "settings": {
         "columns": 6,
