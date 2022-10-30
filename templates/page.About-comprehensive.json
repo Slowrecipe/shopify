@@ -437,13 +437,15 @@
         "c824217b-c861-4b78-b3cc-a55cc965669a": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "image": "shopify:\/\/shop_images\/logo_r.gif",
+            "link": "shopify:\/\/collections\/les-amis"
           }
         },
         "fc7f21da-7665-4160-aa21-ce12465bf015": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "image": "shopify:\/\/shop_images\/968b4927bd8a7.png",
+            "link": "shopify:\/\/collections\/flowermari"
           }
         },
         "3357e63c-8f0f-4f17-ad2d-3d2acf1e981b": {
