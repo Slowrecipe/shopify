@@ -419,6 +419,37 @@
             "image": "shopify:\/\/shop_images\/Logo_G_d97f7698-c1dd-4fdf-9fef-eabf2a12fb0f.png",
             "link": "shopify:\/\/collections\/1o7"
           }
+        },
+        "210061d7-65e9-42c2-87f9-5d5b965b7d87": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/toplogo_4595b65e-4c89-4bb8-bbb4-3675274e6d30.png",
+            "link": "shopify:\/\/collections\/project-1907"
+          }
+        },
+        "f5eb73d2-33a2-4c66-b22e-52d08c07a1c1": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "c824217b-c861-4b78-b3cc-a55cc965669a": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "fc7f21da-7665-4160-aa21-ce12465bf015": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "3357e63c-8f0f-4f17-ad2d-3d2acf1e981b": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -436,7 +467,12 @@
         "a82d0743-332f-466b-a54a-0793f8a3b0b2",
         "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64",
         "c32de550-ce9a-413a-a6b8-c96aaf488ce4",
-        "6e713a3a-babd-402b-a1e5-280ec4f4455e"
+        "6e713a3a-babd-402b-a1e5-280ec4f4455e",
+        "210061d7-65e9-42c2-87f9-5d5b965b7d87",
+        "f5eb73d2-33a2-4c66-b22e-52d08c07a1c1",
+        "c824217b-c861-4b78-b3cc-a55cc965669a",
+        "fc7f21da-7665-4160-aa21-ce12465bf015",
+        "3357e63c-8f0f-4f17-ad2d-3d2acf1e981b"
       ],
       "settings": {
         "columns": 5,
