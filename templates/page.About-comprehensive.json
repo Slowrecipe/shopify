@@ -402,14 +402,15 @@
         "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo_bambi_f9b68380-c2c5-4a77-bb45-aaa5e8356796.png",
+            "image": "shopify:\/\/shop_images\/s22_logo.png",
             "link": "shopify:\/\/collections\/remetome"
           }
         },
         "c32de550-ce9a-413a-a6b8-c96aaf488ce4": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "image": "shopify:\/\/shop_images\/logo_1.png",
+            "link": "shopify:\/\/collections\/yeonji"
           }
         },
         "6e713a3a-babd-402b-a1e5-280ec4f4455e": {
