@@ -399,6 +399,13 @@
             "link": "shopify:\/\/collections\/happy-earth"
           }
         },
+        "d82f8cf3-cabb-4221-85d0-2e21ecbb1342": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_bambi_f9b68380-c2c5-4a77-bb45-aaa5e8356796.png",
+            "link": "shopify:\/\/collections\/remetome"
+          }
+        },
         "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64": {
           "type": "logo",
           "settings": {
@@ -469,6 +476,7 @@
         "aab02942-86cc-4547-8ac4-a151e5e36d25",
         "e3c95ccb-49af-4f45-9fb5-f330d02a82c4",
         "a82d0743-332f-466b-a54a-0793f8a3b0b2",
+        "d82f8cf3-cabb-4221-85d0-2e21ecbb1342",
         "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64",
         "c32de550-ce9a-413a-a6b8-c96aaf488ce4",
         "6e713a3a-babd-402b-a1e5-280ec4f4455e",
