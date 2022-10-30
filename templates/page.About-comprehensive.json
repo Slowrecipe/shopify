@@ -398,6 +398,19 @@
             "image": "shopify:\/\/shop_images\/image_1600110428661_deb3a418-a0d4-4d80-83de-be56435f6628.png",
             "link": "shopify:\/\/collections\/sowhat"
           }
+        },
+        "a82d0743-332f-466b-a54a-0793f8a3b0b2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/403cfbc4628f397cfd4638a53b72642a.png",
+            "link": "shopify:\/\/collections\/happy-earth"
+          }
+        },
+        "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -412,7 +425,9 @@
         "65bf3a8b-ae61-4610-bf9a-c3e6561077d5",
         "c32de550-ce9a-413a-a6b8-c96aaf488ce4",
         "aab02942-86cc-4547-8ac4-a151e5e36d25",
-        "e3c95ccb-49af-4f45-9fb5-f330d02a82c4"
+        "e3c95ccb-49af-4f45-9fb5-f330d02a82c4",
+        "a82d0743-332f-466b-a54a-0793f8a3b0b2",
+        "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64"
       ],
       "settings": {
         "columns": 5,
