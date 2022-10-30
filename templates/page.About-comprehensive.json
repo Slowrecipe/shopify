@@ -409,7 +409,8 @@
         "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64": {
           "type": "logo",
           "settings": {
-            "link": ""
+            "image": "shopify:\/\/shop_images\/logo_bambi.png",
+            "link": "shopify:\/\/collections\/remetome"
           }
         }
       },
