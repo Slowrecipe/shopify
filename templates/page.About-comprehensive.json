@@ -378,13 +378,6 @@
             "link": ""
           }
         },
-        "c32de550-ce9a-413a-a6b8-c96aaf488ce4": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2222_9bc94cb9-ba66-4447-b7d8-b0232222323c.png",
-            "link": ""
-          }
-        },
         "aab02942-86cc-4547-8ac4-a151e5e36d25": {
           "type": "logo",
           "settings": {
@@ -412,6 +405,18 @@
             "image": "shopify:\/\/shop_images\/logo_bambi.png",
             "link": "shopify:\/\/collections\/remetome"
           }
+        },
+        "c32de550-ce9a-413a-a6b8-c96aaf488ce4": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "6e713a3a-babd-402b-a1e5-280ec4f4455e": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -424,11 +429,12 @@
         "973d66cb-42cd-4947-9ab1-6c3fc4996b84",
         "d1287257-f8b5-4260-8aa7-09a5081a9d9e",
         "65bf3a8b-ae61-4610-bf9a-c3e6561077d5",
-        "c32de550-ce9a-413a-a6b8-c96aaf488ce4",
         "aab02942-86cc-4547-8ac4-a151e5e36d25",
         "e3c95ccb-49af-4f45-9fb5-f330d02a82c4",
         "a82d0743-332f-466b-a54a-0793f8a3b0b2",
-        "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64"
+        "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64",
+        "c32de550-ce9a-413a-a6b8-c96aaf488ce4",
+        "6e713a3a-babd-402b-a1e5-280ec4f4455e"
       ],
       "settings": {
         "columns": 5,
