@@ -116,7 +116,10 @@ This is your recipe for vegan and sustainable life.">
 {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
   {% render 'judgeme_core' %}
 {% include 'scapp-customerinfo' %} 
-</head>
+
+                  {% include 'bss-product-labels-configs' %}
+                    </head>
+             
 
 <body
   class="template-{{ request.page_type | handle }}{% if settings.enable_sticky_header %} header-sticky{% endif %}"
@@ -189,5 +192,5 @@ This is your recipe for vegan and sustainable life.">
 
   <div id="scrollup-btn" onclick="gotop()"><i class="fa fa-solid fa-angle-up"></i></div>
   <div id="scrolldown-btn" onClick="godown()"><i class="fa fa-solid fa-angle-down"></i></div>
-</body>
+{% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% include 'bss-product-label-fonts' %}{% endif %}</body>
 </html>
