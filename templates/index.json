@@ -733,7 +733,7 @@
           "type": "question",
           "settings": {
             "title": "When will you send my order?",
-            "answer": "<p>We ship out orders within 1-5 business days after the payment is made.<br\/>In case of delays or unplanned events, we will make sure to let you know.<\/p>",
+            "answer": "<p>We usually ship out orders within 1~5 business days after payment clear.<br\/>During the special events the ship out time can be delayed as the number of orders increases, and we will put a notice to make sure to avoid any misunderstanding.<\/p>",
             "author": ""
           }
         },
@@ -741,7 +741,7 @@
           "type": "question",
           "settings": {
             "title": "Is this a genuine item?",
-            "answer": "<p>This is an example of a question you might have.  The more information you give us, the easier it is for us to help solve your issues and questions.  Please help us help you make your experience better.<\/p>",
+            "answer": "<p>Sure, we only sell 100% genuine and new items in our store.<br\/>We receive products directly from the manufacturer or the official retailers. There is no need to be concerned about the product's authenticity.<\/p>",
             "author": ""
           }
         },
@@ -749,7 +749,7 @@
           "type": "question",
           "settings": {
             "title": "How can I contact Slowrecipe?",
-            "answer": "<p>Click the 'contact us' link at the bottom of the page.  It will link you directly to our email.<\/p>",
+            "answer": "<p>There is a 'contact us' button on the bottom of page, just click the button. Then, you will be able to send an email directly to slowrecipe.<\/p>",
             "author": ""
           }
         }
