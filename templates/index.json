@@ -400,13 +400,6 @@
             "image": "shopify:\/\/shop_images\/4-200.jpg",
             "link": "shopify:\/\/collections\/cueclyp"
           }
-        },
-        "1b686dc2-f6b5-4703-982a-62cc675e080a": {
-          "type": "logo",
-          "disabled": true,
-          "settings": {
-            "link": ""
-          }
         }
       },
       "block_order": [
@@ -431,8 +424,7 @@
         "08c8fd8d-a29d-433e-8d8f-5a1400a7a75d",
         "8b9d436d-c3fc-4551-acd4-3b2736637206",
         "e6536a07-2aba-4bc5-a25e-2b514dde7f49",
-        "562626c6-61bc-4e6b-8ab8-af256da1b900",
-        "1b686dc2-f6b5-4703-982a-62cc675e080a"
+        "562626c6-61bc-4e6b-8ab8-af256da1b900"
       ],
       "settings": {
         "columns": 6,
@@ -599,32 +591,10 @@
             "color_overlay": "#000000",
             "overlay_opacity": 30
           }
-        },
-        "slide-2": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "focal_point": "center_center",
-            "mobile_focal_point": "center_center",
-            "title": "Slideshow",
-            "subheading": "<p>Donggubat embraces and creates an environment where our friends with<br\/>disabilities can work together in a safe and comfortable environment.<\/p>",
-            "heading_text_size": 64,
-            "overlay_shadow": 10,
-            "max_width_subheading": 40,
-            "link_text": "Learn more",
-            "link": "https:\/\/fluorescent.co\/help\/spark\/slideshow",
-            "alignment": "center_center",
-            "color_text": "#ffffff",
-            "color_text_button": "#181818",
-            "color_background_button": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 30
-          }
         }
       },
       "block_order": [
-        "slide-1",
-        "slide-2"
+        "slide-1"
       ],
       "settings": {
         "image_aspect": "custom",
@@ -673,97 +643,9 @@
         "section_contrast": false
       }
     },
-    "image-with-features": {
-      "type": "image-with-features",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Donggubat",
-            "text_max_width": 32
-          }
-        },
-        "feature-1": {
-          "type": "feature",
-          "settings": {
-            "image_shape": "round",
-            "heading": "Brand Story",
-            "subheading": "<p>Donggubat embraces and creates an environment where our friends with disabilities can work together in a<\/p><p>safe and comfortable environment.<\/p>",
-            "text_max_width": 32
-          }
-        },
-        "feature-2": {
-          "type": "feature",
-          "settings": {
-            "image_shape": "round",
-            "heading": "#Sustainability #Natural ingredients #Eco-lifestyle",
-            "subheading": "<p>At Slowrecipe, we feature Donggubat's shampoo and conditioner bar soaps, body soaps, and soaps for children<\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "feature-1",
-        "feature-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/9ba58f9bac68a6b016692c361fe1cb1d.jpg",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_position": "left",
-        "text_alignment": "left",
-        "section_contrast": false
-      }
-    },
-    "quote": {
-      "type": "quote",
-      "disabled": true,
-      "blocks": {
-        "quote": {
-          "type": "quote",
-          "settings": {
-            "quote": "<p>Our partner brands have a story that shares our passion.<\/p><p>Each have a philosophy that sets them apart, and their pursuits doesn’t sacrifice effectiveness. <br\/><br\/>We are proud to be their partner and help them in making a difference. As we continue our search for partners, we also plan to help<\/p><p>brands earn global certifications so that they can be recognized globally.<\/p>",
-            "author": "Slowrecipe",
-            "text_max_width": 58
-          }
-        }
-      },
-      "block_order": [
-        "quote"
-      ],
-      "settings": {
-        "timer": 7,
-        "image_shape": "round",
-        "section_contrast": false
-      }
-    },
     "slideshow-4": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/59eb52aa0518fe67102f9944d656f05c.png",
-            "focal_point": "center_center",
-            "mobile_focal_point": "center_center",
-            "title": "Brand - Code Green.",
-            "subheading": "<p>Coming Soon<\/p>",
-            "heading_text_size": 64,
-            "overlay_shadow": 10,
-            "max_width_subheading": 40,
-            "link_text": "",
-            "link": "",
-            "alignment": "center_center",
-            "color_text": "#ffffff",
-            "color_text_button": "#181818",
-            "color_background_button": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "slide-2": {
           "type": "slide",
           "disabled": true,
@@ -810,7 +692,6 @@
         }
       },
       "block_order": [
-        "slide-1",
         "slide-2",
         "39f9515a-bbbb-4984-8395-56ee84186b1a"
       ],
@@ -909,21 +790,6 @@
         "like_color": "#c71b1b",
         "section_contrast": false
       }
-    },
-    "1648008956a2463244": {
-      "type": "featured-collection-row",
-      "disabled": true,
-      "settings": {
-        "collection": "",
-        "columns": 3,
-        "title": "Collection",
-        "subheading": "",
-        "link_text": "",
-        "text_max_width": 39,
-        "text_alignment": "left",
-        "aspect_ratio": "natural",
-        "section_contrast": false
-      }
     }
   },
   "order": [
@@ -939,11 +805,8 @@
     "testimonials",
     "slideshow-3",
     "image-with-text-2",
-    "image-with-features",
-    "quote",
     "slideshow-4",
     "questions",
-    "social-proof",
-    "1648008956a2463244"
+    "social-proof"
   ]
 }
