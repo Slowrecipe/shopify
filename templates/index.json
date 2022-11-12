@@ -646,6 +646,28 @@
     "slideshow-4": {
       "type": "slideshow",
       "blocks": {
+        "slide-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/59eb52aa0518fe67102f9944d656f05c.png",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "Brand - Code Green.",
+            "subheading": "<p>Coming Soon<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "",
+            "link": "",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "slide-2": {
           "type": "slide",
           "disabled": true,
@@ -692,6 +714,7 @@
         }
       },
       "block_order": [
+        "slide-1",
         "slide-2",
         "39f9515a-bbbb-4984-8395-56ee84186b1a"
       ],
@@ -790,6 +813,21 @@
         "like_color": "#c71b1b",
         "section_contrast": false
       }
+    },
+    "1648008956a2463244": {
+      "type": "featured-collection-row",
+      "disabled": true,
+      "settings": {
+        "collection": "",
+        "columns": 3,
+        "title": "Collection",
+        "subheading": "",
+        "link_text": "",
+        "text_max_width": 39,
+        "text_alignment": "left",
+        "aspect_ratio": "natural",
+        "section_contrast": false
+      }
     }
   },
   "order": [
@@ -807,6 +845,7 @@
     "image-with-text-2",
     "slideshow-4",
     "questions",
-    "social-proof"
+    "social-proof",
+    "1648008956a2463244"
   ]
 }

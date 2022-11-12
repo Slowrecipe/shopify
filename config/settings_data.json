@@ -117,25 +117,25 @@
               "text": "<p>Subscribe for store updates and discounts.<\/p>"
             }
           },
+          "ae49a38d-47fa-4ee8-bf14-4ee97f842910": {
+            "type": "menu",
+            "settings": {
+              "title": "Customer Service",
+              "link_list": "footer"
+            }
+          },
           "4c08a8f6-e131-4d12-9556-505eda56f645": {
             "type": "menu",
             "settings": {
               "title": "Track Order",
               "link_list": "customer-service"
             }
-          },
-          "fb3ab309-ea2f-4d2a-8ca3-2a47bc862e33": {
-            "type": "text",
-            "settings": {
-              "title": "Track Order",
-              "text": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
-            }
           }
         },
         "block_order": [
           "newsletter-1",
-          "4c08a8f6-e131-4d12-9556-505eda56f645",
-          "fb3ab309-ea2f-4d2a-8ca3-2a47bc862e33"
+          "ae49a38d-47fa-4ee8-bf14-4ee97f842910",
+          "4c08a8f6-e131-4d12-9556-505eda56f645"
         ],
         "settings": {
           "show_locale_selector": true,
