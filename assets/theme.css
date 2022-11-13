@@ -1,7 +1,7 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-.si-body {background :red;}
+.si-body {width: 200px; height: 200px; background :red;}
 @media screen and (min-width:1024px) {
   .track__page__rte {
     height: 1250px!important;
