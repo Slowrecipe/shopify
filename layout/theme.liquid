@@ -68,7 +68,8 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta property="og:image" content="https://cdn.shopify.com/s/files/1/0610/2496/0732/files/img_kko_900x.png?v=1657065296">
   <meta name="facebook-domain-verification" content="snkkgk68ofdfru4bq56nlfj2znycoc" />
-  <meta name="facebook-domain-verification" content="214ejq80ph096nk7loip0dwqb3fosj" />
+  <meta name="facebook-domain-verification" content="65nhj0h5k9vfc9p67e2dl269z34yv2" />
+  <meta name="facebook-domain-verification" content="eaddmi5bawm9oku6tf2yzchhvhb72t" />
   <meta property="og:description" content="We only have one Earth">
   <link rel="canonical" href="{{ canonical_url }}">
   <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
@@ -115,7 +116,11 @@ This is your recipe for vegan and sustainable life.">
 {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
   {% render 'judgeme_core' %}
 {% include 'scapp-customerinfo' %} 
+
+                  {% include 'bss-product-labels-configs' %}
+                      {% include 'scm-product-label-head' %}
 </head>
+             
 
 <body
   class="template-{{ request.page_type | handle }}{% if settings.enable_sticky_header %} header-sticky{% endif %}"
@@ -188,5 +193,90 @@ This is your recipe for vegan and sustainable life.">
 
   <div id="scrollup-btn" onclick="gotop()"><i class="fa fa-solid fa-angle-up"></i></div>
   <div id="scrolldown-btn" onClick="godown()"><i class="fa fa-solid fa-angle-down"></i></div>
-</body>
+<!-- {% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% include 'bss-product-label-fonts' %}{% endif %}
+	 {% include 'shine-trust-js.liquid' %} 
+	 {% render "easystock" %} -->
+  </body>
 </html>
+
+{% comment %} --Skinfo Script Start-- {% endcomment %}
+<script>
+function runAfterLoadSkinfo() {
+    var shop = 'slowrecipe.myshopify.com';
+    {%- if product.metafields.skinfo.inci2 -%}
+    var skinfoIngredients = {{ product.metafields.skinfo.inci2 }};
+    {%- else -%}
+    var skinfoIngredients = {{ product.metafields.skinfo.inci | json }};
+    {%- endif -%}
+    var skinfoProductName = {{ product.title | json }};
+    var skinfoProductBrand = {{ product.vendor | json }};
+    var insertBefore = {{ shop.metafields.skinfo.queryInsertBefore }};
+    var insertAsChild = {{ shop.metafields.skinfo.queryInsertAsChild }};
+
+    {%- if shop.metafields.skinfo.queryId -%}
+    var skinfoQueryId = {{ shop.metafields.skinfo.queryId | json }};
+    var skinfoHtmlElement = document.querySelector(skinfoQueryId);
+    {%- else -%}
+    var skinfoQueryString = {{ shop.metafields.skinfo.queryString | json }};
+    var skinfoQueryIndex = {{ shop.metafields.skinfo.queryIndex | json }};
+    var skinfoHtmlElement = document.getElementsByClassName(skinfoQueryString)[skinfoQueryIndex];
+    {%- endif -%}
+
+    if (skinfoProductName == null || skinfoIngredients == null) {
+        return;
+    }
+
+    fetch('https://api.skinfo.se/shopify/widget?shop=' + shop, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+            name: skinfoProductName,
+            brand: skinfoProductBrand,
+            language: 'applySettingsValue',
+            ingredients: skinfoIngredients,
+        }),
+    }).then((res) => {
+        if (res.status != 200)
+            return;
+        return res.json();
+    }).then((data) => {
+        if (data) {
+            if (skinfoHtmlElement == null) {
+                fetch('https://api.skinfo.se/shopify/invalidwidgetposition?shop=' + shop, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                });
+                return;
+            }
+
+            var widgetElement = document.createElement('div');
+            widgetElement.innerHTML = data.html;
+            if (insertBefore) {
+                if (insertAsChild)
+                    skinfoHtmlElement.insertBefore(widgetElement, skinfoHtmlElement.firstChild);
+                else
+                    skinfoHtmlElement.before(widgetElement);
+            } else {
+                if (insertAsChild)
+                    skinfoHtmlElement.appendChild(widgetElement);
+                else
+                    skinfoHtmlElement.after(widgetElement);
+            }
+            const scriptTag = widgetElement.querySelector('script');
+            const executableScript = document.createElement('script');
+            executableScript.text = scriptTag.innerHTML;
+            document.body.appendChild(executableScript);
+        }
+    });}
+    {%- if shop.metafields.skinfo.delay -%}
+    var widgetDelay = {{ shop.metafields.skinfo.delay | json }};
+    window.setTimeout(runAfterLoadSkinfo, widgetDelay);
+    {%- else -%}
+    runAfterLoadSkinfo();
+    {%- endif -%}
+</script>
+{% comment %} --Skinfo Script End-- {% endcomment %}
