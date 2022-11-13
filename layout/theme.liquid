@@ -69,7 +69,6 @@
   <meta property="og:image" content="https://cdn.shopify.com/s/files/1/0610/2496/0732/files/img_kko_900x.png?v=1657065296">
   <meta name="facebook-domain-verification" content="snkkgk68ofdfru4bq56nlfj2znycoc" />
   <meta name="facebook-domain-verification" content="65nhj0h5k9vfc9p67e2dl269z34yv2" />
-  <meta name="facebook-domain-verification" content="eaddmi5bawm9oku6tf2yzchhvhb72t" />
   <meta property="og:description" content="We only have one Earth">
   <link rel="canonical" href="{{ canonical_url }}">
   <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
@@ -116,10 +115,7 @@ This is your recipe for vegan and sustainable life.">
 {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
   {% render 'judgeme_core' %}
 {% include 'scapp-customerinfo' %} 
-
-                  {% include 'bss-product-labels-configs' %}
-                    </head>
-             
+</head>
 
 <body
   class="template-{{ request.page_type | handle }}{% if settings.enable_sticky_header %} header-sticky{% endif %}"
@@ -192,5 +188,5 @@ This is your recipe for vegan and sustainable life.">
 
   <div id="scrollup-btn" onclick="gotop()"><i class="fa fa-solid fa-angle-up"></i></div>
   <div id="scrolldown-btn" onClick="godown()"><i class="fa fa-solid fa-angle-down"></i></div>
-{% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% include 'bss-product-label-fonts' %}{% endif %}</body>
+</body>
 </html>
