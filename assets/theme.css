@@ -1,6 +1,7 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
+.si-disclaimer {display:none}
 @media screen and (min-width:1024px) {
   .track__page__rte {
     height: 1250px!important;
