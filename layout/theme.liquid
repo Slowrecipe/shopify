@@ -152,6 +152,8 @@ This is your recipe for vegan and sustainable life.">
     {% if settings.enable_page_transitions %}
       <div class="page-transition" data-page-transition></div>
     {% endif %}
+    <div id="scrollup-btn" onclick="gotop()"><i class="fa fa-solid fa-angle-up"></i></div>
+    <div id="scrolldown-btn" onClick="godown()"><i class="fa fa-solid fa-angle-down"></i></div>
   </div>
 
   {{ '//www.youtube.com/iframe_api' | script_tag }}
@@ -191,11 +193,10 @@ This is your recipe for vegan and sustainable life.">
 {% include 'social-login' %}
 {% include 'swymSnippet' %}
 
-  <div id="scrollup-btn" onclick="gotop()"><i class="fa fa-solid fa-angle-up"></i></div>
-  <div id="scrolldown-btn" onClick="godown()"><i class="fa fa-solid fa-angle-down"></i></div>
-<!-- {% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% include 'bss-product-label-fonts' %}{% endif %}
+  
+{% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% include 'bss-label-style-css' %}{% include 'bss-product-label-fonts' %}{% endif %}
 	 {% include 'shine-trust-js.liquid' %} 
-	 {% render "easystock" %} -->
+	 {% render "easystock" %}
   </body>
 </html>
 
