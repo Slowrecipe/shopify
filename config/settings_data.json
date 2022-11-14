@@ -201,9 +201,9 @@
       },
       "219870436654832245": {
         "type": "shopify:\/\/apps\/tabs-product-descriptions\/blocks\/main\/28f9d042-5143-4d85-bd90-2351b60871cf",
-        "disabled": true,
+        "disabled": false,
         "settings": {
-          "tab_orientation": "horizontal",
+          "tab_orientation": "vertical",
           "tab_color_scheme": "light",
           "tab_border_width": 1,
           "tab_border_style": "solid",
@@ -224,6 +224,18 @@
           "title_selector": "",
           "include_css": true,
           "disable_tracking_property": false
+        }
+      },
+      "2950567246721570496": {
+        "type": "shopify:\/\/apps\/tabs-by-station\/blocks\/global_embed_block\/19980fb9-f2ca-4ada-ad36-c0364c3318b8",
+        "disabled": false,
+        "settings": {
+          "init_type": "automatic",
+          "init_selector": "",
+          "replace_contents": false,
+          "init_timing": "immediate",
+          "custom_script": "",
+          "custom_style": ""
         }
       }
     }
