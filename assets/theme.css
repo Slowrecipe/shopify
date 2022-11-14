@@ -13,8 +13,8 @@ https://flickity.metafizzy.co
 
 @media screen and (max-width: 1023px) {
   .pdpo__tab__label {
-  font-size: 15px!important;
-}
+    font-size: 15px!important;
+  }
 }
 
 .si-main-header-img {display:none}
