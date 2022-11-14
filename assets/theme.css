@@ -7,6 +7,10 @@ https://flickity.metafizzy.co
 .pdpo__tab__label {
   font-size: 23px!important;
 }
+.pdpo__tab pdpo__tab--is-active {
+  font-weight: bold!important;
+}
+
 .si-main-header-img {display:none}
 @media screen and (min-width:1024px) {
   .track__page__rte {
