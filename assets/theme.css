@@ -1,6 +1,9 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
+.pdpo__tab {
+  margin-right: 100px!important;
+}
 .si-main-header-img {display:none}
 @media screen and (min-width:1024px) {
   .track__page__rte {
