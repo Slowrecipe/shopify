@@ -201,7 +201,7 @@
       },
       "219870436654832245": {
         "type": "shopify:\/\/apps\/tabs-product-descriptions\/blocks\/main\/28f9d042-5143-4d85-bd90-2351b60871cf",
-        "disabled": false,
+        "disabled": true,
         "settings": {
           "tab_orientation": "horizontal",
           "tab_color_scheme": "light",
