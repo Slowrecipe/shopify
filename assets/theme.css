@@ -1,14 +1,8 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-.pdpo__tab {
-  width: 300px!important;
-}
-.pdpo__tab__label {
-  font-size: 23px!important;
-}
-.pdpo__tab pdpo__tab--is-active .pdpo__tab__label {
-  font-weight: 700!important;
+.product__description.product__description--below {
+  border : none!important;
 }
 
 @media screen and (max-width: 1023px) {
