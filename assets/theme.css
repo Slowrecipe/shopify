@@ -7,7 +7,7 @@ https://flickity.metafizzy.co
 .pdpo__tab__label {
   font-size: 23px!important;
 }
-.pdpo__tab pdpo__tab--is-active {
+.pdpo__tab pdpo__tab--is-active .pdpo__tab__label {
   font-weight: 700!important;
 }
 
