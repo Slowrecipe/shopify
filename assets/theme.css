@@ -11,6 +11,12 @@ https://flickity.metafizzy.co
   font-weight: 700!important;
 }
 
+@media screen and (max-width: 1023px) {
+  .pdpo__tab__label {
+  font-size: 13px!important;
+}
+}
+
 .si-main-header-img {display:none}
 @media screen and (min-width:1024px) {
   .track__page__rte {
