@@ -1,9 +1,9 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-.product__description.product__description--below {
+/* .product__description.product__description--below {
   border : none!important;
-}
+} */
 
 @media screen and (max-width: 1023px) {
   .pdpo__tab__label {
