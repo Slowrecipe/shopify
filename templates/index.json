@@ -130,7 +130,7 @@
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 100,
-        "mobile_height": 80,
+        "mobile_height": 95,
         "duration_autoplay": 6,
         "color_dot": "#ffffff"
       }
