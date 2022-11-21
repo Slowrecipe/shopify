@@ -1,18 +1,7 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-
-//Add css on theme.css
-<style>
-a.amazon-link {
-    margin: 15px 0;
-    display: block;
-    text-align: center;
-}
-a.amazon-link img {
-    height: 70px;
-}
-</style>.product__description.product__description--below {
+.product__description.product__description--below {
   border : none!important;
 }
 
