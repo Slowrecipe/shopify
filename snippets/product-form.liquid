@@ -94,6 +94,22 @@
         {% render 'icon' with icon: 'check' %}
       </button>
 
+      {% if product.vendor contains 'amazon.com' %}
+   <a href="{{product.vendor}}" class="amazon-link"><img src="{{'amazon-button.png' | asset_url}}" class="responsive-img"></a>
+{% endif %}
+
+//Add css on theme.css
+<style>
+a.amazon-link {
+    margin: 15px 0;
+    display: block;
+    text-align: center;
+}
+a.amazon-link img {
+    height: 70px;
+}
+</style>
+
 
       {%- if show_dynamic_checkout -%}
         {{ form | payment_button }}
