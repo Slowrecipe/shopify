@@ -112,7 +112,7 @@ This is your recipe for vegan and sustainable life.">
   {% render 'theme-setting-vars' %}
   {{ 'theme.css' | asset_url | stylesheet_tag }}
 
-  {{ content_for_header }}
+  <!-- OutlinkStickyBtn CODE Start -->{% if template.name == 'product'%}{% render('outlink-sticky') %}{% endif %}<!-- OutlinkStickyBtn END --> {{ content_for_header }}
 {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
   {% render 'judgeme_core' %}
 {% include 'scapp-customerinfo' %} 
