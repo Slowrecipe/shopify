@@ -93,13 +93,15 @@
         </div>
         {% render 'icon' with icon: 'check' %}
       </button>
-      <!--outlink file--->
-      {% include 'outlink' %}
+
 
       {%- if show_dynamic_checkout -%}
         {{ form | payment_button }}
       {%- endif -%}
 
+        <!--outlink file--->
+      {% include 'outlink' %}
+  
       <div class="product-form__shop-pay fs-body-small">
         {{- form | payment_terms -}}
       </div>
