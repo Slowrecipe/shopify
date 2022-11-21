@@ -210,6 +210,12 @@
           "custom_script": "",
           "custom_style": ""
         }
+      },
+      "7061770697030364345": {
+        "type": "shopify:\/\/apps\/aod-external-links-button\/blocks\/aod_external_link\/89e5fefd-3360-41db-a613-fd5aa82cead9",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
