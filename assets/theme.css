@@ -1,6 +1,10 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
+#shopify-section-header > header > div.drawer-menu.popover.active.visible > div.drawer-menu__panel > div.drawer-menu__bottom > div > div > div > ul > li.drawer-menu__item.drawer-menu__item--emphasized.child-visible > ul > li:nth-child(6) {
+  color : red!important;
+}
+
 .product__description.product__description--below {
   border : none!important;
 }
