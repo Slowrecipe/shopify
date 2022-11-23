@@ -94,7 +94,7 @@
           "logo": "shopify:\/\/shop_images\/2_f2c7b35b-ec33-401f-8aee-d1dd22024f47.png",
           "logo_max_width": 190,
           "menu": "main-menu",
-          "secondary_menu": "footer",
+          "secondary_menu": "",
           "style": "icon",
           "navigation_position": "below",
           "logo_position": "center",
