@@ -776,41 +776,41 @@
     "social-proof": {
       "type": "social-proof",
       "blocks": {
-        "post-1": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/316598813_158490540219585_2336902181309983902_n.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/ClTSBPapl3l\/?utm_source=ig_web_copy_link",
-            "likes": "21",
-            "account": "@my_slowrecipe",
-            "caption": "<p>The holidays are just around the corner and now is the perfect time to start thinking about some great stocking stuffer and gift ideas 🎄⭐️🎁<br\/><br\/>Gifts can often create a lot of unnecessary waste so this year why not opt for more sustainable alternatives? Mark your calendars because tomorrow might be a great day to check out those items from your...<\/p>"
-          }
-        },
         "post-2": {
           "type": "post",
           "settings": {
-            "image": "shopify:\/\/shop_images\/316438242_151232950978636_185108164620105357_n.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/ClOHSEaPfio\/?utm_source=ig_web_copy_link",
-            "likes": "383",
+            "image": "shopify:\/\/shop_images\/316852682_1272059450021364_326054067650853230_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/ClYadZ9JrEs\/?utm_source=ig_web_copy_link",
+            "likes": "18",
             "account": "@my_slowrecipe",
-            "caption": "<p>Slow Recipe's 1st IG Live!<br\/><br\/>Korean holistic skincare brand co-CEO @chloe.kwak will be joining us to discuss her amazing brand. Plus we will be hosting an AMAZING giveaway so make sure to tune in. Can't wait to see you there!<br\/><br\/>🚩WHEN : Mon, November 21st 9pm EST; 6pm PST (November 22nd 11am KST). <\/p>"
+            "caption": "<p>Have you shopped our BLACK FRIDAY SALE yet? We have got you covered when it comes to great holiday gifts for everyone in your family, including yourself!<br\/><br\/>Don't miss this chance to get 30% off and no minimum spend required for free shipping on your favorite zero waste home and beauty products today! 🛍️<br\/><br\/>🚩Just use code: BF2022 at checkout. Slowrecipe.com<\/p>"
           }
         },
         "post-3": {
           "type": "post",
           "settings": {
-            "image": "shopify:\/\/shop_images\/316020950_121937670713459_6736609089091591678_n.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/ClD0HamvPS-\/?utm_source=ig_web_copy_link",
-            "likes": "326",
+            "image": "shopify:\/\/shop_images\/316608883_205439091936674_2013587691972508749_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/ClV1r8spG3H\/?utm_source=ig_web_copy_link",
+            "likes": "26",
             "account": "@my_slowrecipe",
-            "caption": "<p>Did you know that over 1 billion plastic toothbrushes are thrown away every year, just in the US alone, creating 50 million pounds of waste?! 🤯<br\/><br\/>SODOWE woodchip double-sided fine bristle toothbrushes are made by mixing plastic with upcycled woods craps. The wood chips were harvested from original raw materials used in building projects...<\/p>"
+            "caption": "<p>To celebrate all that we're thankful for, we are starting our biggest sale of the year one day early! ✨<br\/><br\/>Starting today, all of our products will be 30% off and no minimum spend required for free shipping on Slowrecipe.com until Sunday 11\/27!<br\/><br\/>🚩Just use code: BF2022 upon checkout.<br\/><br\/>If you've been thinking of checking out some eco-friendly & zero waste options, now is your perfect chance! 🛍️<\/p>"
+          }
+        },
+        "post-1": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/316598813_158490540219585_2336902181309983902_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/ClTSBPapl3l\/?utm_source=ig_web_copy_link",
+            "likes": "24",
+            "account": "@my_slowrecipe",
+            "caption": "<p>The holidays are just around the corner and now is the perfect time to start thinking about some great stocking stuffer and gift ideas 🎄⭐️🎁<br\/><br\/>Gifts can often create a lot of unnecessary waste so this year why not opt for more sustainable alternatives? Mark your calendars because tomorrow might be a great day to check out those items from your shopping cart to get a jump start your holiday shopping done at Slowrecipe.com *wink wink* 😉 🛍️<\/p>"
           }
         }
       },
       "block_order": [
-        "post-1",
         "post-2",
-        "post-3"
+        "post-3",
+        "post-1"
       ],
       "settings": {
         "columns": 3,
