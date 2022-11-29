@@ -2,7 +2,11 @@
 https://flickity.metafizzy.co
 ---------------------------------------------- */
 .custom-div {
-  height: 60px!important;
+  height: 58px!important;
+}
+
+@media screen and (max-width:720px) {
+  height: 55px!important;
 }
 
 #shopify-section-header > header > div.drawer-menu.popover.active.visible > div.drawer-menu__panel > div.drawer-menu__bottom > div > div > div > ul > li.drawer-menu__item.drawer-menu__item--emphasized.child-visible > ul > li:nth-child(4):hover,
