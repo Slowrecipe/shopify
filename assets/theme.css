@@ -11,7 +11,8 @@ https://flickity.metafizzy.co
 }
 
 #shopify-section-header > header > div.drawer-menu.popover.active.visible > div.drawer-menu__panel > div.drawer-menu__bottom > div > div > div > ul > li.drawer-menu__item.drawer-menu__item--emphasized.child-visible > ul > li.drawer-menu__item.child-visible > ul > li.drawer-menu__item.drawer-menu__item--heading > button > span.ff-heading.fs-heading-2-base.fs-heading-2-large-ns,
-#shopify-section-header > header > div.drawer-menu.popover.active.visible > div.drawer-menu__panel > div.drawer-menu__bottom > div > div > div > ul > li.drawer-menu__item.drawer-menu__item--emphasized.child-visible > ul > li.drawer-menu__item.child-visible > ul > li:nth-child(2) > a {
+#shopify-section-header > header > div.drawer-menu.popover.active.visible > div.drawer-menu__panel > div.drawer-menu__bottom > div > div > div > ul > li.drawer-menu__item.drawer-menu__item--emphasized.child-visible > ul > li.drawer-menu__item.child-visible > ul > li:nth-child(2) > a,
+#shopify-section-header > header > div.drawer-menu.popover.active.visible > div.drawer-menu__panel > div.drawer-menu__bottom > div > div > div > ul > li.drawer-menu__item.drawer-menu__item--emphasized.child-visible > ul > li.drawer-menu__item.child-visible > ul > li:nth-child(3) > a {
   color : white!important;
 }
 
