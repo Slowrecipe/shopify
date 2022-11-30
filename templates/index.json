@@ -13,27 +13,6 @@
     "slideshow-1": {
       "type": "slideshow",
       "blocks": {
-        "e829c997-39c3-4475-b298-26ac8e1ce70f": {
-          "type": "slide",
-          "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/3.jpg",
-            "focal_point": "center_center",
-            "mobile_focal_point": "center_center",
-            "title": "Pleatsmama",
-            "subheading": "<p>Founded in 2017, Pleatsmama began as a way to propose a beautiful and sustainable way of life. Creating fashionable products using only eco-friendly materials for the conscious consumers.<\/p>",
-            "heading_text_size": 62,
-            "overlay_shadow": 10,
-            "max_width_subheading": 40,
-            "link_text": "SHOP NOW",
-            "link": "shopify:\/\/collections\/pleatsmama",
-            "alignment": "center_center",
-            "color_text": "#ffffff",
-            "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_overlay": "#000",
-            "overlay_opacity": 30
-          }
-        },
         "b41739a1-28f9-4cb9-856e-406b53495322": {
           "type": "slide",
           "settings": {
@@ -52,6 +31,27 @@
             "color_text_button": "#181818",
             "color_background_button": "#ffffff",
             "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "e829c997-39c3-4475-b298-26ac8e1ce70f": {
+          "type": "slide",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/3.jpg",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "Pleatsmama",
+            "subheading": "<p>Founded in 2017, Pleatsmama began as a way to propose a beautiful and sustainable way of life. Creating fashionable products using only eco-friendly materials for the conscious consumers.<\/p>",
+            "heading_text_size": 62,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/pleatsmama",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#FFFFFF",
+            "color_overlay": "#000",
             "overlay_opacity": 30
           }
         },
@@ -99,8 +99,8 @@
         }
       },
       "block_order": [
-        "e829c997-39c3-4475-b298-26ac8e1ce70f",
         "b41739a1-28f9-4cb9-856e-406b53495322",
+        "e829c997-39c3-4475-b298-26ac8e1ce70f",
         "slide-2",
         "4d1a0b1b-454c-4e48-a091-7964d829c5dd"
       ],
