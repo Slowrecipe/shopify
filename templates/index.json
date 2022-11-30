@@ -41,7 +41,7 @@
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "Pleatsmama",
-            "subheading": "<p>Founded in 2017, Pleatsmama began as a way to propose a beautiful and sustainable way of life. Creating fashionable products using only eco-friendly materials for the conscious consumers.<\/p>",
+            "subheading": "<p>Founded in 2017, Pleatsmama began as a way to propose a beautiful and sustainable way of life. <br\/>Creating fashionable products using only eco-friendly materials for the conscious consumers.<\/p>",
             "heading_text_size": 62,
             "overlay_shadow": 10,
             "max_width_subheading": 40,
