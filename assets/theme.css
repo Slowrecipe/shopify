@@ -1,6 +1,7 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
+
 .custom-div {
   height: 58px!important;
 }
@@ -8,6 +9,7 @@ https://flickity.metafizzy.co
 @media screen and (max-width:720px) {
   .custom-div {
     height: 50px!important;
+    padding: 0 15px!important;
   }
 }
 
