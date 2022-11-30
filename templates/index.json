@@ -37,7 +37,7 @@
         "e829c997-39c3-4475-b298-26ac8e1ce70f": {
           "type": "slide",
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/3.jpg",
+            "desktop_image": "shopify:\/\/shop_images\/2641aebe33682d706d1f18a9056be3ca.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "Pleatsmama",
@@ -50,8 +50,8 @@
             "alignment": "center_center",
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_overlay": "#000",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         },
