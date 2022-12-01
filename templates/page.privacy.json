@@ -251,21 +251,6 @@
         "section_contrast": false
       }
     },
-    "16596772929e3db05d": {
-      "type": "powr-popup",
-      "disabled": true,
-      "settings": {
-      }
-    },
-    "1659677334ce0a7e28": {
-      "type": "quote",
-      "disabled": true,
-      "settings": {
-        "timer": 8,
-        "image_shape": "round",
-        "section_contrast": false
-      }
-    },
     "16596769568f360229": {
       "type": "custom-liquid",
       "settings": {
@@ -284,8 +269,6 @@
     "1659330320cdd53d1a",
     "1659335473e4e76dc6",
     "16593363519105b3c3",
-    "16596772929e3db05d",
-    "1659677334ce0a7e28",
     "16596769568f360229",
     "1659677796a1181a0a"
   ]
