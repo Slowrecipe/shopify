@@ -38,6 +38,7 @@
           "type": "slide",
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/5.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/5.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "Pleatsmama",
