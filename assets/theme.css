@@ -14627,6 +14627,7 @@ a.link:hover{
   display: none!important;
 }
 
+iframe { object-fit: cover!important; }
+
 }
 
-video { object-fit: cover!important; }
