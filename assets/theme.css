@@ -1,7 +1,6 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-video { object-fit: cover!important; }
 .custom-div {
   height: 58px!important;
   margin: 13px 0 0 0!important;
@@ -14627,5 +14626,7 @@ a.link:hover{
 .drawer-menu__search-parent > a.drawer-menu__link {
   display: none!important;
 }
+
+video { object-fit: cover!important; }
 
 }
