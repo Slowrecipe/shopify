@@ -23,7 +23,8 @@
 -->
 
 <html class="no-js" lang="{{ request.locale.iso_code }}" style="--announcement-height: 1px;">
-<head>{% render 'pagefly-head' %}
+<head>
+	 {%- if dropinblog == 1 -%}{{ dropinblog_head_top }}{%- endif -%}{% render 'pagefly-head' %}
   
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-222133515-1"></script>
@@ -106,7 +107,11 @@
 This is your recipe for vegan and sustainable life.">
   {%- endif -%}
 
-  {% render 'social-meta-tags' %}
+  	{%- if dropinblog == 1 -%}
+		{{ dropinblog_head_social }}
+	{%- else -%}
+		{% render 'social-meta-tags' %}
+	{%- endif -%}
 
   {% render 'theme-setup' %}
   {% render 'theme-setting-vars' %}
@@ -119,6 +124,7 @@ This is your recipe for vegan and sustainable life.">
 
                   {% include 'bss-product-labels-configs' %}
                       {% include 'scm-product-label-head' %}
+	{%- if dropinblog == 1 -%}{{ dropinblog_head_bottom }}{%- endif -%}
 </head>
              
 
