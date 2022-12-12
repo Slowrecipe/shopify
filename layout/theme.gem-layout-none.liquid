@@ -1,0 +1,222 @@
+{% comment %}
+	GEMPAGE BUILDER (https://apps.shopify.com/gempage)
+
+	You SHOULD NOT modify source code in this page because
+	It is automatically generated from GEMPAGE BUILDER
+	Try to edit page with the live editor.
+{% endcomment %}
+<!doctype html>
+
+<!--
+      ___                       ___           ___           ___
+     /  /\                     /__/\         /  /\         /  /\
+    /  /:/_                    \  \:\       /  /:/        /  /::\
+   /  /:/ /\  ___     ___       \  \:\     /  /:/        /  /:/\:\
+  /  /:/ /:/ /__/\   /  /\  ___  \  \:\   /  /:/  ___   /  /:/  \:\
+ /__/:/ /:/  \  \:\ /  /:/ /__/\  \__\:\ /__/:/  /  /\ /__/:/ \__\:\
+ \  \:\/:/    \  \:\  /:/  \  \:\ /  /:/ \  \:\ /  /:/ \  \:\ /  /:/
+  \  \::/      \  \:\/:/    \  \:\  /:/   \  \:\  /:/   \  \:\  /:/
+   \  \:\       \  \::/      \  \:\/:/     \  \:\/:/     \  \:\/:/
+    \  \:\       \__\/        \  \::/       \  \::/       \  \::/
+     \__\/                     \__\/         \__\/         \__\/
+
+--------------------------------------------------------------------
+#  Spark v2.5.3
+#  Documentation: https://fluorescent.co/help/spark/
+#  Purchase: https://themes.shopify.com/themes/spark/
+#  A product by Fluorescent: https://fluorescent.co/
+--------------------------------------------------------------------
+
+-->
+
+<html class="no-js" lang="{{ request.locale.iso_code }}" style="--announcement-height: 1px;">
+<head>{% render 'pagefly-head' %}
+  
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-222133515-1"></script>
+<script src="Assets/test_print.js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-222133515-1');
+
+  window.onscroll = function() {scrollup(), scrolldown()};
+  // 상단 이동 버튼
+  function scrollup() {
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+      document.getElementById('scrollup-btn').style.display = 'block';
+    }
+    else {
+      document.getElementById('scrollup-btn').style.display = 'none';
+    }
+  }
+  function gotop() {
+    window.scrollTo({top:0, left:0, behavior:'smooth'});
+  }
+  // 하단 이동 버튼
+  function scrolldown() {
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+      document.getElementById('scrolldown-btn').style.display = 'block';
+    }
+    else {
+      document.getElementById('scrolldown-btn').style.display = 'none';
+    }
+  }
+  function godown() {  
+    var top_loc = document.querySelector(".footer").offsetTop;
+    var left_loc = document.querySelector(".footer").offsetLeft;
+    window.scrollTo({top: top_loc, left: left_loc, behavior:'smooth'});
+  }
+</script>
+  
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta property="og:image" content="https://cdn.shopify.com/s/files/1/0610/2496/0732/files/img_kko_900x.png?v=1657065296">
+  <meta name="facebook-domain-verification" content="snkkgk68ofdfru4bq56nlfj2znycoc" />
+  <meta name="facebook-domain-verification" content="65nhj0h5k9vfc9p67e2dl269z34yv2" />
+  <meta name="facebook-domain-verification" content="eaddmi5bawm9oku6tf2yzchhvhb72t" />
+  <meta property="og:description" content="We only have one Earth">
+  <link rel="canonical" href="{{ canonical_url }}">
+  <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
+  <link rel="stylesheet" href="https://use.typekit.net/mkp3ctm.css">
+  <script src="https://kit.fontawesome.com/26197b2478.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+  
+  {%- if settings.favicon != blank -%}
+    <link rel="shortcut icon" href="{{ settings.favicon | img_url: '32x32' }}" type="image/png">
+  {%- endif -%}
+
+  {%- capture seo_title -%}
+    {%- if request.page_type == 'search' and search.performed == true -%}
+      {{ 'search.heading' | t: count: search.results_count }}: {{ 'search.results_with_count' | t: terms: search.terms, count: search.results_count }}
+    {%- else -%}
+      {{ page_title }}
+    {%- endif -%}
+    {%- if current_tags -%}
+      {%- assign meta_tags = current_tags | join: ', ' -%} &ndash; {{ 'general.meta.tags' | t: tags: meta_tags -}}
+    {%- endif -%}
+    {%- if current_page != 1 -%}
+      &ndash; {{ 'general.meta.page' | t: page: current_page }}
+    {%- endif -%}
+    {%- assign escaped_page_title = page_title | escape -%}
+    {%- unless escaped_page_title contains shop.name -%}
+      &ndash; {{ shop.name }}
+    {%- endunless -%}
+  {%- endcapture -%}
+  <title>Slowrecipe | We only have one Earth</title>
+
+  {%- if page_description -%}
+    <meta name="description" content="Slowrecipe is a one-stop shop for vegan and sustainable items that we can trust.
+This is your recipe for vegan and sustainable life.">
+  {%- endif -%}
+
+  {% render 'social-meta-tags' %}
+
+  {% render 'theme-setup' %}
+  {% render 'theme-setting-vars' %}
+  {{ 'theme.css' | asset_url | stylesheet_tag }}
+
+  <!-- OutlinkStickyBtn CODE Start -->{% if template.name == 'product'%}{% render('outlink-sticky') %}{% endif %}<!-- OutlinkStickyBtn END --> {{ content_for_header }}
+{% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}{% unless boostersnippet contains "Liquid error" %}{{ boostersnippet }}{% endunless %}
+  {% render 'judgeme_core' %}
+{% include 'scapp-customerinfo' %} 
+
+                  {% include 'bss-product-labels-configs' %}
+                      {% include 'scm-product-label-head' %}
+</head>
+             
+
+<body>
+<div class="gem-container">
+	{{ content_for_layout }}
+</div><!-- end .gem-container -->
+<!--Gem_Page_Footer_Script-->
+{% render 'gem-app-footer-scripts', GEM_FOOTER_SCRIPT: GEM_FOOTER_SCRIPT %}
+<!--End_Gem_Page_Footer_Script-->
+</body>
+</html>
+
+{% comment %} --Skinfo Script Start-- {% endcomment %}
+<script>
+function runAfterLoadSkinfo() {
+    var shop = 'slowrecipe.myshopify.com';
+    {%- if product.metafields.skinfo.inci2 -%}
+    var skinfoIngredients = {{ product.metafields.skinfo.inci2 }};
+    {%- else -%}
+    var skinfoIngredients = {{ product.metafields.skinfo.inci | json }};
+    {%- endif -%}
+    var skinfoProductName = {{ product.title | json }};
+    var skinfoProductBrand = {{ product.vendor | json }};
+    var insertBefore = {{ shop.metafields.skinfo.queryInsertBefore }};
+    var insertAsChild = {{ shop.metafields.skinfo.queryInsertAsChild }};
+
+    {%- if shop.metafields.skinfo.queryId -%}
+    var skinfoQueryId = {{ shop.metafields.skinfo.queryId | json }};
+    var skinfoHtmlElement = document.querySelector(skinfoQueryId);
+    {%- else -%}
+    var skinfoQueryString = {{ shop.metafields.skinfo.queryString | json }};
+    var skinfoQueryIndex = {{ shop.metafields.skinfo.queryIndex | json }};
+    var skinfoHtmlElement = document.getElementsByClassName(skinfoQueryString)[skinfoQueryIndex];
+    {%- endif -%}
+
+    if (skinfoProductName == null || skinfoIngredients == null) {
+        return;
+    }
+
+    fetch('https://api.skinfo.se/shopify/widget?shop=' + shop, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+            name: skinfoProductName,
+            brand: skinfoProductBrand,
+            language: 'applySettingsValue',
+            ingredients: skinfoIngredients,
+        }),
+    }).then((res) => {
+        if (res.status != 200)
+            return;
+        return res.json();
+    }).then((data) => {
+        if (data) {
+            if (skinfoHtmlElement == null) {
+                fetch('https://api.skinfo.se/shopify/invalidwidgetposition?shop=' + shop, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                });
+                return;
+            }
+
+            var widgetElement = document.createElement('div');
+            widgetElement.innerHTML = data.html;
+            if (insertBefore) {
+                if (insertAsChild)
+                    skinfoHtmlElement.insertBefore(widgetElement, skinfoHtmlElement.firstChild);
+                else
+                    skinfoHtmlElement.before(widgetElement);
+            } else {
+                if (insertAsChild)
+                    skinfoHtmlElement.appendChild(widgetElement);
+                else
+                    skinfoHtmlElement.after(widgetElement);
+            }
+            const scriptTag = widgetElement.querySelector('script');
+            const executableScript = document.createElement('script');
+            executableScript.text = scriptTag.innerHTML;
+            document.body.appendChild(executableScript);
+        }
+    });}
+    {%- if shop.metafields.skinfo.delay -%}
+    var widgetDelay = {{ shop.metafields.skinfo.delay | json }};
+    window.setTimeout(runAfterLoadSkinfo, widgetDelay);
+    {%- else -%}
+    runAfterLoadSkinfo();
+    {%- endif -%}
+</script>
+{% comment %} --Skinfo Script End-- {% endcomment %}

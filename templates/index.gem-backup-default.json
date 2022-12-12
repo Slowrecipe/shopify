@@ -1,0 +1,837 @@
+{
+  "sections": {
+    "c6bc23fd_1659319508": {
+      "type": "powr-popup",
+      "settings": {
+      }
+    },
+    "b7ef8735_1659319277": {
+      "type": "powr-popup",
+      "settings": {
+      }
+    },
+    "slideshow-1": {
+      "type": "slideshow",
+      "blocks": {
+        "b41739a1-28f9-4cb9-856e-406b53495322": {
+          "type": "slide",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/107.jpg",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "107",
+            "subheading": "<p>\"A Holistic and Balanced Approach to Skin Care Based on Centuries-Old Fermentation Secrets\"<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/1o7",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "e829c997-39c3-4475-b298-26ac8e1ce70f": {
+          "type": "slide",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/5.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/5.jpg",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "Pleatsmama",
+            "subheading": "<p>Founded in 2017, Pleatsmama began as a way to propose a beautiful and sustainable way of life. <br\/>Creating fashionable products using only eco-friendly materials for the conscious consumers.<\/p>",
+            "heading_text_size": 62,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/pleatsmama",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "slide-2": {
+          "type": "slide",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/501227ea2b328377ccd4edad5a5947a5.jpg",
+            "focal_point": "center_top",
+            "mobile_focal_point": "center_top",
+            "title": "efilow",
+            "subheading": "<p>“True beauty comes from within.”<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 0,
+            "max_width_subheading": 40,
+            "link_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/brand-efilow",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 36
+          }
+        },
+        "4d1a0b1b-454c-4e48-a091-7964d829c5dd": {
+          "type": "slide",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/77.png",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "SODOWE.",
+            "subheading": "<p>“Having been silent for the fear of appearing odd as a vegan brand… we can now say “SO DO WE.”<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 0,
+            "max_width_subheading": 42,
+            "link_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/brand-sodowe",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 46
+          }
+        }
+      },
+      "block_order": [
+        "b41739a1-28f9-4cb9-856e-406b53495322",
+        "e829c997-39c3-4475-b298-26ac8e1ce70f",
+        "slide-2",
+        "4d1a0b1b-454c-4e48-a091-7964d829c5dd"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 95,
+        "mobile_height": 95,
+        "duration_autoplay": 6,
+        "color_dot": "#ffffff"
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "whats-new",
+        "columns": 4,
+        "title": "What's New",
+        "subheading": "",
+        "link_text": "",
+        "text_max_width": 36,
+        "aspect_ratio": "portrait",
+        "section_contrast": false
+      }
+    },
+    "text-columns-with-images": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "heading": "Slowrecipe",
+            "subheading": "<p>Slowrecipe is <br\/>a sustainable lifestyle shop for your vegan and sustainable items. <br\/>We search for products that help us upgrade our everyday activities<\/p><p>to be more eco-friendly. <br\/><\/p>",
+            "text_max_width": 48,
+            "link": "",
+            "link_text": "Read more"
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "heading": "Sustainable",
+            "subheading": "<p>Slowrecipe searches for products that are eco-friendly and cruelty-free.<br\/>We want to encourage more brands and products to find alternative ways that help protect the environment, respect the well-being of animals, and benefit us.<\/p>",
+            "text_max_width": 48,
+            "link": "",
+            "link_text": "Read more"
+          }
+        },
+        "column-3": {
+          "type": "column",
+          "settings": {
+            "heading": "Trustworthy",
+            "subheading": "<p>At Slowrecipe, we check the ingredients of all our brands and make sure we can keep our promise with you. We also try it ourselves to make sure it is effective as it is sustainable.<\/p>",
+            "text_max_width": 48,
+            "link": "",
+            "link_text": "Read more"
+          }
+        },
+        "20f3bde6-3171-443d-aad8-3735c86e57f9": {
+          "type": "column",
+          "settings": {
+            "heading": "Commitment",
+            "subheading": "<p>Our goal is to find brands passionate about being eco-friendly, vegan and cruelty-free. We also aim to help those to receive global certification so that they can be recognized globally for their efforts and passion.<\/p>",
+            "text_max_width": 42,
+            "link": "",
+            "link_text": "Read more"
+          }
+        }
+      },
+      "block_order": [
+        "column-1",
+        "column-2",
+        "column-3",
+        "20f3bde6-3171-443d-aad8-3735c86e57f9"
+      ],
+      "settings": {
+        "columns": 4,
+        "image_shape": "round",
+        "text_alignment": "center",
+        "section_contrast": true
+      }
+    },
+    "image-with-text-1": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "efilow collection",
+            "text_max_width": 32
+          }
+        },
+        "subheading": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Mild irritant-free ingredients to provide comfort to the skin. It is non-irritating ingredients allow every one to use it without concern.<\/p><p>#Non-irritating  #All ingredients EWG Green  <br\/>#Free from 20 harmful substances<\/p>",
+            "text_max_width": 32
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/brand-efilow",
+            "link_text": "SHOP NOW"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "subheading",
+        "button"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/e414e3569594aa7f5d60e40925803f76.jpg",
+        "image_position": "right",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "section_contrast": false
+      }
+    },
+    "logo-list": {
+      "type": "logo-list",
+      "blocks": {
+        "logo-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_1595865121448.png",
+            "link": "shopify:\/\/collections\/brand-sodowe"
+          }
+        },
+        "logo-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9.png",
+            "link": "shopify:\/\/collections\/brand-efilow"
+          }
+        },
+        "logo-3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
+            "link": "shopify:\/\/collections\/owndo"
+          }
+        },
+        "619c4b56-df97-4805-8e54-f3110ee497fe": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/barrrk.jpg",
+            "link": "shopify:\/\/collections\/barrrk"
+          }
+        },
+        "logo-4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_1_65e92e24-8beb-4ebe-ba10-78f31bcfa3e1.png",
+            "link": "shopify:\/\/collections\/brand-8-perscent"
+          }
+        },
+        "logo-5": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KakaoTalk_20221130_202932636.png",
+            "link": "shopify:\/\/collections\/brand-donggubat"
+          }
+        },
+        "940717f6-5f19-4d10-9975-23e34c5c42e4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2022-11-26_182028.jpg",
+            "link": "shopify:\/\/collections\/codegreen"
+          }
+        },
+        "8a34486f-1961-4f0a-ba12-1877698bf404": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/12.png",
+            "link": "shopify:\/\/collections\/sanguine"
+          }
+        },
+        "4b0e7f89-27b4-4583-a0f7-5bf802dd5abf": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/13.png",
+            "link": "shopify:\/\/collections\/toun28"
+          }
+        },
+        "0303dd50-5720-4ce5-ab31-3c658c761e62": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo.png",
+            "link": "shopify:\/\/collections\/yegoeun"
+          }
+        },
+        "fc1914f9-9c30-4c36-a8db-1f8e2d771cca": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_1600110428661.png",
+            "link": "shopify:\/\/collections\/sowhat"
+          }
+        },
+        "c66e12cd-460d-40f2-9023-d915aa4ea1cc": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/403cfbc4628f397cfd4638a53b72642a_1b2a1284-8377-4780-961b-74476a24a7d1.png",
+            "link": "shopify:\/\/collections\/happy-earth"
+          }
+        },
+        "18ff4c84-398b-477d-874d-4175b7fc9e5a": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_bambi_5bd9a813-1a15-4efb-8502-b397873350a3.png",
+            "link": "shopify:\/\/collections\/remetome"
+          }
+        },
+        "d6a481bf-4a14-4c29-88c5-9e61a4b875dd": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/s22_logo_ec3e0256-e14e-4015-b7fc-29a760931965.png",
+            "link": "shopify:\/\/collections\/harrynmari"
+          }
+        },
+        "258d2005-7494-42a3-95a7-0de249769c6f": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/392a988241963c2a7c3199d4b211a457.png",
+            "link": "shopify:\/\/collections\/yeonji"
+          }
+        },
+        "36b8b425-b237-4f97-a46f-f8104c9c82c3": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_G_e1cc6672-b65a-4473-98f0-4e4992bcda0d.png",
+            "link": "shopify:\/\/collections\/1o7"
+          }
+        },
+        "77bdad6d-0169-4649-9f4e-2f6fd0bfcee4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/toplogo.png",
+            "link": "shopify:\/\/collections\/project-1907"
+          }
+        },
+        "4541183f-d338-42a6-92cd-175b9a534b0d": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_211228_2.png",
+            "link": "shopify:\/\/collections\/fruitybasket"
+          }
+        },
+        "08c8fd8d-a29d-433e-8d8f-5a1400a7a75d": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_r.gif",
+            "link": "shopify:\/\/collections\/les-amis"
+          }
+        },
+        "8b9d436d-c3fc-4551-acd4-3b2736637206": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/968b4927bd8a7.png",
+            "link": "shopify:\/\/collections\/flowermari"
+          }
+        },
+        "e6536a07-2aba-4bc5-a25e-2b514dde7f49": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2022-10-21_150139.jpg",
+            "link": "shopify:\/\/collections\/nature-n"
+          }
+        },
+        "562626c6-61bc-4e6b-8ab8-af256da1b900": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4-200.jpg",
+            "link": "shopify:\/\/collections\/cueclyp"
+          }
+        },
+        "07dfdf22-c81c-4da7-b334-ab0b1ac30535": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/256b7b8cdb576.png",
+            "link": "shopify:\/\/collections\/pleatsmama"
+          }
+        }
+      },
+      "block_order": [
+        "logo-1",
+        "logo-2",
+        "logo-3",
+        "619c4b56-df97-4805-8e54-f3110ee497fe",
+        "logo-4",
+        "logo-5",
+        "940717f6-5f19-4d10-9975-23e34c5c42e4",
+        "8a34486f-1961-4f0a-ba12-1877698bf404",
+        "4b0e7f89-27b4-4583-a0f7-5bf802dd5abf",
+        "0303dd50-5720-4ce5-ab31-3c658c761e62",
+        "fc1914f9-9c30-4c36-a8db-1f8e2d771cca",
+        "c66e12cd-460d-40f2-9023-d915aa4ea1cc",
+        "18ff4c84-398b-477d-874d-4175b7fc9e5a",
+        "d6a481bf-4a14-4c29-88c5-9e61a4b875dd",
+        "258d2005-7494-42a3-95a7-0de249769c6f",
+        "36b8b425-b237-4f97-a46f-f8104c9c82c3",
+        "77bdad6d-0169-4649-9f4e-2f6fd0bfcee4",
+        "4541183f-d338-42a6-92cd-175b9a534b0d",
+        "08c8fd8d-a29d-433e-8d8f-5a1400a7a75d",
+        "8b9d436d-c3fc-4551-acd4-3b2736637206",
+        "e6536a07-2aba-4bc5-a25e-2b514dde7f49",
+        "562626c6-61bc-4e6b-8ab8-af256da1b900",
+        "07dfdf22-c81c-4da7-b334-ab0b1ac30535"
+      ],
+      "settings": {
+        "columns": 6,
+        "gutter_spacing": 35,
+        "title": "Our brand",
+        "section_contrast": false
+      }
+    },
+    "slideshow-2": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/01-_2.png",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "SODOWE.",
+            "subheading": "<p>“Having been silent for the fear of appearing odd as a vegan brand… we can now say “SO DO WE.”<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/brand-sodowe",
+            "alignment": "left_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 75,
+        "mobile_height": 100,
+        "duration_autoplay": 6,
+        "color_dot": "#ffffff"
+      }
+    },
+    "1648011411c8a9f816": {
+      "type": "featured-product",
+      "blocks": {
+        "1648011411d23fb4bf-0": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1648011411d23fb4bf-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1648011411d23fb4bf-2": {
+          "type": "border",
+          "settings": {
+          }
+        },
+        "1648011411d23fb4bf-3": {
+          "type": "variant_picker",
+          "settings": {
+            "show_labels": true,
+            "variant_popup_option": "Size",
+            "variant_popup_text": "Size guide",
+            "variant_popup_page": ""
+          }
+        },
+        "1648011411d23fb4bf-4": {
+          "type": "quantity_selector",
+          "settings": {
+            "show_labels": true
+          }
+        },
+        "1648011411d23fb4bf-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        }
+      },
+      "block_order": [
+        "1648011411d23fb4bf-0",
+        "1648011411d23fb4bf-1",
+        "1648011411d23fb4bf-2",
+        "1648011411d23fb4bf-3",
+        "1648011411d23fb4bf-4",
+        "1648011411d23fb4bf-5"
+      ],
+      "settings": {
+        "product": "sodowe-vegan-oil-pulling-mouthwash-16-90-fl-oz",
+        "enable_product_lightbox": true,
+        "enable_video_looping": true,
+        "section_contrast": false
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Just the product I have been looking for!",
+            "testimonial": "<p>Now I am using this everyday without any irritating feeling. Recommend this for those who are sensitive like me!<\/p>",
+            "author": "Amazon Customer Review",
+            "text_max_width": 42
+          }
+        },
+        "testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Very minty and fresh",
+            "testimonial": "<p>The oily ingredient makes my gum feel smooth.<br\/>Dual lid - Has mini measuring cup as the top lid which is convenient.<\/p>",
+            "author": "Amazon Customer Review",
+            "text_max_width": 42
+          }
+        },
+        "testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "It is worth the price!",
+            "testimonial": "<p>I ordered this mouth wash, because the description says it doesn’t have strong taste. As advertised, it was less strong odor and taste. Best of all, the refreshing feeling in mouth lasted all day. I definitely will reorder it.<\/p>",
+            "author": "Amazon Customer Review",
+            "text_max_width": 42
+          }
+        }
+      },
+      "block_order": [
+        "testimonial-1",
+        "testimonial-2",
+        "testimonial-3"
+      ],
+      "settings": {
+        "columns": 3,
+        "title": "",
+        "subheading": "",
+        "text_alignment": "left",
+        "section_contrast": false
+      }
+    },
+    "slideshow-3": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/cm_sub_brandstory_top_banner_img_2.jpg",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "Donggubat collection",
+            "subheading": "<p>Donggubat embraces and creates an environment where our friends with<br\/>disabilities can work together in a safe and comfortable environment.<\/p>",
+            "heading_text_size": 62,
+            "overlay_shadow": 0,
+            "max_width_subheading": 50,
+            "link_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/brand-donggubat",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "slide-1"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 75,
+        "mobile_height": 100,
+        "duration_autoplay": 6,
+        "color_dot": "#ffffff"
+      }
+    },
+    "image-with-text-2": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Donggubat",
+            "text_max_width": 32
+          }
+        },
+        "subheading": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p><strong>#Sustainability  #Natural ingredients <br\/>#Eco-lifestyle<\/strong><br\/><br\/>At Slowrecipe, we feature Donggubat's shampoo and conditioner bar soaps, body soaps, and soaps for children<\/p>",
+            "text_max_width": 44
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/brand-donggubat",
+            "link_text": "SHOP NOW"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "subheading",
+        "button"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/9ba58f9bac68a6b016692c361fe1cb1d.jpg",
+        "image_position": "right",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "section_contrast": false
+      }
+    },
+    "slideshow-4": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/59eb52aa0518fe67102f9944d656f05c.png",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "Brand - Code Green.",
+            "subheading": "<p>Coming Soon<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "",
+            "link": "",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "slide-2": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/20220304_p_main_1.png",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "Brand - TOUN28",
+            "subheading": "<p>Coming Soon<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "",
+            "link": "",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "39f9515a-bbbb-4984-8395-56ee84186b1a": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/2022-03-23_3.51.22.png",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "Harry&Mari",
+            "subheading": "",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/harrynmari",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2",
+        "39f9515a-bbbb-4984-8395-56ee84186b1a"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 100,
+        "mobile_height": 100,
+        "duration_autoplay": 6,
+        "color_dot": "#ffffff"
+      }
+    },
+    "questions": {
+      "type": "questions",
+      "blocks": {
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "When will you send my order?",
+            "answer": "<p>We usually ship out orders within 1~5 business days after payment clear.<br\/>During the special events the ship out time can be delayed as the number of orders increases, and we will put a notice to make sure to avoid any misunderstanding.<\/p>",
+            "author": ""
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Is this a genuine item?",
+            "answer": "<p>Sure, we only sell 100% genuine and new items in our store.<br\/>We receive products directly from the manufacturer or the official retailers. There is no need to be concerned about the product's authenticity.<\/p>",
+            "author": ""
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "title": "How can I contact Slowrecipe?",
+            "answer": "<p>There is a 'contact us' button on the bottom of page, just click the button. Then, you will be able to send an email directly to slowrecipe.<\/p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "question-1",
+        "question-2",
+        "question-3"
+      ],
+      "settings": {
+        "section_title": "Questions",
+        "subheading": "",
+        "section_contrast": true
+      }
+    },
+    "social-proof": {
+      "type": "social-proof",
+      "blocks": {
+        "post-3": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/img_1.png",
+            "link": "https:\/\/www.instagram.com\/p\/Cl54xWkPPJb\/?utm_source=ig_web_copy_link",
+            "likes": "33",
+            "account": "@my_slowrecipe",
+            "caption": "<p>To celebrate Pleatsmama, the newest addition to our Slow Recipe family, we are hosting a giveaway to 2 lucky winners to win these beautiful bags! Committed to using eco-friendly materials, each fashion bag utilizes 16 PET bottles to create the material. Each bag is molded and knitted one by one to ensure that no discarded fabric is wasted...<\/p>"
+          }
+        },
+        "post-1": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KakaoTalk_20221207_194614691.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/Cl3T_76vIr5\/?utm_source=ig_web_copy_link",
+            "likes": "29",
+            "account": "@my_slowrecipe",
+            "caption": "<p>Our Sustainable Living Starter Kit is an amazing way to help you in your waste-free journey in trying to live a more plastic-free lifestyle or just a nice way to revamp your current collection of zero waste essentials. It can also make for the perfect holiday present if you have been looking for something more sustainable and eco-conscious to gift. Our starter...<\/p>"
+          }
+        },
+        "post-2": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_JPG.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/Cl0vMMirFla\/?utm_source=ig_web_copy_link",
+            "likes": "36",
+            "account": "@my_slowrecipe",
+            "caption": "<p>Inspired by Korea's Joseon Dynasty, the 'Yeonji Joseon Cheoma Lip & Cheek Balm' was designed to mimic traditional Korean designs. The refillable container houses a bright scarlet lip & cheek balm influenced by the vibrant colors of lotus flowers. The perfect interpretation of the beauty and elegance shown by the Korean people of this dynasty...<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "post-3",
+        "post-1",
+        "post-2"
+      ],
+      "settings": {
+        "columns": 3,
+        "title": "Instagram",
+        "subheading": "<p>Join our community<\/p>",
+        "text_max_width": 42,
+        "aspect_ratio": "natural",
+        "like_color": "#c71b1b",
+        "section_contrast": false
+      }
+    },
+    "1648008956a2463244": {
+      "type": "featured-collection-row",
+      "disabled": true,
+      "settings": {
+        "collection": "",
+        "columns": 3,
+        "title": "Collection",
+        "subheading": "",
+        "link_text": "",
+        "text_max_width": 39,
+        "text_alignment": "left",
+        "aspect_ratio": "natural",
+        "section_contrast": false
+      }
+    }
+  },
+  "order": [
+    "c6bc23fd_1659319508",
+    "b7ef8735_1659319277",
+    "slideshow-1",
+    "featured-collection",
+    "text-columns-with-images",
+    "image-with-text-1",
+    "logo-list",
+    "slideshow-2",
+    "1648011411c8a9f816",
+    "testimonials",
+    "slideshow-3",
+    "image-with-text-2",
+    "slideshow-4",
+    "questions",
+    "social-proof",
+    "1648008956a2463244"
+  ]
+}
