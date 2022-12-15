@@ -1,6 +1,9 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
+.dib-cat-menu li a {
+  font-size: 12px!important;
+}
 .dib-search-toggle {
   display: none!important;
 }
