@@ -1,11 +1,14 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-.dib-cat-menu li a {
-  font-size: 15px!important;
-}
-.dib-cat-menu li a {
-  padding: 0.5em 0.7em!important;
+@media screen and (max-width:720px) {
+  .dib-cat-menu li a {
+    font-size: 15px!important;
+  }
+  .dib-cat-menu li a {
+    padding: 0.5em 0.7em!important;
+  }
+  }
 }
 .dib-search-toggle {
   display: none!important;
