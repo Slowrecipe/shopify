@@ -4,7 +4,7 @@ https://flickity.metafizzy.co
 .dib-cat-menu li a {
   font-size: 15px!important;
 }
-.dib-cat-menu li {
+.dib-cat-menu li a {
   padding: 0.5em 0.8em!important;
 }
 .dib-search-toggle {
