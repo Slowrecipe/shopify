@@ -1,6 +1,9 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
+.dib-search-toggle {
+  display: none!important;
+}
 .custom-div {
   height: 58px!important;
   margin: 13px 0 0 0!important;
