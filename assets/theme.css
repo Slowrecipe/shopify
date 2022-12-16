@@ -1,6 +1,10 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
+.social-proof__item-likes {
+  display:none!important;
+}
+
 @media screen and (max-width:720px) {
   .dib-cat-menu li a {
     font-size: 15px!important;
