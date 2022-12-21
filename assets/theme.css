@@ -1,9 +1,9 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-#localization_form > li:nth-child(7) {
+/* #localization_form > li:nth-child(7) {
   display: none!important;
-}
+} */
 
 .social-proof__item-likes {
   display:none!important;
