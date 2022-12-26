@@ -61,6 +61,9 @@ if ((typeof SECOMAPP.pl) == 'undefined') {
 {% if settings.scm_pl_pi2sregex %}
     SECOMAPP.pl.pi2sRegex='{{ settings.scm_pl_pi2sregex }}';
 {% endif %}
+{% if settings.scm_pl_pi2sparent %}
+    SECOMAPP.pl.pi2sParent='{{ settings.scm_pl_pi2sparent }}';
+{% endif %}
 
 {% if settings.scm_pl_lpspath %}
     SECOMAPP.pl.lpsPath='{{ settings.scm_pl_lpspath }}';
