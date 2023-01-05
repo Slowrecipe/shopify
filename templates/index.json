@@ -754,41 +754,41 @@
     "social-proof": {
       "type": "social-proof",
       "blocks": {
+        "post-3": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KakaoTalk_20230105_233948120.jpg",
+            "link": "https:\/\/www.instagram.com\/reel\/CnB-wFYPEh2\/?utm_source=ig_web_copy_link",
+            "likes": "33",
+            "account": "@my_slowrecipe",
+            "caption": "<p>\"Made by @code_green_official, this Scarf Strap Nest Bag has interchangeable straps, as well as a keychain fob! #codegreen is proudly made in South Korea and is an all vegan, cruelty free brand. Free shipping to the USA with orders over $30.00 & you can use 𝗰𝗼𝗹𝗲𝗯𝗶𝗮𝗻𝗰𝗮𝗿𝗱𝗶 as a promo code to save 15%! Currently, if you register & make your first purchase, you will get an Efilow 3 piece mask sheet set! <\/p>"
+          }
+        },
         "post-1": {
           "type": "post",
           "settings": {
-            "image": "shopify:\/\/shop_images\/322761647_2234174646764645_8460304455651850336_n.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/CmyiSB7PhJx\/?utm_source=ig_web_copy_link",
+            "image": "shopify:\/\/shop_images\/323541326_709065457245174_2099275475035025965_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/Cm_aQVqPxHS\/?utm_source=ig_web_copy_link",
             "likes": "29",
             "account": "@my_slowrecipe",
-            "caption": "<p>2023 is just around the corner, have you made your new year's resolutions yet? Here are a couple of sustainable resolutions we will be adding to our list for 2023:<br\/><br\/>1. Making the switch to zero - waste hygiene products such as shampoo, conditioner, body wash, & toothpaste<br\/>2. Stop using plastic bags - carry around a reusable one<br\/>3. Use a tumbler instead of disposable cups when our on my coffee run<br\/>4. Upcycle clothes or look to only buy from...<\/p>"
+            "caption": "<p>20% Off For 2023 Sale Starts Today!<br\/><br\/>Entering the new year can mean committing to new habits or kicking out the old ones. It's not always about creating life altering changes but editing some small habits.<br\/>If you have been looking to up your zero waste game, we at Slow Recipe have created some sustainable starter...<\/p>"
           }
         },
         "post-2": {
           "type": "post",
           "settings": {
-            "image": "shopify:\/\/shop_images\/322418706_697811465284594_8747341540747960628_n.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/Cmv9fH_PC00\/?utm_source=ig_web_copy_link",
+            "image": "shopify:\/\/shop_images\/323902247_536827761800810_675022622824918219_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/Cm81dCpvy10\/?utm_source=ig_web_copy_link",
             "likes": "36",
             "account": "@my_slowrecipe",
-            "caption": "<p>2022 Slow Recipe Award Winners<br\/><br\/>✨ Home - SODOWE. Vegan Oil-Pulling Mouthwash<br\/><br\/>✨ Beauty - efilow Heartleaf Biome Balancing Toner<br\/><br\/>✨ Fashion - Pleatsmama Shoulder bag<br\/><br\/>✨ Bath and Hair Care - Donggubat The RIGHT Shampoo Bar for Mid-dry Scalp<br\/><br\/>Congratulations to all of our category winners!...<\/p>"
-          }
-        },
-        "post-3": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/KakaoTalk_20221230_222846384.jpg",
-            "link": "https:\/\/www.instagram.com\/reel\/CmtZpApJ9nr\/?utm_source=ig_web_copy_link",
-            "likes": "33",
-            "account": "@my_slowrecipe",
-            "caption": "<p>”@code_green_official scarf strap nest bag made of vegan, vegetable leather.<br\/><br\/>The bag comes with interchangeable straps! Options, you know?! Mine came with a baby blue strap that feels like silk, and a vegan leather one. The straps are easy to swap out, adjustable, and can be worn as a shoulder or cross-body bag.<br\/><br\/>The front is secured by a magnet, so it is not difficult to open\/close the bag...<\/p>"
+            "caption": "<p>🎉 Happy 2023! 🎉<br\/>We’re so grateful for everyone who supported Slow Recipe & helped us grow last year.<br\/>We have so many amazing events, contests, giveaways, and new launches coming up so please stay tuned as we are so excited to move onward and upward this new year with you!<br\/>Here’s to feeling thankful for the year behind and enthusiastic for the year ahead.<\/p>"
           }
         }
       },
       "block_order": [
+        "post-3",
         "post-1",
-        "post-2",
-        "post-3"
+        "post-2"
       ],
       "settings": {
         "columns": 3,
