@@ -754,26 +754,6 @@
     "social-proof": {
       "type": "social-proof",
       "blocks": {
-        "post-3": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_66e341d1-40b1-4e36-91ed-1f00a100bde8.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/CnUAl9CrMn-\/?utm_source=ig_web_copy_link",
-            "likes": "33",
-            "account": "@my_slowrecipe",
-            "caption": "<p>Easy-to-go because of the conveniently sized metal link. The bag is large enough to be filled with what you need, and mad impressed at how the bag itself is beyond soft. I was not expecting such softness! An unexpected plus. The material of the bag is stronger than I would’ve imaged for a soft fabric, it doesn’t seem like it’d tear easily. - Elaine<\/p>"
-          }
-        },
-        "post-1": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/KakaoTalk_20230112_221227618.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/CnRbyrjrOxM\/?utm_source=ig_web_copy_link",
-            "likes": "29",
-            "account": "@my_slowrecipe",
-            "caption": "<p>If you are in Seoul, you definitely want to check out PLEATSMAMA's 1st Offline Store.<br\/><br\/>Located in the heart of Samcheong-dong, the modern eco-conscious fashion brand has settled itself beautifully into a picturesque traditional Korean hanok building...<\/p>"
-          }
-        },
         "post-2": {
           "type": "post",
           "settings": {
@@ -783,12 +763,32 @@
             "account": "@my_slowrecipe",
             "caption": "<p>🐇Happy Lunar New Year \/ Korea Seollal!🐇<br\/><br\/>The date changes every year based on the lunar calendar but this year it begins January 22nd, marking the start of the Year of the Rabbit.<\/p>"
           }
+        },
+        "post-3": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KakaoTalk_20230120_085715421.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/Cnjdev9vvBe\/?utm_source=ig_web_copy_link",
+            "likes": "33",
+            "account": "@my_slowrecipe",
+            "caption": "<p>🧵 Sustainable style has come a long way in recent years and the practice of clothing management is key.<br\/><br\/>As we learn more about the perils of the fast fashion industry, more and more people are turning to making their wardrobe last as long as possible instead.<\/p>"
+          }
+        },
+        "post-1": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/KakaoTalk_20230120_085715421_01.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/Cng4ix6Lsiu\/?utm_source=ig_web_copy_link",
+            "likes": "29",
+            "account": "@my_slowrecipe",
+            "caption": "<p>🐶 🐱We all just want the absolute best for our pets. It is their smiles that never fail to make our day a little brighter!<br\/>Here at Slow recipe, we have carefully curated and selected only the best eco-friendly pet products to provide a happy, healthy, & sustainable lifestyle for you & your beloved companions.<\/p>"
+          }
         }
       },
       "block_order": [
+        "post-2",
         "post-3",
-        "post-1",
-        "post-2"
+        "post-1"
       ],
       "settings": {
         "columns": 3,
