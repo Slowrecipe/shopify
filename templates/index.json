@@ -754,14 +754,24 @@
     "social-proof": {
       "type": "social-proof",
       "blocks": {
+        "post-1": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/327985611_711711330394911_2855930935747298325_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/CoHgkEzvjtY\/?utm_source=ig_web_copy_link",
+            "likes": "29",
+            "account": "@my_slowrecipe",
+            "caption": "<p>Most people in the world can agree that overconsumption is a problematic concept that leads to the heavy depletion of Earth's natural resources. As citizens of the world, it is our responsibility to be the change...<\/p>"
+          }
+        },
         "post-2": {
           "type": "post",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1_5df3c42d-8489-4199-8827-2179fb36e168.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/Cn6ogoDrN-z\/?utm_source=ig_web_copy_link",
+            "image": "shopify:\/\/shop_images\/328726313_850691526366568_4687012028974253196_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/CoKFNhjr_Mg\/?utm_source=ig_web_copy_link",
             "likes": "36",
             "account": "@my_slowrecipe",
-            "caption": "<p>✨ Vinegar is a natural solution to help remove coffee and tea stains from mugs and cups. In addition, we recommend making sure the stains are fully scrubbed out using the Happy Earth...<\/p>"
+            "caption": "<p>2023 is the Year of the Rabbit. In Asian culture, the rabbit is an animal that represents longevity, peace, and prosperity.<br\/><br\/>However even now, in the present day, hundreds of thousands..<\/p>"
           }
         },
         "post-3": {
@@ -773,22 +783,12 @@
             "account": "@my_slowrecipe",
             "caption": "<p>Did you know that 936 million straws were discarded annually as of Korea 2019 but the actual number is believed to be a lot more. In addition, the smallest straw is...<\/p>"
           }
-        },
-        "post-1": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/0125.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/Cn1e2Jfgurr\/?utm_source=ig_web_copy_link",
-            "likes": "29",
-            "account": "@my_slowrecipe",
-            "caption": "<p>To further celebrate the start of 2023 and the end of the Lunar New Year holidays, Slowrecipe.com is offering FREE SHIPPING on all orders until 1\/31! No minimum spend required.​..<\/p>"
-          }
         }
       },
       "block_order": [
+        "post-1",
         "post-2",
-        "post-3",
-        "post-1"
+        "post-3"
       ],
       "settings": {
         "columns": 3,
