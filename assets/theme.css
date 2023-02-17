@@ -1,12 +1,6 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-.ivt_img_mb { display: none; }
-
-@media screen and (max-width:720px) {
-.ivt_img_pc { display: none; }
-}
-
 #localization_form > li:nth-child(7) {
   display: none!important;
 }
@@ -14652,6 +14646,12 @@ a.link:hover{
 
 .drawer-menu__search-parent > a.drawer-menu__link {
   display: none!important;
+}
+
+.ivt_img_mb { display: none; }
+
+@media screen and (max-width:720px) {
+.ivt_img_pc { display: none; }
 }
 
 iframe { object-fit: cover!important; }
