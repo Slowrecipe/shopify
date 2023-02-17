@@ -1,10 +1,10 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-.ivt_img_mb { display: block; }
+.ivt_img_mb { display: block!important; }
 
 @media screen and (max-width:720px) {
-.ivt_img_pc { display: block; }
+.ivt_img_pc { display: block!important; }
 }
 
 #localization_form > li:nth-child(7) {
