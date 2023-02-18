@@ -72,7 +72,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "subheading": "<p><\/p><p>Slowrecipe is a sustainable lifestyle shop for<br\/>your vegan and sustainable items. We search for products that help us upgrade our everyday activities to be more eco-friendly.<\/p>",
+            "subheading": "<p><\/p><p>Slow Recipe is a sustainable lifestyle shop for<br\/>your vegan and sustainable items. We search for products that help us upgrade our everyday activities to be more eco-friendly.<\/p>",
             "text_max_width": 48
           }
         }
@@ -100,7 +100,7 @@
           "settings": {
             "image_shape": "round",
             "heading": "",
-            "subheading": "<p>Slowrecipe searches for products that are eco-friendly and cruelty-free. We want to encourage more brands and products to find alternative ways that help protect the environment, respect the well-being of animals, and benefit us.<\/p>",
+            "subheading": "<p>Slow Recipe searches for products that are eco-friendly and cruelty-free. We want to encourage more brands and products to find alternative ways that help protect the environment, respect the well-being of animals, and benefit us.<\/p>",
             "text_max_width": 32
           }
         },
@@ -144,7 +144,7 @@
           "settings": {
             "image_shape": "round",
             "heading": "",
-            "subheading": "<p>At Slowrecipe, we check the ingredients of all our brands and make sure we can keep our promise with you. We also try it ourselves to make sure it is effective as it is sustainable.<\/p>",
+            "subheading": "<p>At Slow Recipe, we check the ingredients of all our brands and make sure we can keep our promise with you. We also try it ourselves to make sure it is effective as it is sustainable.<\/p>",
             "text_max_width": 32
           }
         },
