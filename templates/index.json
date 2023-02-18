@@ -132,8 +132,8 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "heading": "Slowrecipe",
-            "subheading": "<p>Slowrecipe is <br\/>a sustainable lifestyle shop for your vegan and sustainable items. <br\/>We search for products that help us upgrade our everyday activities<\/p><p>to be more eco-friendly. <br\/><\/p>",
+            "heading": "Slow Recipe",
+            "subheading": "<p>Slow Recipe is <br\/>a sustainable lifestyle shop for your vegan and sustainable items. <br\/>We search for products that help us upgrade our everyday activities<\/p><p>to be more eco-friendly. <br\/><\/p>",
             "text_max_width": 48,
             "link": "",
             "link_text": "Read more"
@@ -143,7 +143,7 @@
           "type": "column",
           "settings": {
             "heading": "Sustainable",
-            "subheading": "<p>Slowrecipe searches for products that are eco-friendly and cruelty-free.<br\/>We want to encourage more brands and products to find alternative ways that help protect the environment, respect the well-being of animals, and benefit us.<\/p>",
+            "subheading": "<p>Slow Recipe searches for products that are eco-friendly and cruelty-free.<br\/>We want to encourage more brands and products to find alternative ways that help protect the environment, respect the well-being of animals, and benefit us.<\/p>",
             "text_max_width": 48,
             "link": "",
             "link_text": "Read more"
@@ -153,7 +153,7 @@
           "type": "column",
           "settings": {
             "heading": "Trustworthy",
-            "subheading": "<p>At Slowrecipe, we check the ingredients of all our brands and make sure we can keep our promise with you. We also try it ourselves to make sure it is effective as it is sustainable.<\/p>",
+            "subheading": "<p>At Slow Recipe, we check the ingredients of all our brands and make sure we can keep our promise with you. We also try it ourselves to make sure it is effective as it is sustainable.<\/p>",
             "text_max_width": 48,
             "link": "",
             "link_text": "Read more"
@@ -603,7 +603,7 @@
         "subheading": {
           "type": "subheading",
           "settings": {
-            "subheading": "<p><strong>#Sustainability  #Natural ingredients <br\/>#Eco-lifestyle<\/strong><br\/><br\/>At Slowrecipe, we feature Donggubat's shampoo and conditioner bar soaps, body soaps, and soaps for children<\/p>",
+            "subheading": "<p><strong>#Sustainability  #Natural ingredients <br\/>#Eco-lifestyle<\/strong><br\/><br\/>At Slow Recipe, we feature Donggubat's shampoo and conditioner bar soaps, body soaps, and soaps for children<\/p>",
             "text_max_width": 44
           }
         },
