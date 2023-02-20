@@ -385,6 +385,13 @@
             "image": "shopify:\/\/shop_images\/256b7b8cdb576.png",
             "link": "shopify:\/\/collections\/pleatsmama"
           }
+        },
+        "51928d75-e573-400c-af2f-95ed22b5ee0b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_1602654015222.png",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -410,7 +417,8 @@
         "8b9d436d-c3fc-4551-acd4-3b2736637206",
         "e6536a07-2aba-4bc5-a25e-2b514dde7f49",
         "562626c6-61bc-4e6b-8ab8-af256da1b900",
-        "07dfdf22-c81c-4da7-b334-ab0b1ac30535"
+        "07dfdf22-c81c-4da7-b334-ab0b1ac30535",
+        "51928d75-e573-400c-af2f-95ed22b5ee0b"
       ],
       "settings": {
         "columns": 6,
