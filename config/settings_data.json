@@ -204,6 +204,12 @@
           "custom_script": "",
           "custom_style": ""
         }
+      },
+      "1486654112309516955": {
+        "type": "shopify:\/\/apps\/discos-smart-bogo-cart-upsell\/blocks\/feeniks-offers\/9416ce92-aaaf-4a81-8fdf-b9a4e639d6dc",
+        "disabled": true,
+        "settings": {
+        }
       }
     }
   },
