@@ -727,7 +727,7 @@
           "type": "question",
           "settings": {
             "title": "When will you send my order?",
-            "answer": "<p>We usually ship out orders within 1~5 business days after payment clear.<br\/>During the special events the ship out time can be delayed as the number of orders increases, and we will put a notice to make sure to avoid any misunderstanding.<\/p>",
+            "answer": "<p>Packages are shipped out within 1-5 business days after payment is cleared. Shipping time can be delayed due to national holidays or if there is a sudden surge of packages. In these cases we will put up a notice to address the delay. <\/p>",
             "author": ""
           }
         },
@@ -735,7 +735,7 @@
           "type": "question",
           "settings": {
             "title": "Is this a genuine item?",
-            "answer": "<p>Sure, we only sell 100% genuine and new items in our store.<br\/>We receive products directly from the manufacturer or the official retailers. There is no need to be concerned about the product's authenticity.<\/p>",
+            "answer": "<p>Slowrecipe works directly with the brands to sell only 100% genuine and new items. All products are received directly from the official retailera or manufacturers. <\/p>",
             "author": ""
           }
         },
@@ -743,7 +743,15 @@
           "type": "question",
           "settings": {
             "title": "How can I contact Slow Recipe?",
-            "answer": "<p>There is a 'contact us' button on the bottom of page, just click the button. Then, you will be able to send an email directly to Slow Recipe.<\/p>",
+            "answer": "<p>Please email us directly via the 'contact us' button at the bottom of the page.<\/p>",
+            "author": ""
+          }
+        },
+        "b4825874-146a-4b1c-8d12-1dd83d403bd8": {
+          "type": "question",
+          "settings": {
+            "title": "Which shipping company is used to to send the packages?",
+            "answer": "<p>All packages are shipped directly from South Korea using HANJIN but when your package arrives in your country, it will be delivered via EMS or FEDEX.<\/p>",
             "author": ""
           }
         }
@@ -751,7 +759,8 @@
       "block_order": [
         "question-1",
         "question-2",
-        "question-3"
+        "question-3",
+        "b4825874-146a-4b1c-8d12-1dd83d403bd8"
       ],
       "settings": {
         "section_title": "Questions",
