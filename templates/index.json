@@ -13,6 +13,27 @@
     "slideshow-1": {
       "type": "slideshow",
       "blocks": {
+        "3ac727ff-004f-4051-9795-87a22022b69d": {
+          "type": "slide",
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/image_1605501917863_2500.jpg",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "momur",
+            "subheading": "<p>Our moments, with momur<br\/>For a happy moment in the kitchen.<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "Learn more",
+            "link": "",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#FFFFFF",
+            "color_overlay": "#000",
+            "overlay_opacity": 30
+          }
+        },
         "b41739a1-28f9-4cb9-856e-406b53495322": {
           "type": "slide",
           "settings": {
@@ -100,6 +121,7 @@
         }
       },
       "block_order": [
+        "3ac727ff-004f-4051-9795-87a22022b69d",
         "b41739a1-28f9-4cb9-856e-406b53495322",
         "e829c997-39c3-4475-b298-26ac8e1ce70f",
         "slide-2",
