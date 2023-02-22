@@ -16,7 +16,7 @@
         "3ac727ff-004f-4051-9795-87a22022b69d": {
           "type": "slide",
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/image_1605501917863_2500.jpg",
+            "desktop_image": "shopify:\/\/shop_images\/1U7A0529.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "momur",
@@ -29,8 +29,8 @@
             "alignment": "center_center",
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_overlay": "#000",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         },
