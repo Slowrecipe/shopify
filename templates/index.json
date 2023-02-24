@@ -442,9 +442,12 @@
         "07dfdf22-c81c-4da7-b334-ab0b1ac30535",
         "51928d75-e573-400c-af2f-95ed22b5ee0b"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "columns": 6,
-        "gutter_spacing": 35,
+        "gutter_spacing": 55,
         "title": "Our brand",
         "section_contrast": false
       }
