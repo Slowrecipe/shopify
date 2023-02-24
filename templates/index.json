@@ -447,7 +447,7 @@
       ],
       "settings": {
         "columns": 6,
-        "gutter_spacing": 55,
+        "gutter_spacing": 35,
         "title": "Our brand",
         "section_contrast": false
       }
