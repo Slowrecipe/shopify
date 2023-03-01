@@ -324,25 +324,11 @@
             "link": "shopify:\/\/collections\/sowhat"
           }
         },
-        "c66e12cd-460d-40f2-9023-d915aa4ea1cc": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/403cfbc4628f397cfd4638a53b72642a_1b2a1284-8377-4780-961b-74476a24a7d1.png",
-            "link": "shopify:\/\/collections\/happy-earth"
-          }
-        },
         "18ff4c84-398b-477d-874d-4175b7fc9e5a": {
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/logo_bambi_5bd9a813-1a15-4efb-8502-b397873350a3.png",
             "link": "shopify:\/\/collections\/remetome"
-          }
-        },
-        "d6a481bf-4a14-4c29-88c5-9e61a4b875dd": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/s22_logo_ec3e0256-e14e-4015-b7fc-29a760931965.png",
-            "link": "shopify:\/\/collections\/harrynmari"
           }
         },
         "258d2005-7494-42a3-95a7-0de249769c6f": {
@@ -369,7 +355,7 @@
         "4541183f-d338-42a6-92cd-175b9a534b0d": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/logo_211228_2.png",
+            "image": "shopify:\/\/shop_images\/6.jpg",
             "link": "shopify:\/\/collections\/fruitybasket"
           }
         },
@@ -394,6 +380,13 @@
             "link": "shopify:\/\/collections\/nature-n"
           }
         },
+        "d6a481bf-4a14-4c29-88c5-9e61a4b875dd": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_1f2c43af-e1c1-4968-af23-30e1f6d57814.jpg",
+            "link": "shopify:\/\/collections\/harrynmari"
+          }
+        },
         "562626c6-61bc-4e6b-8ab8-af256da1b900": {
           "type": "logo",
           "settings": {
@@ -414,6 +407,13 @@
             "image": "shopify:\/\/shop_images\/image_1602654015222.png",
             "link": "https:\/\/slowrecipe.myshopify.com\/collections\/momur-weekend"
           }
+        },
+        "c66e12cd-460d-40f2-9023-d915aa4ea1cc": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/403cfbc4628f397cfd4638a53b72642a_1b2a1284-8377-4780-961b-74476a24a7d1.png",
+            "link": "shopify:\/\/collections\/happy-earth"
+          }
         }
       },
       "block_order": [
@@ -428,9 +428,7 @@
         "4b0e7f89-27b4-4583-a0f7-5bf802dd5abf",
         "0303dd50-5720-4ce5-ab31-3c658c761e62",
         "fc1914f9-9c30-4c36-a8db-1f8e2d771cca",
-        "c66e12cd-460d-40f2-9023-d915aa4ea1cc",
         "18ff4c84-398b-477d-874d-4175b7fc9e5a",
-        "d6a481bf-4a14-4c29-88c5-9e61a4b875dd",
         "258d2005-7494-42a3-95a7-0de249769c6f",
         "36b8b425-b237-4f97-a46f-f8104c9c82c3",
         "77bdad6d-0169-4649-9f4e-2f6fd0bfcee4",
@@ -438,16 +436,18 @@
         "08c8fd8d-a29d-433e-8d8f-5a1400a7a75d",
         "8b9d436d-c3fc-4551-acd4-3b2736637206",
         "e6536a07-2aba-4bc5-a25e-2b514dde7f49",
+        "d6a481bf-4a14-4c29-88c5-9e61a4b875dd",
         "562626c6-61bc-4e6b-8ab8-af256da1b900",
         "07dfdf22-c81c-4da7-b334-ab0b1ac30535",
-        "51928d75-e573-400c-af2f-95ed22b5ee0b"
+        "51928d75-e573-400c-af2f-95ed22b5ee0b",
+        "c66e12cd-460d-40f2-9023-d915aa4ea1cc"
       ],
       "custom_css": [
 
       ],
       "settings": {
         "columns": 6,
-        "gutter_spacing": 40,
+        "gutter_spacing": 50,
         "title": "Our brand",
         "section_contrast": false
       }
