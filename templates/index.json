@@ -397,7 +397,7 @@
         "562626c6-61bc-4e6b-8ab8-af256da1b900": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4-200.jpg",
+            "image": "shopify:\/\/shop_images\/0c3787bcb04b56a367459ac1b34d7b19.jpg",
             "link": "shopify:\/\/collections\/cueclyp"
           }
         },
@@ -447,7 +447,7 @@
       ],
       "settings": {
         "columns": 6,
-        "gutter_spacing": 15,
+        "gutter_spacing": 40,
         "title": "Our brand",
         "section_contrast": false
       }
