@@ -30,6 +30,7 @@
     "font_body": "assistant_n4",
     "capitalize_product_title": true,
     "product_title_letter_spacing": 25,
+    "enable_sticky_header": false,
     "button_shape": "0",
     "swatch_options": "Color",
     "enable_card_hover_options": true,
