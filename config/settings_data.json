@@ -54,6 +54,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "title": "🎈 SODOWE. MOUTHWASH 20% OFF 🎈",
               "link": "shopify:\/\/products\/sodowe-vegan-oil-pulling-mouthwash-16-90-fl-oz",
@@ -63,6 +64,7 @@
           },
           "f73e6490-fc0b-4e11-a887-5f9de5187a6b": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "title": "📢 Membership Special Offer \/  Free Shipping & 10% discount",
               "link": "shopify:\/\/pages\/event",
@@ -72,6 +74,7 @@
           },
           "258a5b5b-4f51-4577-9e66-119f88a98b3f": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "title": "✨ Free Shipping on All Orders Over $30.00 USD ✨",
               "link": "",
@@ -204,18 +207,6 @@
           "init_timing": "immediate",
           "custom_script": "",
           "custom_style": ""
-        }
-      },
-      "1486654112309516955": {
-        "type": "shopify:\/\/apps\/discos-smart-bogo-cart-upsell\/blocks\/feeniks-offers\/9416ce92-aaaf-4a81-8fdf-b9a4e639d6dc",
-        "disabled": true,
-        "settings": {
-        }
-      },
-      "14772705778228377435": {
-        "type": "shopify:\/\/apps\/ga-icons-trust-badges\/blocks\/app-embeded\/38b0c2fb-30f0-4bd2-9f9c-2d924bf73280",
-        "disabled": false,
-        "settings": {
         }
       }
     }
