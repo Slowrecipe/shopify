@@ -107,7 +107,7 @@
           "color_icon_transparent": "#ffffff",
           "color_count_transparent": "#000000",
           "color_border_transparent": "#ffffff",
-          "opacity_border_transparent": 20,
+          "opacity_border_transparent": 40,
           "logo_transparent": "shopify:\/\/shop_images\/2_f2c7b35b-ec33-401f-8aee-d1dd22024f47.png"
         }
       },
