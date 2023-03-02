@@ -3354,7 +3354,7 @@ body.header-sticky .header__outer-wrapper{
   height:var(--announcement-height);
   position:absolute;
   top:0;
-  left:0;
+  left:0;`
   pointer-events:none;
 }
 .header{
@@ -14659,4 +14659,6 @@ a.link:hover{
 iframe { object-fit: cover!important; }
 
 }
+
+.header { background-color: black!important}
 
