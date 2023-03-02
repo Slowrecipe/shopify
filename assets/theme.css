@@ -9759,7 +9759,7 @@ a.logo-list__item:hover{
 .image__img.lazyloaded{
     opacity:1;
     transition:opacity 0.5s;
-    top: -10px;
+/*     top: -10px; */
   }
 .no-js .image.js-enabled{
     display:none;
