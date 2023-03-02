@@ -211,6 +211,12 @@
         "disabled": true,
         "settings": {
         }
+      },
+      "14772705778228377435": {
+        "type": "shopify:\/\/apps\/ga-icons-trust-badges\/blocks\/app-embeded\/38b0c2fb-30f0-4bd2-9f9c-2d924bf73280",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
