@@ -360,7 +360,7 @@
         "973d66cb-42cd-4947-9ab1-6c3fc4996b84": {
           "type": "logo",
           "settings": {
-            "image": "shopify:\/\/shop_images\/11_4aaeb7ab-e53b-40fd-9b5a-59bc270deb17.png",
+            "image": "shopify:\/\/shop_images\/2022-11-26_182028_180x_75289be2-aaf3-4a26-aa96-1b17da223eb4.webp",
             "link": "shopify:\/\/collections\/codegreen"
           }
         },
@@ -392,24 +392,10 @@
             "link": "shopify:\/\/collections\/sowhat"
           }
         },
-        "a82d0743-332f-466b-a54a-0793f8a3b0b2": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/403cfbc4628f397cfd4638a53b72642a_1b2a1284-8377-4780-961b-74476a24a7d1.png",
-            "link": "shopify:\/\/collections\/happy-earth"
-          }
-        },
         "d82f8cf3-cabb-4221-85d0-2e21ecbb1342": {
           "type": "logo",
           "settings": {
             "image": "shopify:\/\/shop_images\/logo_bambi_5bd9a813-1a15-4efb-8502-b397873350a3.png",
-            "link": "shopify:\/\/collections\/remetome"
-          }
-        },
-        "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4_1f2c43af-e1c1-4968-af23-30e1f6d57814.jpg",
             "link": "shopify:\/\/collections\/remetome"
           }
         },
@@ -461,6 +447,41 @@
             "image": "shopify:\/\/shop_images\/2022-10-21_150139.jpg",
             "link": "shopify:\/\/collections\/nature-n"
           }
+        },
+        "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_1f2c43af-e1c1-4968-af23-30e1f6d57814.jpg",
+            "link": "shopify:\/\/collections\/remetome"
+          }
+        },
+        "f74bd34d-9400-4cab-873c-ea5176258d45": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/0c3787bcb04b56a367459ac1b34d7b19.jpg",
+            "link": "shopify:\/\/collections\/cueclyp"
+          }
+        },
+        "27061da8-d2ac-4231-b295-0bf80017389c": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/256b7b8cdb576.png",
+            "link": "shopify:\/\/collections\/pleatsmama"
+          }
+        },
+        "c8d62d51-e44b-4747-8984-d50fa79a0d73": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_1602654015222_180x_865250ed-4efb-4497-b2f5-b29992f300e8.png",
+            "link": "shopify:\/\/collections\/momur-weekend"
+          }
+        },
+        "a82d0743-332f-466b-a54a-0793f8a3b0b2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/403cfbc4628f397cfd4638a53b72642a_1b2a1284-8377-4780-961b-74476a24a7d1.png",
+            "link": "shopify:\/\/collections\/happy-earth"
+          }
         }
       },
       "block_order": [
@@ -475,16 +496,19 @@
         "65bf3a8b-ae61-4610-bf9a-c3e6561077d5",
         "aab02942-86cc-4547-8ac4-a151e5e36d25",
         "e3c95ccb-49af-4f45-9fb5-f330d02a82c4",
-        "a82d0743-332f-466b-a54a-0793f8a3b0b2",
         "d82f8cf3-cabb-4221-85d0-2e21ecbb1342",
-        "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64",
         "c32de550-ce9a-413a-a6b8-c96aaf488ce4",
         "6e713a3a-babd-402b-a1e5-280ec4f4455e",
         "210061d7-65e9-42c2-87f9-5d5b965b7d87",
         "f5eb73d2-33a2-4c66-b22e-52d08c07a1c1",
         "c824217b-c861-4b78-b3cc-a55cc965669a",
         "fc7f21da-7665-4160-aa21-ce12465bf015",
-        "3357e63c-8f0f-4f17-ad2d-3d2acf1e981b"
+        "3357e63c-8f0f-4f17-ad2d-3d2acf1e981b",
+        "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64",
+        "f74bd34d-9400-4cab-873c-ea5176258d45",
+        "27061da8-d2ac-4231-b295-0bf80017389c",
+        "c8d62d51-e44b-4747-8984-d50fa79a0d73",
+        "a82d0743-332f-466b-a54a-0793f8a3b0b2"
       ],
       "settings": {
         "columns": 6,
