@@ -1,6 +1,7 @@
 /*! Flickity v2.2.2
 https://flickity.metafizzy.co
 ---------------------------------------------- */
+.younghyun { display:none!important; }
 .ivt_img_pc { display: block!important; }
 .ivt_img_mb { display: none!important; }
 .info_map { width: 120px; height:50px; text-align: center; line-height: 50px; background:black; color:white; margin: 0 auto!important; border-radius: 10px;}
