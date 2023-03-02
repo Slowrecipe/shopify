@@ -9761,7 +9761,8 @@ a.logo-list__item:hover{
     transition:opacity 0.5s;
   }
 #shopify-section-template--16293793693916__slideshow-1 > div > div.slideshow__slides.flickity-enabled.is-draggable > div > div > div > div.slideshow__asset > div.image.js-enabled.slideshow__image-wrapper.slideshow__image--desktop > img,
-
+#shopify-section-template--16293792940252__1648054690510cbe66 > div > div > div > div.slideshow__asset > div.image.js-enabled.slideshow__image-wrapper.slideshow__image--desktop > img,
+#shopify-section-template--16321958674652__1650504951004561ae > div > div > div > div.slideshow__asset > div.image.js-enabled.slideshow__image-wrapper.slideshow__image--desktop > img
 {
   top:0;
 }
