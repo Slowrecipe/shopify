@@ -9760,14 +9760,11 @@ a.logo-list__item:hover{
     opacity:1;
     transition:opacity 0.5s;
   }
-.ls-is-cached {
-  top:0;
-}
-/* #shopify-section-template--16293793693916__slideshow-1 > div > div.slideshow__slides.flickity-enabled.is-draggable > div > div > div > div.slideshow__asset > div.image.js-enabled.slideshow__image-wrapper.slideshow__image--desktop > img,
+#shopify-section-template--16293793693916__slideshow-1 > div > div.slideshow__slides.flickity-enabled.is-draggable > div > div > div > div.slideshow__asset > div.image.js-enabled.slideshow__image-wrapper.slideshow__image--desktop > img,
 
 {
   top:0;
-} */
+}
 
 .no-js .image.js-enabled{
     display:none;
