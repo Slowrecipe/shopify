@@ -54,6 +54,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "title": "🎈 SODOWE. MOUTHWASH 20% OFF 🎈",
               "link": "shopify:\/\/products\/sodowe-vegan-oil-pulling-mouthwash-16-90-fl-oz",
@@ -63,6 +64,7 @@
           },
           "f73e6490-fc0b-4e11-a887-5f9de5187a6b": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "title": "📢 Membership Special Offer \/  Free Shipping & 10% discount",
               "link": "shopify:\/\/pages\/event",
@@ -72,6 +74,7 @@
           },
           "258a5b5b-4f51-4577-9e66-119f88a98b3f": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "title": "✨ Free Shipping on All Orders Over $30.00 USD ✨",
               "link": "",
