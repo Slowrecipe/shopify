@@ -488,7 +488,7 @@
       ],
       "settings": {
         "columns": 6,
-        "gutter_spacing": 55,
+        "gutter_spacing": 45,
         "title": "OUR BRAND",
         "section_contrast": false
       }
