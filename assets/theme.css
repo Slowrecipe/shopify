@@ -3382,7 +3382,7 @@ body.header-sticky .header__outer-wrapper{
     box-shadow:0px 1px 2px 0px var(--color-shadow-header);
   }
 .header .image{
-    background-color:transparent;
+    background-color:black;
   }
 .regular-logo {
   top: 0px;
