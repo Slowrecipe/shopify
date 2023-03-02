@@ -189,10 +189,10 @@
     "c0f02f92-7323-4311-a655-7f9ea1790eb9": {
       "type": "custom-liquid",
       "custom_css": [
-        ".younghyun {width : 50px; height: 20px; background-color: skyblue;}"
+        ".younghyun {width: 120px; height: 50px; color: white; background-color: black; line-height: 50px; text-align: center; margin: -130px auto 100px auto; border-radius: 5px;}"
       ],
       "settings": {
-        "custom_liquid": "<div class\"younghyun\">Download<\/div>"
+        "custom_liquid": "<a href=\"chrome-extension:\/\/efaidnbmnnnibpcajpcglclefindmkaj\/https:\/\/www.eugenefn.com\/common\/files\/amail\/\/20220209_B45_swlee6591_667.pdf\"><div class=\"younghyun\">DOWNLOAD<\/div><\/a>"
       }
     }
   },
