@@ -3367,7 +3367,8 @@ body.header-sticky .header__outer-wrapper{
   }
 .header{
 
-  background-color:var(--color-background-header);
+/*   background-color:var(--color-background-header); */
+  background-color:black;
   color:var(--color-text-header);
   padding:var(--spacing-small) var(--space-outer);
   color:var(--color-text-header);
