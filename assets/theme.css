@@ -3,7 +3,7 @@ https://flickity.metafizzy.co
 ---------------------------------------------- */
 .ivt_img_pc { display: block!important; }
 .ivt_img_mb { display: none!important; }
-.info_map { width: 120px; height:50px; text-align: center; line-height: 50px; background:black; color:white; margin: 0 auto; border-radius: 10px;}
+.info_map { width: 120px; height:50px; text-align: center; line-height: 50px; background:black; color:white; margin: 0 auto!important; border-radius: 10px;}
 @media screen and (max-width:720px) {
   .ivt_img_pc { display: none!important; }
   .ivt_img_mb { display: block!important; }
