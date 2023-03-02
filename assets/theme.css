@@ -9758,7 +9758,7 @@ a.logo-list__item:hover{
 .image__img.lazyloaded{
     opacity:1;
     transition:opacity 0.5s;
-/*     top: 0; */
+    top: 5px;
   }
 .no-js .image.js-enabled{
     display:none;
