@@ -99,7 +99,7 @@
           "style": "icon",
           "navigation_position": "below",
           "logo_position": "center",
-          "enable_transparent_home": false,
+          "enable_transparent_home": true,
           "color_text_transparent": "#ffffff",
           "color_icon_transparent": "#ffffff",
           "color_count_transparent": "#000000",
