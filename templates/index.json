@@ -795,6 +795,26 @@
     "social-proof": {
       "type": "social-proof",
       "blocks": {
+        "post-2": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/334282129_858029428598039_2450438024461789009_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/CpmxtXbrMhj\/?utm_source=ig_web_copy_link",
+            "likes": "36",
+            "account": "@my_slowrecipe",
+            "caption": "<p>🌴 JOIN US IN L.A.🌴<br\/><br\/>Come eat, drink & celebrate with us as Slow Recipe hosts our first ever pop-up event in LA and we want to invite you!...<\/p>"
+          }
+        },
+        "post-3": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/334794141_233108645826130_3639329096581859990_n.jpg",
+            "link": "https:\/\/www.instagram.com\/reel\/CpkM_QfvSQn\/?utm_source=ig_web_copy_link",
+            "likes": "33",
+            "account": "@my_slowrecipe",
+            "caption": "<p>What’s in the pouch? 👀<br\/>Korean Air‘s Upcycling Life Vest Project for Better Planet 🌎<br\/><br\/>Korean Air in collaboration with Korean skincare brand, ONEOSEVEN (107) have upcycled retired life vests to create...<\/p>"
+          }
+        },
         "post-1": {
           "type": "post",
           "settings": {
@@ -804,32 +824,12 @@
             "account": "@my_slowrecipe",
             "caption": "<p>We all love being able to decorate a home with items that can tell a story, especially one with thoughtful craftsmanship. ’Nature N‘ is pioneering what it means to make masterfully crafted and eco-conscious designed home goods...<\/p>"
           }
-        },
-        "post-2": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/0303_59ba1a19-82cb-4781-ae50-44739c26f927.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/CpUwWhcLSK_\/?utm_source=ig_web_copy_link",
-            "likes": "36",
-            "account": "@my_slowrecipe",
-            "caption": "<p>🦁 Happy World Wildlife Day 🦁<br\/><br\/>A day to celebrate all the world's wild animals and plants and the contributions that they make to our daily lives and to the health of the planet...<\/p>"
-          }
-        },
-        "post-3": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/333821428_1360413968131548_1983101129026778420_n.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/CpSLkmCvepi\/?utm_source=ig_web_copy_link",
-            "likes": "33",
-            "account": "@my_slowrecipe",
-            "caption": "<p>✈️ Korean Air X ONEOSEVEN Upcycling Pouch ✈️<br\/><br\/>Korean Air life vests, which save lives in an emergency, are now being used to help save the environment...<\/p>"
-          }
         }
       },
       "block_order": [
-        "post-1",
         "post-2",
-        "post-3"
+        "post-3",
+        "post-1"
       ],
       "settings": {
         "columns": 3,
