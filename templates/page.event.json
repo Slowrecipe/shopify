@@ -7,7 +7,7 @@
           "type": "slide",
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/banner_762b192c-a17c-4285-a649-5137a84c3817.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/batch_20220720-0011282.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/banner_762b192c-a17c-4285-a649-5137a84c3817.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "\"Talitha Koum\" launching event",
@@ -32,8 +32,8 @@
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 80,
-        "mobile_height": 100,
-        "duration_autoplay": 6,
+        "mobile_height": 80,
+        "duration_autoplay": 4,
         "color_dot": "#ffffff"
       }
     },
