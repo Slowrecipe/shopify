@@ -53,6 +53,15 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
+          "f73e6490-fc0b-4e11-a887-5f9de5187a6b": {
+            "type": "announcement",
+            "settings": {
+              "title": "📢 Membership Special Offer - Free Shipping (CODE : FREE DAYZ) & 10% discount (CODE : ENJOY10)",
+              "link": "",
+              "color_background": "#000000",
+              "color_text": "#ffffff"
+            }
+          },
           "announcement-bar-0": {
             "type": "announcement",
             "disabled": true,
@@ -61,15 +70,6 @@
               "link": "shopify:\/\/products\/sodowe-vegan-oil-pulling-mouthwash-16-90-fl-oz",
               "color_background": "#ffffff",
               "color_text": "#000000"
-            }
-          },
-          "f73e6490-fc0b-4e11-a887-5f9de5187a6b": {
-            "type": "announcement",
-            "settings": {
-              "title": "📢 Membership Special Offer - Free Shipping (CODE : FREE DAYZ) & 10% discount (CODE : ENJOY10)",
-              "link": "",
-              "color_background": "#000000",
-              "color_text": "#ffffff"
             }
           },
           "258a5b5b-4f51-4577-9e66-119f88a98b3f": {
@@ -84,8 +84,8 @@
           }
         },
         "block_order": [
-          "announcement-bar-0",
           "f73e6490-fc0b-4e11-a887-5f9de5187a6b",
+          "announcement-bar-0",
           "258a5b5b-4f51-4577-9e66-119f88a98b3f"
         ],
         "settings": {
