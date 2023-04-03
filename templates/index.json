@@ -420,6 +420,13 @@
             "image": "shopify:\/\/shop_images\/1_df5f544b-0a66-4575-ae8b-ad5cc7918935.png",
             "link": ""
           }
+        },
+        "d6608f0e-4077-4cfe-9177-d4da716c4396": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2023-04-03_094406.jpg",
+            "link": "https:\/\/slowrecipe.myshopify.com\/collections\/daegu1988"
+          }
         }
       },
       "block_order": [
@@ -447,7 +454,8 @@
         "07dfdf22-c81c-4da7-b334-ab0b1ac30535",
         "51928d75-e573-400c-af2f-95ed22b5ee0b",
         "c66e12cd-460d-40f2-9023-d915aa4ea1cc",
-        "30c9203a-b0d2-4303-afc1-3747adb7dbaf"
+        "30c9203a-b0d2-4303-afc1-3747adb7dbaf",
+        "d6608f0e-4077-4cfe-9177-d4da716c4396"
       ],
       "custom_css": [
 
