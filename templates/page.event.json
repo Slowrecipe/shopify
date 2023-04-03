@@ -12,8 +12,8 @@
         "8a05ccad-e42a-4920-ba21-2c108e8a96d2": {
           "type": "slide",
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/hands-holding-multiple-shopping-bags.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/hands-holding-multiple-shopping-bags.jpg",
+            "desktop_image": "shopify:\/\/shop_images\/batch_20220720-0011282.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/batch_20220720-0011282.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "Membership Special Offer",
@@ -46,22 +46,9 @@
     "1659341269777a1bb1": {
       "type": "featured-collection",
       "settings": {
-        "collection": "new-arrival",
+        "collection": "talitha-koum",
         "columns": 4,
         "title": "Keep up with Slow Recipe",
-        "subheading": "",
-        "link_text": "",
-        "text_max_width": 36,
-        "aspect_ratio": "natural",
-        "section_contrast": false
-      }
-    },
-    "165934138496f121a0": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "test1",
-        "columns": 3,
-        "title": "",
         "subheading": "",
         "link_text": "",
         "text_max_width": 36,
@@ -73,7 +60,6 @@
   "order": [
     "main",
     "1650504951004561ae",
-    "1659341269777a1bb1",
-    "165934138496f121a0"
+    "1659341269777a1bb1"
   ]
 }
