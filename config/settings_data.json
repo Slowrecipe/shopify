@@ -66,10 +66,10 @@
           "f73e6490-fc0b-4e11-a887-5f9de5187a6b": {
             "type": "announcement",
             "settings": {
-              "title": "📢 Membership Special Offer \/  Free Shipping (CODE : FREE DAYZ) & 10% discount (CODE : ENJOY10)",
-              "link": "shopify:\/\/pages\/event",
-              "color_background": "#ffffff",
-              "color_text": "#000000"
+              "title": "📢 Membership Special Offer - Free Shipping (CODE : FREE DAYZ) & 10% discount (CODE : ENJOY10)",
+              "link": "",
+              "color_background": "#000000",
+              "color_text": "#ffffff"
             }
           },
           "258a5b5b-4f51-4577-9e66-119f88a98b3f": {
