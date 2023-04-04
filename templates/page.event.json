@@ -9,11 +9,11 @@
             "desktop_image": "shopify:\/\/shop_images\/banner_762b192c-a17c-4285-a649-5137a84c3817.jpg",
             "mobile_image": "shopify:\/\/shop_images\/banner_762b192c-a17c-4285-a649-5137a84c3817.jpg",
             "focal_point": "center_center",
-            "mobile_focal_point": "center_center",
+            "mobile_focal_point": "center_bottom",
             "title": "\"Talitha Koum\" Opening Event!",
             "subheading": "<p>✨ Customers who purchase more than $75 - Lip cure balm (full-size)<br\/>✨ Customers who purchase more than $35 - Raffia Bag -M (yellow-brown bag)<br\/>✨ All customers - Mini Trial Kit<\/p>",
             "heading_text_size": 58,
-            "overlay_shadow": 15,
+            "overlay_shadow": 60,
             "max_width_subheading": 50,
             "link_text": "Learn more",
             "link": "",
@@ -31,8 +31,8 @@
       ],
       "settings": {
         "image_aspect": "custom",
-        "desktop_height": 80,
-        "mobile_height": 80,
+        "desktop_height": 65,
+        "mobile_height": 65,
         "duration_autoplay": 4,
         "color_dot": "#ffffff"
       }
