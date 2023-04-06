@@ -55,6 +55,7 @@
         "blocks": {
           "f73e6490-fc0b-4e11-a887-5f9de5187a6b": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "title": "📢 Free Shipping (CODE : FREE DAYZ)",
               "link": "",
