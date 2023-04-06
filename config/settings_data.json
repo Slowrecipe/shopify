@@ -77,8 +77,8 @@
             "type": "announcement",
             "disabled": true,
             "settings": {
-              "title": "✨ Free Shipping on All Orders Over $30.00 USD ✨",
-              "link": "",
+              "title": "✨ Talitha Koum Opening Event ✨",
+              "link": "https:\/\/www.slowrecipe.com\/pages\/event",
               "color_background": "#131313",
               "color_text": "#ffffff"
             }
