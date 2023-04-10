@@ -427,6 +427,48 @@
             "image": "shopify:\/\/shop_images\/2023-04-03_094406.jpg",
             "link": "https:\/\/slowrecipe.myshopify.com\/collections\/daegu1988"
           }
+        },
+        "60df8061-053b-440d-8d03-07d0b9db938b": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_2_2c996d9f-f1f8-4286-b70c-2e7240cd7649.png",
+            "link": "shopify:\/\/collections\/pmmd"
+          }
+        },
+        "aeea52cf-70bd-401c-b25f-8880431ff029": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_3.png",
+            "link": "shopify:\/\/collections\/butler"
+          }
+        },
+        "726c9935-965f-4e78-a169-d3920f350989": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/A.png",
+            "link": "shopify:\/\/collections\/cellen-doctor"
+          }
+        },
+        "6a4a4f24-65cb-4416-882c-aed71fe56721": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/removebg-preview.png",
+            "link": "shopify:\/\/collections\/insm"
+          }
+        },
+        "3f0dd50b-e196-48dd-857e-9584cff34211": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_b3c7c30e-8436-4674-8995-117b6681c045.png",
+            "link": "shopify:\/\/collections\/orosidorosi"
+          }
+        },
+        "08c50146-e8c7-4cad-886d-7ffba8629c5c": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2_4737017c-44b7-4ca5-b973-442807529ab7.png",
+            "link": "shopify:\/\/collections\/hohohi"
+          }
         }
       },
       "block_order": [
@@ -455,7 +497,13 @@
         "51928d75-e573-400c-af2f-95ed22b5ee0b",
         "c66e12cd-460d-40f2-9023-d915aa4ea1cc",
         "30c9203a-b0d2-4303-afc1-3747adb7dbaf",
-        "d6608f0e-4077-4cfe-9177-d4da716c4396"
+        "d6608f0e-4077-4cfe-9177-d4da716c4396",
+        "60df8061-053b-440d-8d03-07d0b9db938b",
+        "aeea52cf-70bd-401c-b25f-8880431ff029",
+        "726c9935-965f-4e78-a169-d3920f350989",
+        "6a4a4f24-65cb-4416-882c-aed71fe56721",
+        "3f0dd50b-e196-48dd-857e-9584cff34211",
+        "08c50146-e8c7-4cad-886d-7ffba8629c5c"
       ],
       "custom_css": [
 
