@@ -13,6 +13,28 @@
     "slideshow-1": {
       "type": "slideshow",
       "blocks": {
+        "345d8031-d4ba-4e9c-b189-60bf22ddc985": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/M-3.jpg",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "pmmd",
+            "subheading": "<p>pmmd stands for Plus +, Minus -, Multiplication x, & Divide ➗<br\/>A clean beauty brand that considers both the environment and people<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "Learn more",
+            "link": "",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#FFFFFF",
+            "color_overlay": "#000",
+            "overlay_opacity": 30
+          }
+        },
         "94bf4508-05d3-48d8-aeab-d2cac050d250": {
           "type": "slide",
           "settings": {
@@ -96,35 +118,14 @@
             "color_overlay": "#000000",
             "overlay_opacity": 30
           }
-        },
-        "b41739a1-28f9-4cb9-856e-406b53495322": {
-          "type": "slide",
-          "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/107.jpg",
-            "focal_point": "center_center",
-            "mobile_focal_point": "center_center",
-            "title": "107",
-            "subheading": "<p>\"A Holistic and Balanced Approach to Skin Care Based on Centuries-Old Fermentation Secrets\"<\/p>",
-            "heading_text_size": 54,
-            "overlay_shadow": 10,
-            "max_width_subheading": 40,
-            "link_text": "SHOP NOW",
-            "link": "shopify:\/\/collections\/1o7",
-            "alignment": "center_center",
-            "color_text": "#ffffff",
-            "color_text_button": "#181818",
-            "color_background_button": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 30
-          }
         }
       },
       "block_order": [
+        "345d8031-d4ba-4e9c-b189-60bf22ddc985",
         "94bf4508-05d3-48d8-aeab-d2cac050d250",
         "slide-2",
         "ac04a43d-fbae-4f8b-86ec-846e146a5a9c",
-        "3ac727ff-004f-4051-9795-87a22022b69d",
-        "b41739a1-28f9-4cb9-856e-406b53495322"
+        "3ac727ff-004f-4051-9795-87a22022b69d"
       ],
       "settings": {
         "image_aspect": "custom",
