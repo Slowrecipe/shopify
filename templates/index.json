@@ -15,7 +15,6 @@
       "blocks": {
         "345d8031-d4ba-4e9c-b189-60bf22ddc985": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/M-3.jpg",
             "focal_point": "center_center",
@@ -30,8 +29,8 @@
             "alignment": "center_center",
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#FFFFFF",
-            "color_overlay": "#000",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
             "overlay_opacity": 30
           }
         },
