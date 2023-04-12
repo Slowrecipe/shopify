@@ -20,7 +20,7 @@
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "pmmd",
-            "subheading": "<p>pmmd stands for Plus +, Minus -, Multiplication x, & Divide ➗<br\/>A clean beauty brand that considers both the environment and people<\/p>",
+            "subheading": "<p>pmmd stands for Plus +, Minus -, Multiplication x, & Divide ➗<br\/>A clean beauty brand that considers both the<br\/>environment and people<\/p>",
             "heading_text_size": 64,
             "overlay_shadow": 10,
             "max_width_subheading": 40,
