@@ -15,7 +15,6 @@
       "blocks": {
         "345d8031-d4ba-4e9c-b189-60bf22ddc985": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/M-3.jpg",
             "focal_point": "center_center",
