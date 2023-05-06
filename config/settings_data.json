@@ -135,12 +135,20 @@
               "title": "Track Order",
               "link_list": "customer-service"
             }
+          },
+          "9ecf23d8-cfce-4894-b9a7-e6d826f63b2f": {
+            "type": "text",
+            "settings": {
+              "title": "About Us",
+              "text": "<p>Slow Recipe<\/p><p>Sam Seok Noh<\/p><p>201-81-02823<\/p><p>Namdaemun-ro 63., The 21st floor of the new building of Hanjin Building., 04532 Jung-gu, Seoul, South Korea<\/p>"
+            }
           }
         },
         "block_order": [
           "newsletter-1",
           "ae49a38d-47fa-4ee8-bf14-4ee97f842910",
-          "4c08a8f6-e131-4d12-9556-505eda56f645"
+          "4c08a8f6-e131-4d12-9556-505eda56f645",
+          "9ecf23d8-cfce-4894-b9a7-e6d826f63b2f"
         ],
         "settings": {
           "show_locale_selector": true,
