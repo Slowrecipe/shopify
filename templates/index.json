@@ -859,6 +859,26 @@
     "social-proof": {
       "type": "social-proof",
       "blocks": {
+        "post-3": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1_bf7f248e-b301-4a34-8e7e-45c283c3d8ae.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/Cs_EtjGPfKX\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+            "likes": "33",
+            "account": "@my_slowrecipe",
+            "caption": "<p>🌏 World Environment Day is an annual global event to raise awareness about environmental issues, promote sustainable practices, and encourage everyone to take action for the preservation of the planet...<\/p>"
+          }
+        },
+        "post-1": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1-1_c99d5ee9-d975-48cd-b892-0daff432abef.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/Cs57HnfvUv_\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+            "likes": "29",
+            "account": "@my_slowrecipe",
+            "caption": "<p>When life gets hectic, take a moment to unwind in our beloved luxurious INSM tea bubble bath soaks. 🛀<br\/>All natural ingredients used to help your mind relax while helping to make your skin feeling soothed...<\/p>"
+          }
+        },
         "post-2": {
           "type": "post",
           "settings": {
@@ -868,32 +888,12 @@
             "account": "@my_slowrecipe",
             "caption": "<p>⭐ momur FREE GIFT EVENT ⭐<\/p><p>Your quest for essential home furnishings, has come to an end. 'momur's aesthetic dish designs make the perfect dishware sets for any home. These sets are sure to add a touch of...<\/p>"
           }
-        },
-        "post-3": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/348445946_595155405737773_6649303000396662440_n.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/Csn5dJyPgsL\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
-            "likes": "33",
-            "account": "@my_slowrecipe",
-            "caption": "<p>Versatile and accessible, this will become your new go to bath towel. Beautifully crafted and sustainably sourced from organic jute material, spa quality antibacterial towels from 'Orosidorosi' that your skin will love!<\/p>"
-          }
-        },
-        "post-1": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/347037635_788417745964427_8327863761504744227_n.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/CsV39KuvoPs\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
-            "likes": "29",
-            "account": "@my_slowrecipe",
-            "caption": "<p>The beauty that people and nature create together, Cellen Doctor.<br\/><br\/>With the philosophy of less chemicals, Cellen Doctor is committed to making zero-waste products with...<\/p>"
-          }
         }
       },
       "block_order": [
-        "post-2",
         "post-3",
-        "post-1"
+        "post-1",
+        "post-2"
       ],
       "settings": {
         "columns": 3,
