@@ -859,6 +859,26 @@
     "social-proof": {
       "type": "social-proof",
       "blocks": {
+        "post-1": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/352212458_705910134875155_1309367221789457620_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/CtRGMmQvVaU\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+            "likes": "29",
+            "account": "@my_slowrecipe",
+            "caption": "<p>Butler is a trusted and reliable brand that specializes in producing a wide range of home products specifically designed to ensure the safety...<\/p>"
+          }
+        },
+        "post-2": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/351758735_946729556599210_6826088155274724586_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/CtOhbuKPdCL\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+            "likes": "36",
+            "account": "@my_slowrecipe",
+            "caption": "<p>🌊 \"Darling it’s better down where it’s wetter take it from me.. Under the Sea.\"<br\/>Today we are celebrating World Oceans Day! 🐢 One significant aspect of today...<\/p>"
+          }
+        },
         "post-3": {
           "type": "post",
           "settings": {
@@ -868,32 +888,12 @@
             "account": "@my_slowrecipe",
             "caption": "<p>🌏 World Environment Day is an annual global event to raise awareness about environmental issues, promote sustainable practices, and encourage everyone to take action for the preservation of the planet...<\/p>"
           }
-        },
-        "post-1": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1-1_c99d5ee9-d975-48cd-b892-0daff432abef.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/Cs57HnfvUv_\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
-            "likes": "29",
-            "account": "@my_slowrecipe",
-            "caption": "<p>When life gets hectic, take a moment to unwind in our beloved luxurious INSM tea bubble bath soaks. 🛀<br\/>All natural ingredients used to help your mind relax while helping to make your skin feeling soothed...<\/p>"
-          }
-        },
-        "post-2": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/main.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/CstDI-5Pz1C\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
-            "likes": "36",
-            "account": "@my_slowrecipe",
-            "caption": "<p>⭐ momur FREE GIFT EVENT ⭐<\/p><p>Your quest for essential home furnishings, has come to an end. 'momur's aesthetic dish designs make the perfect dishware sets for any home. These sets are sure to add a touch of...<\/p>"
-          }
         }
       },
       "block_order": [
-        "post-3",
         "post-1",
-        "post-2"
+        "post-2",
+        "post-3"
       ],
       "settings": {
         "columns": 3,
