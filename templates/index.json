@@ -859,6 +859,26 @@
     "social-proof": {
       "type": "social-proof",
       "blocks": {
+        "post-2": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20211120-IMG_4885.jpg",
+            "link": "https:\/\/www.instagram.com\/reel\/Ctgibm4s7pR\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+            "likes": "36",
+            "account": "@my_slowrecipe",
+            "caption": "<p>“Yeonji Grace of Art(風流) means a free & happy life…<br\/><br\/>🌱 vegan 𝗖𝗜𝗖𝗔 𝗖𝗲𝗿𝗲𝗮𝗹 𝗦𝗰𝗿𝘂𝗯 first! This is a natural scrub is made with a 𝘒𝘰𝘳𝘦𝘢𝘯...<\/p>"
+          }
+        },
+        "post-3": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/353118452_596939105593187_6349354651569199273_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/CtbZYq7PfJ3\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+            "likes": "33",
+            "account": "@my_slowrecipe",
+            "caption": "<p>This Father's Day, let's celebrate all the father figures in our lives as well as your dedication to sustainability. As a token of appreciation, we're offering a special 20% off discount for this week sitewide on...<\/p>"
+          }
+        },
         "post-1": {
           "type": "post",
           "settings": {
@@ -868,32 +888,12 @@
             "account": "@my_slowrecipe",
             "caption": "<p>Butler is a trusted and reliable brand that specializes in producing a wide range of home products specifically designed to ensure the safety, well-being, and comfort of babies and young children....<\/p>"
           }
-        },
-        "post-2": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/351758735_946729556599210_6826088155274724586_n.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/CtOhbuKPdCL\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
-            "likes": "36",
-            "account": "@my_slowrecipe",
-            "caption": "<p>🌊 Darling it’s better down where it’s wetter take it from me.. Under the Sea. Today we are celebrating World Oceans Day! 🐢 One significant aspect of today is to take action in reducing our use of plastic and helping to positively...<\/p>"
-          }
-        },
-        "post-3": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1_bf7f248e-b301-4a34-8e7e-45c283c3d8ae.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/Cs_EtjGPfKX\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
-            "likes": "33",
-            "account": "@my_slowrecipe",
-            "caption": "<p>🌏 World Environment Day is an annual global event to raise awareness about environmental issues, promote sustainable practices, and encourage everyone to take action for the preservation of the planet...<\/p>"
-          }
         }
       },
       "block_order": [
-        "post-1",
         "post-2",
-        "post-3"
+        "post-3",
+        "post-1"
       ],
       "settings": {
         "columns": 3,
