@@ -24,6 +24,10 @@
 
 <html class="no-js" lang="{{ request.locale.iso_code }}" style="--announcement-height: 1px;">
 <head>
+<!-- RYVIU APP :: Settings global -->
+<script> var ryviu_global_settings = {{shop.metafields.ryviu.user_settings }}; </script>
+<!-- RYVIU APP -->
+
 	 {%- if dropinblog == 1 -%}{{ dropinblog_head_top }}{%- endif -%}{% render 'pagefly-head' %}
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SVZ08Q36JW"></script>
