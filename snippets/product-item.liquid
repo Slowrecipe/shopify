@@ -86,6 +86,12 @@
             <a href="{{ product.url }}">{{ product.title }}</a>
           {%- endif -%}
         </h4>
+<!-- RYVIU APP :: COLLECTION-WIDGET-TOTAL -->
+<div class="ryviu-collection">
+<ryviu-widget-total collection="1" reviews_data="{{product.metafields.ryviu.product_reviews_info  | escape  }}" product_id="{{product.id}}" handle="{{product.handle}}"></ryviu-widget-total>
+</div>
+<!-- RYVIU APP -->
+
 {% comment %}Start automatically added Judge.me widget{% endcomment %}
   {% render 'judgeme_widgets', widget_type: 'judgeme_preview_badge', concierge_install: true, product: product %}
 {% comment %}End automatically added Judge.me widget{% endcomment %}
