@@ -9,10 +9,10 @@
           }
         },
         "a7518583-dc06-4d1d-a437-4242d4a06d74": {
-          "type": "shopify:\/\/apps\/ryviu-aliexpress-reviews-app\/blocks\/ryviu-total\/807ad6ed-1a6a-4559-abea-ed062858d9da",
+          "type": "shopify:\/\/apps\/ryviu-product-reviews-qa\/blocks\/ryviu-total\/807ad6ed-1a6a-4559-abea-ed062858d9da",
           "settings": {
-            "show_when_no_reviews": false,
-            "show_average_rating": false
+            "show_when_no_reviews": true,
+            "show_average_rating": true
           }
         },
         "title": {
@@ -118,12 +118,14 @@
       "type": "apps",
       "blocks": {
         "11fe3578-e9e1-469b-a10f-c433ed9b8078": {
-          "type": "shopify:\/\/apps\/ryviu-aliexpress-reviews-app\/blocks\/ryviu-widget\/807ad6ed-1a6a-4559-abea-ed062858d9da",
+          "type": "shopify:\/\/apps\/ryviu-product-reviews-qa\/blocks\/ryviu-widget\/807ad6ed-1a6a-4559-abea-ed062858d9da",
           "settings": {
-            "hide_when_no_reviews": true,
             "r_wapper_class": "",
             "r_max_width": 1920,
-            "r_padding_block": 30
+            "r_padding_block": 30,
+            "hide_when_no_reviews": false,
+            "one_col_on_mobile": false,
+            "hide_title_image_form": false
           }
         }
       },
