@@ -9744,7 +9744,7 @@ a.logo-list__item:hover{
 .image{
   position:relative;
 }
-.image__img{
+#shopify-section-header > header > div.header__inner > div.header__center > h1 > a > div.image.js-enabled.image--31348900397276.regular-logo > img {
   display:block;
   position:absolute;
   object-fit:cover;
