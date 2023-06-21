@@ -124,7 +124,7 @@
             "r_max_width": 1920,
             "r_padding_block": 30,
             "hide_when_no_reviews": false,
-            "one_col_on_mobile": true,
+            "one_col_on_mobile": false,
             "hide_title_image_form": false
           }
         }
