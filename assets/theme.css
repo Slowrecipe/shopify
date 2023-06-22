@@ -9754,8 +9754,8 @@ a.logo-list__item:hover{
   height:100%
 }
 
-#shopify-section-header > header > div.header__inner > div.header__center > h1 > a > div.image.js-enabled.image--31348900397276.regular-logo > img {
-  top:-10px;  
+#shopify-section-template--16293793726684__main > div > div > div.search__results-container > ul > li > a > div.search__result-image > div > img {
+  top:0;  
 }
 .image__img.lazyload,
   .image__img.lazyloading{
