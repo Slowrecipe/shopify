@@ -7,7 +7,7 @@
           "type": "slide",
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/img_main.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/happy-customer-smiles-and-holds-white-shopping-bags.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/img_main.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "Membership Special Offer",
@@ -53,9 +53,9 @@
       ],
       "settings": {
         "image_aspect": "custom",
-        "desktop_height": 65,
-        "mobile_height": 65,
-        "duration_autoplay": 4,
+        "desktop_height": 75,
+        "mobile_height": 70,
+        "duration_autoplay": 6,
         "color_dot": "#ffffff"
       }
     },
