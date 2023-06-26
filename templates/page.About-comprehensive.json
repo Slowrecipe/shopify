@@ -762,6 +762,15 @@
         "text_alignment": "left",
         "section_contrast": false
       }
+    },
+    "33a3241a-9f43-40b5-9aa4-2aeb8c18c742": {
+      "type": "dropinblog-recent-posts",
+      "settings": {
+        "title": "Recent Posts",
+        "num_posts": "2",
+        "display": "2",
+        "categories": ""
+      }
     }
   },
   "order": [
@@ -781,6 +790,7 @@
     "blog-posts",
     "text-columns-with-images",
     "164805414817af8baf",
-    "16480584695ad9c22d"
+    "16480584695ad9c22d",
+    "33a3241a-9f43-40b5-9aa4-2aeb8c18c742"
   ]
 }
