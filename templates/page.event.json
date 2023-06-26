@@ -64,7 +64,7 @@
       "settings": {
         "collection": "new-arrival",
         "columns": 4,
-        "title": "Keep up with Slow Recipe",
+        "title": "Keep up With Slow Recipe",
         "subheading": "",
         "link_text": "",
         "text_max_width": 37,
@@ -78,11 +78,22 @@
       "settings": {
         "content_max_width": 400
       }
+    },
+    "89c46072-03f4-4e3f-860e-8760a7da622d": {
+      "type": "dropinblog-recent-posts",
+      "disabled": true,
+      "settings": {
+        "title": "Previous Promotion",
+        "num_posts": "5",
+        "display": "2",
+        "categories": ""
+      }
     }
   },
   "order": [
     "1650504951004561ae",
     "1659341269777a1bb1",
-    "main"
+    "main",
+    "89c46072-03f4-4e3f-860e-8760a7da622d"
   ]
 }
