@@ -919,6 +919,15 @@
         "aspect_ratio": "natural",
         "section_contrast": false
       }
+    },
+    "09de9aa8-9169-46e1-9f5b-7beab4f09962": {
+      "type": "dropinblog-recent-posts",
+      "settings": {
+        "title": "Recent Posts",
+        "num_posts": "2",
+        "display": "2",
+        "categories": ""
+      }
     }
   },
   "order": [
@@ -937,6 +946,7 @@
     "slideshow-4",
     "questions",
     "social-proof",
-    "1648008956a2463244"
+    "1648008956a2463244",
+    "09de9aa8-9169-46e1-9f5b-7beab4f09962"
   ]
 }
