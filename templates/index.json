@@ -924,7 +924,7 @@
       "type": "dropinblog-recent-posts",
       "settings": {
         "title": "Recent Posts",
-        "num_posts": "2",
+        "num_posts": "5",
         "display": "2",
         "categories": "event"
       }
