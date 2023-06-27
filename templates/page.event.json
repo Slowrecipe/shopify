@@ -3,25 +3,45 @@
     "1650504951004561ae": {
       "type": "slideshow",
       "blocks": {
-        "8a05ccad-e42a-4920-ba21-2c108e8a96d2": {
+        "9fda1926-67f3-4f7d-8bb3-9bbd7fa8357f": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "Summer Sale",
+            "subheading": "<p>Until July 4th, enjoy incredible up to 20% off on our eco-friendly and sustainable products<\/p><p>✨ Promo Code : SUMMER20<\/p>",
+            "heading_text_size": 58,
+            "overlay_shadow": 30,
+            "max_width_subheading": 40,
+            "link_text": "Learn more",
+            "link": "",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#FFFFFF",
+            "color_overlay": "#000",
+            "overlay_opacity": 30
+          }
+        },
+        "1182a593-86d4-42ce-bd08-3d6ffa5fd9a7": {
           "type": "slide",
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/img_main.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/img_main.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "Membership Special Offer",
-            "subheading": "<p>✨ All registered customers will receive <strong>Free shipping & a 10% discount<\/strong><\/p><p>✨ Promo Code<br\/>→ 10% discount : ENJOY10<br\/>→ Free Shipping : FREE DAYZ<\/p>",
+            "subheading": "<p>All registered customers will receive Free shipping & a 10% discount<\/p><p>Promo Code<br\/>✨ 10% discount : ENJOY10<br\/>✨ Free Shipping : FREE DAYZ<\/p>",
             "heading_text_size": 58,
-            "overlay_shadow": 60,
+            "overlay_shadow": 30,
             "max_width_subheading": 50,
             "link_text": "Learn more",
             "link": "",
-            "alignment": "left_center",
+            "alignment": "center_center",
             "color_text": "#ffffff",
             "color_text_button": "#181818",
-            "color_background_button": "#ffffff",
-            "color_overlay": "#000000",
+            "color_background_button": "#FFFFFF",
+            "color_overlay": "#000",
             "overlay_opacity": 30
           }
         },
@@ -34,7 +54,7 @@
             "title": "Review Promotion",
             "subheading": "<p>🎁 <strong>10%<\/strong> discount coupon for <strong>a text review<\/strong><br\/>🎁 <strong>20% <\/strong>discount coupon for <strong>a photo review<\/strong><br\/><br\/>* <strong>The best reviewer<\/strong> will receive a <strong>$50 gift card<\/strong> (Each month)<\/p>",
             "heading_text_size": 64,
-            "overlay_shadow": 10,
+            "overlay_shadow": 30,
             "max_width_subheading": 40,
             "link_text": "Learn more",
             "link": "",
@@ -48,7 +68,8 @@
         }
       },
       "block_order": [
-        "8a05ccad-e42a-4920-ba21-2c108e8a96d2",
+        "9fda1926-67f3-4f7d-8bb3-9bbd7fa8357f",
+        "1182a593-86d4-42ce-bd08-3d6ffa5fd9a7",
         "b4daf67b-ac86-4290-8c16-d60f560adc10"
       ],
       "settings": {
