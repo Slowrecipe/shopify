@@ -44,7 +44,7 @@
   "
   style="--text-max-width: {{ text_max_width }}rem;"
 >
-  <div class="section__inner">
+  <h2 class="section__inner">
     {% render 'section-header',
       heading: section.settings.title,
       subheading: section.settings.subheading,
@@ -80,7 +80,7 @@
         {%- endfor -%}
       {%- endfor -%}
     </div>
-  </div>
+  </h2>
 </div>
 
 {% schema %}
