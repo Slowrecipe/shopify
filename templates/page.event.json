@@ -104,8 +104,8 @@
       "type": "dropinblog-recent-posts",
       "settings": {
         "title": "Recent Promotion",
-        "num_posts": "5",
-        "display": "1",
+        "num_posts": "10",
+        "display": "2",
         "categories": "event"
       }
     }
