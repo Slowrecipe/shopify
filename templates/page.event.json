@@ -5,12 +5,12 @@
       "blocks": {
         "9fda1926-67f3-4f7d-8bb3-9bbd7fa8357f": {
           "type": "slide",
-          "disabled": true,
           "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/0629_2.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
-            "title": "Summer Sale",
-            "subheading": "<p>Until July 4th, enjoy incredible up to 20% off on our eco-friendly and sustainable products<\/p><p>✨ Promo Code : SUMMER20<\/p>",
+            "title": "",
+            "subheading": "<p><br\/><br\/><br\/>✨ Promo Code : SUMMER20<\/p>",
             "heading_text_size": 58,
             "overlay_shadow": 30,
             "max_width_subheading": 40,
