@@ -34,6 +34,7 @@
 <div
   data-section-type="blog-posts"
   class="
+    section__inner
     blog-posts
     blog-posts--columns-{{ section.settings.columns }}
     blog-posts--{{ section.settings.aspect_ratio }}
@@ -44,7 +45,7 @@
   "
   style="--text-max-width: {{ text_max_width }}rem;"
 >
-  <div class="section__inner" style="margin-top:50px!important">
+  <div class="section__inner">
     {% render 'section-header',
       heading: section.settings.title,
       subheading: section.settings.subheading,
