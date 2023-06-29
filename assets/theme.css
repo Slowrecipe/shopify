@@ -7894,7 +7894,7 @@ p + .account__cta-wrap{
 .slideshow__overlay{
   z-index:2;
   position:absolute;
-  top:0;
+  top:0!important;
   right:0;
   bottom:0;
   left:0;
@@ -14672,7 +14672,4 @@ a.link:hover{
 
 iframe { object-fit: cover!important; }
 
-/* #shopify-section-template--16321958674652__1650504951004561ae > div > div.slideshow__slides.flickity-enabled.is-draggable > div > div > div > div.slideshow__asset > div.slideshow__overlay {
-  top:0!important;
-} */
 }
