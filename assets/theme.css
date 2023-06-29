@@ -14675,4 +14675,6 @@ iframe { object-fit: cover!important; }
 #shopify-section-template--16321958674652__1650504951004561ae > div > div.slideshow__slides.flickity-enabled.is-draggable > div > div > div > div.slideshow__asset > div.image.js-enabled.slideshow__image-wrapper.slideshow__image--desktop > img {
   top:0!important;
 }
+
+.dib-recent-widget { margin-top: 50px; }
 }
