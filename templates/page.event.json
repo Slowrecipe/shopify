@@ -105,7 +105,7 @@
       "settings": {
         "title": "Recent Promotion",
         "num_posts": "5",
-        "display": "2",
+        "display": "1",
         "categories": "event"
       }
     }
