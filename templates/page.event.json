@@ -102,7 +102,6 @@
     },
     "89c46072-03f4-4e3f-860e-8760a7da622d": {
       "type": "dropinblog-recent-posts",
-      "disabled": true,
       "settings": {
         "title": "Recent Promotion",
         "num_posts": "5",
