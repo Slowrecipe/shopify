@@ -103,7 +103,7 @@
     "89c46072-03f4-4e3f-860e-8760a7da622d": {
       "type": "dropinblog-recent-posts",
       "settings": {
-        "title": "Recent Promotion",
+        "title": "Recent Events",
         "num_posts": "21",
         "display": "2",
         "categories": "event"
