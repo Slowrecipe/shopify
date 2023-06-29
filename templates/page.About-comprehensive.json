@@ -24,37 +24,15 @@
             "color_overlay": "#000000",
             "overlay_opacity": 43
           }
-        },
-        "1648054690c0c03b9f-1": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "focal_point": "center_center",
-            "mobile_focal_point": "center_center",
-            "title": "Slideshow",
-            "subheading": "<p>Use this section to make a bold statement<\/p>",
-            "heading_text_size": 64,
-            "overlay_shadow": 10,
-            "max_width_subheading": 40,
-            "link_text": "Learn more",
-            "link": "",
-            "alignment": "center_center",
-            "color_text": "#ffffff",
-            "color_text_button": "#181818",
-            "color_background_button": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 30
-          }
         }
       },
       "block_order": [
-        "1648054690c0c03b9f-0",
-        "1648054690c0c03b9f-1"
+        "1648054690c0c03b9f-0"
       ],
       "settings": {
         "image_aspect": "custom",
-        "desktop_height": 100,
-        "mobile_height": 100,
+        "desktop_height": 75,
+        "mobile_height": 70,
         "duration_autoplay": 6,
         "color_dot": "#ffffff"
       }
@@ -103,22 +81,11 @@
             "subheading": "<p>Slow Recipe searches for products that are eco-friendly and cruelty-free. We want to encourage more brands and products to find alternative ways that help protect the environment, respect the well-being of animals, and benefit us.<\/p>",
             "text_max_width": 32
           }
-        },
-        "16480544406e6a71f2-2": {
-          "type": "feature",
-          "disabled": true,
-          "settings": {
-            "image_shape": "round",
-            "heading": "Example heading",
-            "subheading": "<p>Use these small paragraph blocks to feature various aspects about a product. You can add up to three of these blocks and each can have an image associated with them.<\/p>",
-            "text_max_width": 32
-          }
         }
       },
       "block_order": [
         "16480544406e6a71f2-0",
-        "16480544406e6a71f2-1",
-        "16480544406e6a71f2-2"
+        "16480544406e6a71f2-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/43.png",
@@ -147,22 +114,11 @@
             "subheading": "<p>At Slow Recipe, we check the ingredients of all our brands and make sure we can keep our promise with you. We also try it ourselves to make sure it is effective as it is sustainable.<\/p>",
             "text_max_width": 32
           }
-        },
-        "16480575311553c720-2": {
-          "type": "feature",
-          "disabled": true,
-          "settings": {
-            "image_shape": "round",
-            "heading": "Example heading",
-            "subheading": "<p>Use these small paragraph blocks to feature various aspects about a product. You can add up to three of these blocks and each can have an image associated with them.<\/p>",
-            "text_max_width": 18
-          }
         }
       },
       "block_order": [
         "16480575311553c720-0",
-        "16480575311553c720-1",
-        "16480575311553c720-2"
+        "16480575311553c720-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/43_3118c509-2036-4b6b-aeff-e720f24a165d.png",
@@ -191,22 +147,11 @@
             "subheading": "<p>Our goal is to find brands passionate about being eco-friendly, vegan and cruelty-free. We also aim to help those to receive global certification so that they can be recognized globally for their efforts and passion.<\/p>",
             "text_max_width": 32
           }
-        },
-        "16480584739b567827-2": {
-          "type": "feature",
-          "disabled": true,
-          "settings": {
-            "image_shape": "round",
-            "heading": "Example heading",
-            "subheading": "<p>Use these small paragraph blocks to feature various aspects about a product. You can add up to three of these blocks and each can have an image associated with them.<\/p>",
-            "text_max_width": 32
-          }
         }
       },
       "block_order": [
         "16480584739b567827-0",
-        "16480584739b567827-1",
-        "16480584739b567827-2"
+        "16480584739b567827-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/43_2.png",
@@ -214,306 +159,6 @@
         "aspect_ratio": "natural",
         "text_position": "left",
         "text_alignment": "left",
-        "section_contrast": false
-      }
-    },
-    "image-with-text-1": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Trustworthy",
-            "text_max_width": 32
-          }
-        },
-        "subheading": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>At Slowrecipe, we check the ingredients of all our brands and make sure we can keep our promise with you. We also try it ourselves to make sure it is effective as it is sustainable.<\/p>",
-            "text_max_width": 24
-          }
-        },
-        "73dae8bd-fff9-4f14-9344-224ded7cda91": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "link": "",
-            "link_text": "Read more"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "subheading",
-        "73dae8bd-fff9-4f14-9344-224ded7cda91"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/43_3118c509-2036-4b6b-aeff-e720f24a165d.png",
-        "image_position": "right",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "section_contrast": false
-      }
-    },
-    "image-with-text-2": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Commitment",
-            "text_max_width": 24
-          }
-        },
-        "subheading": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Our goal is to find brands passionate about being eco-friendly, vegan and cruelty-free. We also aim to help those to receive global certification so that they can be recognized globally for their efforts and passion.<\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "subheading"
-      ],
-      "settings": {
-        "image_1": "shopify:\/\/shop_images\/43_2.png",
-        "image_position": "right",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "section_contrast": false
-      }
-    },
-    "quote": {
-      "type": "quote",
-      "disabled": true,
-      "blocks": {
-        "quote": {
-          "type": "quote",
-          "settings": {
-            "quote": "<p>Slowrecipe is your one-stop shop for your vegan and sustainable items. <\/p><p><\/p><p>We search for products that help us upgrade our everyday activities to be more eco-friendly. Come and see what we have to offer!<\/p>",
-            "author": "Steve Jordans",
-            "text_max_width": 48
-          }
-        }
-      },
-      "block_order": [
-        "quote"
-      ],
-      "settings": {
-        "timer": 4,
-        "image_shape": "round",
-        "section_contrast": true
-      }
-    },
-    "logo-list": {
-      "type": "logo-list",
-      "blocks": {
-        "logo-1": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/image_1595865121448.png",
-            "link": "shopify:\/\/collections\/brand-sodowe"
-          }
-        },
-        "logo-2": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/9.png",
-            "link": "shopify:\/\/collections\/brand-efilow"
-          }
-        },
-        "logo-3": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3.png",
-            "link": "shopify:\/\/collections\/owndo"
-          }
-        },
-        "146e020a-89cd-4136-9f5a-832eab17c518": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/barrrk.jpg",
-            "link": "shopify:\/\/collections\/barrrk"
-          }
-        },
-        "logo-4": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4.png",
-            "link": "shopify:\/\/collections\/brand-8-perscent"
-          }
-        },
-        "logo-5": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/10.png",
-            "link": "shopify:\/\/collections\/brand-donggubat"
-          }
-        },
-        "973d66cb-42cd-4947-9ab1-6c3fc4996b84": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2022-11-26_182028_180x_75289be2-aaf3-4a26-aa96-1b17da223eb4.webp",
-            "link": "shopify:\/\/collections\/codegreen"
-          }
-        },
-        "d1287257-f8b5-4260-8aa7-09a5081a9d9e": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/12_e4c662df-405b-46f2-af34-ef3712b7fb5b.png",
-            "link": "shopify:\/\/collections\/sanguine"
-          }
-        },
-        "65bf3a8b-ae61-4610-bf9a-c3e6561077d5": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/13.png",
-            "link": "shopify:\/\/collections\/toun28"
-          }
-        },
-        "aab02942-86cc-4547-8ac4-a151e5e36d25": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo_64227aca-6431-4acb-96c0-6737918caace.png",
-            "link": "shopify:\/\/collections\/yegoeun"
-          }
-        },
-        "e3c95ccb-49af-4f45-9fb5-f330d02a82c4": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/image_1600110428661_deb3a418-a0d4-4d80-83de-be56435f6628.png",
-            "link": "shopify:\/\/collections\/sowhat"
-          }
-        },
-        "d82f8cf3-cabb-4221-85d0-2e21ecbb1342": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo_bambi_5bd9a813-1a15-4efb-8502-b397873350a3.png",
-            "link": "shopify:\/\/collections\/remetome"
-          }
-        },
-        "c32de550-ce9a-413a-a6b8-c96aaf488ce4": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo_1.png",
-            "link": "shopify:\/\/collections\/yeonji"
-          }
-        },
-        "6e713a3a-babd-402b-a1e5-280ec4f4455e": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Logo_G_e1cc6672-b65a-4473-98f0-4e4992bcda0d.png",
-            "link": "shopify:\/\/collections\/1o7"
-          }
-        },
-        "210061d7-65e9-42c2-87f9-5d5b965b7d87": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/toplogo_4595b65e-4c89-4bb8-bbb4-3675274e6d30.png",
-            "link": "shopify:\/\/collections\/project-1907"
-          }
-        },
-        "f5eb73d2-33a2-4c66-b22e-52d08c07a1c1": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6_ec21905f-9391-4958-bb2d-052ef2beb184.jpg",
-            "link": "shopify:\/\/collections\/fruitybasket"
-          }
-        },
-        "c824217b-c861-4b78-b3cc-a55cc965669a": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7.jpg",
-            "link": "shopify:\/\/collections\/les-amis"
-          }
-        },
-        "fc7f21da-7665-4160-aa21-ce12465bf015": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/968b4927bd8a7.png",
-            "link": "shopify:\/\/collections\/flowermari"
-          }
-        },
-        "3357e63c-8f0f-4f17-ad2d-3d2acf1e981b": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2022-10-21_150139.jpg",
-            "link": "shopify:\/\/collections\/nature-n"
-          }
-        },
-        "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4_1f2c43af-e1c1-4968-af23-30e1f6d57814.jpg",
-            "link": "shopify:\/\/collections\/harrynmari"
-          }
-        },
-        "f74bd34d-9400-4cab-873c-ea5176258d45": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/0c3787bcb04b56a367459ac1b34d7b19.jpg",
-            "link": "shopify:\/\/collections\/cueclyp"
-          }
-        },
-        "27061da8-d2ac-4231-b295-0bf80017389c": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/256b7b8cdb576.png",
-            "link": "shopify:\/\/collections\/pleatsmama"
-          }
-        },
-        "c8d62d51-e44b-4747-8984-d50fa79a0d73": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/image_1602654015222_180x_865250ed-4efb-4497-b2f5-b29992f300e8.png",
-            "link": "shopify:\/\/collections\/momur-weekend"
-          }
-        },
-        "a82d0743-332f-466b-a54a-0793f8a3b0b2": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/403cfbc4628f397cfd4638a53b72642a_1b2a1284-8377-4780-961b-74476a24a7d1.png",
-            "link": "shopify:\/\/collections\/happy-earth"
-          }
-        }
-      },
-      "block_order": [
-        "logo-1",
-        "logo-2",
-        "logo-3",
-        "146e020a-89cd-4136-9f5a-832eab17c518",
-        "logo-4",
-        "logo-5",
-        "973d66cb-42cd-4947-9ab1-6c3fc4996b84",
-        "d1287257-f8b5-4260-8aa7-09a5081a9d9e",
-        "65bf3a8b-ae61-4610-bf9a-c3e6561077d5",
-        "aab02942-86cc-4547-8ac4-a151e5e36d25",
-        "e3c95ccb-49af-4f45-9fb5-f330d02a82c4",
-        "d82f8cf3-cabb-4221-85d0-2e21ecbb1342",
-        "c32de550-ce9a-413a-a6b8-c96aaf488ce4",
-        "6e713a3a-babd-402b-a1e5-280ec4f4455e",
-        "210061d7-65e9-42c2-87f9-5d5b965b7d87",
-        "f5eb73d2-33a2-4c66-b22e-52d08c07a1c1",
-        "c824217b-c861-4b78-b3cc-a55cc965669a",
-        "fc7f21da-7665-4160-aa21-ce12465bf015",
-        "3357e63c-8f0f-4f17-ad2d-3d2acf1e981b",
-        "aa2d7bf3-db29-4e66-abc7-5ebb6a139a64",
-        "f74bd34d-9400-4cab-873c-ea5176258d45",
-        "27061da8-d2ac-4231-b295-0bf80017389c",
-        "c8d62d51-e44b-4747-8984-d50fa79a0d73",
-        "a82d0743-332f-466b-a54a-0793f8a3b0b2"
-      ],
-      "settings": {
-        "columns": 6,
-        "gutter_spacing": 45,
-        "title": "OUR BRAND",
         "section_contrast": false
       }
     },
@@ -556,211 +201,12 @@
         "section_contrast": false
       }
     },
-    "image-with-text-4": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Image with text",
-            "text_max_width": 32
-          }
-        },
-        "subheading": {
-          "type": "subheading",
-          "settings": {
-            "subheading": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "subheading"
-      ],
-      "settings": {
-        "image_position": "left",
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_alignment": "left",
-        "section_contrast": false
-      }
-    },
     "main": {
       "type": "main-page--about",
       "disabled": true,
       "settings": {
         "intro": "",
         "content_max_width": 700
-      }
-    },
-    "blog-posts": {
-      "type": "blog-posts",
-      "disabled": true,
-      "settings": {
-        "show_date": true,
-        "columns": 2,
-        "title": "",
-        "subheading": "",
-        "text_max_width": 42,
-        "aspect_ratio": "natural",
-        "section_contrast": false
-      }
-    },
-    "text-columns-with-images": {
-      "type": "text-columns-with-images",
-      "disabled": true,
-      "blocks": {
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "heading": "Feature heading",
-            "subheading": "<p>Tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
-            "text_max_width": 42,
-            "link": "",
-            "link_text": "Read more"
-          }
-        },
-        "column-2": {
-          "type": "column",
-          "settings": {
-            "heading": "Feature heading",
-            "subheading": "<p>Tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
-            "text_max_width": 42,
-            "link": "",
-            "link_text": "Read more"
-          }
-        },
-        "column-3": {
-          "type": "column",
-          "settings": {
-            "heading": "Feature heading",
-            "subheading": "<p>Tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
-            "text_max_width": 42,
-            "link": "",
-            "link_text": "Read more"
-          }
-        },
-        "column-4": {
-          "type": "column",
-          "settings": {
-            "heading": "Feature heading",
-            "subheading": "<p>Tell a story, explain a detail about your product, or describe a new promotion.<\/p>",
-            "text_max_width": 42,
-            "link": "",
-            "link_text": "Read more"
-          }
-        }
-      },
-      "block_order": [
-        "column-1",
-        "column-2",
-        "column-3",
-        "column-4"
-      ],
-      "settings": {
-        "columns": 4,
-        "image_shape": "round",
-        "text_alignment": "center",
-        "section_contrast": true
-      }
-    },
-    "164805414817af8baf": {
-      "type": "inline-features",
-      "disabled": true,
-      "blocks": {
-        "1648054148ee9b0040-0": {
-          "type": "feature",
-          "settings": {
-            "show_image": true,
-            "heading": "Example Title",
-            "subheading": "<p>Simple short description<\/p>",
-            "text_max_width": 42
-          }
-        },
-        "1648054148ee9b0040-1": {
-          "type": "feature",
-          "settings": {
-            "show_image": true,
-            "heading": "Example Title",
-            "subheading": "<p>Simple short description<\/p>",
-            "text_max_width": 42
-          }
-        },
-        "1648054148ee9b0040-2": {
-          "type": "feature",
-          "settings": {
-            "show_image": true,
-            "heading": "Example Title",
-            "subheading": "<p>Simple short description<\/p>",
-            "text_max_width": 42
-          }
-        },
-        "4ebeb6df-d431-4d07-996e-d4ab07689c53": {
-          "type": "feature",
-          "settings": {
-            "show_image": true,
-            "heading": "Example Title",
-            "subheading": "<p>Simple short description<\/p>",
-            "text_max_width": 42
-          }
-        }
-      },
-      "block_order": [
-        "1648054148ee9b0040-0",
-        "1648054148ee9b0040-1",
-        "1648054148ee9b0040-2",
-        "4ebeb6df-d431-4d07-996e-d4ab07689c53"
-      ],
-      "settings": {
-        "columns": 3,
-        "image_shape": "round",
-        "text_alignment": "left",
-        "section_contrast": true
-      }
-    },
-    "16480584695ad9c22d": {
-      "type": "image-with-features",
-      "disabled": true,
-      "blocks": {
-        "1648058469d7b98622-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Images with Features",
-            "text_max_width": 32
-          }
-        },
-        "1648058469d7b98622-1": {
-          "type": "feature",
-          "settings": {
-            "image_shape": "round",
-            "heading": "Example heading",
-            "subheading": "<p>Use these small paragraph blocks to feature various aspects about a product. You can add up to three of these blocks and each can have an image associated with them.<\/p>",
-            "text_max_width": 32
-          }
-        },
-        "1648058469d7b98622-2": {
-          "type": "feature",
-          "settings": {
-            "image_shape": "round",
-            "heading": "Example heading",
-            "subheading": "<p>Use these small paragraph blocks to feature various aspects about a product. You can add up to three of these blocks and each can have an image associated with them.<\/p>",
-            "text_max_width": 32
-          }
-        }
-      },
-      "block_order": [
-        "1648058469d7b98622-0",
-        "1648058469d7b98622-1",
-        "1648058469d7b98622-2"
-      ],
-      "settings": {
-        "image_width": "half",
-        "aspect_ratio": "natural",
-        "text_position": "left",
-        "text_alignment": "left",
-        "section_contrast": false
       }
     }
   },
@@ -770,17 +216,8 @@
     "16480544400fb1848c",
     "164805753183c52ae4",
     "16480584733613ce5b",
-    "image-with-text-1",
-    "image-with-text-2",
-    "quote",
-    "logo-list",
     "image-with-text-3",
     "1648056691ebfe1f5d",
-    "image-with-text-4",
-    "main",
-    "blog-posts",
-    "text-columns-with-images",
-    "164805414817af8baf",
-    "16480584695ad9c22d"
+    "main"
   ]
 }
