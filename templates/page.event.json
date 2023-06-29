@@ -87,6 +87,15 @@
         "content_max_width": 400
       }
     },
+    "89c46072-03f4-4e3f-860e-8760a7da622d": {
+      "type": "dropinblog-recent-posts",
+      "settings": {
+        "title": "Recent Events",
+        "num_posts": "21",
+        "display": "2",
+        "categories": "event"
+      }
+    },
     "1659341269777a1bb1": {
       "type": "featured-collection",
       "settings": {
@@ -99,21 +108,12 @@
         "aspect_ratio": "portrait",
         "section_contrast": false
       }
-    },
-    "89c46072-03f4-4e3f-860e-8760a7da622d": {
-      "type": "dropinblog-recent-posts",
-      "settings": {
-        "title": "Recent Events",
-        "num_posts": "21",
-        "display": "2",
-        "categories": "event"
-      }
     }
   },
   "order": [
     "1650504951004561ae",
     "main",
-    "1659341269777a1bb1",
-    "89c46072-03f4-4e3f-860e-8760a7da622d"
+    "89c46072-03f4-4e3f-860e-8760a7da622d",
+    "1659341269777a1bb1"
   ]
 }
