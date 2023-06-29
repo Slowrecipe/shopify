@@ -31,7 +31,6 @@
   </div>
 {%- endcapture -%}
 
-<br><br><br>
 <div
   data-section-type="blog-posts"
   class="
@@ -46,6 +45,7 @@
   style="--text-max-width: {{ text_max_width }}rem;"
 >
   <div class="section__inner">
+    <br><br><br>
     {% render 'section-header',
       heading: section.settings.title,
       subheading: section.settings.subheading,
