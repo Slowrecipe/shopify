@@ -3,17 +3,17 @@
     "1650504951004561ae": {
       "type": "slideshow",
       "blocks": {
-        "9fda1926-67f3-4f7d-8bb3-9bbd7fa8357f": {
+        "b4daf67b-ac86-4290-8c16-d60f560adc10": {
           "type": "slide",
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/0629_2.jpg",
+            "desktop_image": "shopify:\/\/shop_images\/2023-06-26_145214.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
-            "title": "",
-            "subheading": "",
-            "heading_text_size": 58,
-            "overlay_shadow": 30,
-            "max_width_subheading": 40,
+            "title": "Review Promotion",
+            "subheading": "<p>🎁 <strong>10%<\/strong> discount coupon for <strong>a text review<\/strong><br\/>🎁 <strong>20% <\/strong>discount coupon for <strong>a photo review<\/strong><br\/><br\/>* <strong>The best reviewer<\/strong> will receive a <strong>$50 gift card<\/strong> (Each month)<\/p>",
+            "heading_text_size": 48,
+            "overlay_shadow": 35,
+            "max_width_subheading": 50,
             "link_text": "Learn more",
             "link": "",
             "alignment": "center_center",
@@ -21,7 +21,7 @@
             "color_text_button": "#181818",
             "color_background_button": "#ffffff",
             "color_overlay": "#000000",
-            "overlay_opacity": 10
+            "overlay_opacity": 40
           }
         },
         "1182a593-86d4-42ce-bd08-3d6ffa5fd9a7": {
@@ -44,33 +44,11 @@
             "color_overlay": "#000000",
             "overlay_opacity": 40
           }
-        },
-        "b4daf67b-ac86-4290-8c16-d60f560adc10": {
-          "type": "slide",
-          "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/2023-06-26_145214.jpg",
-            "focal_point": "center_center",
-            "mobile_focal_point": "center_center",
-            "title": "Review Promotion",
-            "subheading": "<p>🎁 <strong>10%<\/strong> discount coupon for <strong>a text review<\/strong><br\/>🎁 <strong>20% <\/strong>discount coupon for <strong>a photo review<\/strong><br\/><br\/>* <strong>The best reviewer<\/strong> will receive a <strong>$50 gift card<\/strong> (Each month)<\/p>",
-            "heading_text_size": 48,
-            "overlay_shadow": 35,
-            "max_width_subheading": 50,
-            "link_text": "Learn more",
-            "link": "",
-            "alignment": "center_center",
-            "color_text": "#ffffff",
-            "color_text_button": "#181818",
-            "color_background_button": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 40
-          }
         }
       },
       "block_order": [
-        "9fda1926-67f3-4f7d-8bb3-9bbd7fa8357f",
-        "1182a593-86d4-42ce-bd08-3d6ffa5fd9a7",
-        "b4daf67b-ac86-4290-8c16-d60f560adc10"
+        "b4daf67b-ac86-4290-8c16-d60f560adc10",
+        "1182a593-86d4-42ce-bd08-3d6ffa5fd9a7"
       ],
       "settings": {
         "image_aspect": "custom",
