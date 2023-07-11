@@ -5,6 +5,7 @@
       "blocks": {
         "b4daf67b-ac86-4290-8c16-d60f560adc10": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/2023-06-26_145214.jpg",
             "focal_point": "center_center",
