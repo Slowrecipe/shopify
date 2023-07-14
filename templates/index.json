@@ -17,6 +17,7 @@
           "type": "slide",
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/14_ce13c8eb-7391-43bd-b6ea-d2f9acbe746c.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/13.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "momur",
