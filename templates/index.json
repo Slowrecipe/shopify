@@ -24,7 +24,7 @@
             "subheading": "<p>NEW ARRIVAL<\/p><p>Momur Weekend's sixth series <strong>‘CITY LIFE'<\/strong><\/p>",
             "heading_text_size": 56,
             "overlay_shadow": 0,
-            "max_width_subheading": 40,
+            "max_width_subheading": 36,
             "link_text": "SEE WHAT'S NEW",
             "link": "shopify:\/\/collections\/momur-weekend",
             "alignment": "center_center",
@@ -32,7 +32,7 @@
             "color_text_button": "#ffffff",
             "color_background_button": "#417b41",
             "color_overlay": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 26
           }
         },
         "ac04a43d-fbae-4f8b-86ec-846e146a5a9c": {
