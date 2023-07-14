@@ -29,8 +29,8 @@
             "link": "shopify:\/\/collections\/momur-weekend",
             "alignment": "center_center",
             "color_text": "#ffffff",
-            "color_text_button": "#181818",
-            "color_background_button": "#ffffff",
+            "color_text_button": "#ffffff",
+            "color_background_button": "#417b41",
             "color_overlay": "#000000",
             "overlay_opacity": 30
           }
