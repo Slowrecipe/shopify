@@ -860,6 +860,26 @@
     "social-proof": {
       "type": "social-proof",
       "blocks": {
+        "post-1": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360096741_17939786837678384_2933828344390102059_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/CurOBDKPBO0\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+            "likes": "29",
+            "account": "@my_slowrecipe",
+            "caption": "<p>✨ Discover why everyone in Korea is obsessed with momur, a retro-chic pottery homeware brand. We're thrilled to unveil their...<\/p>"
+          }
+        },
+        "post-2": {
+          "type": "post",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/358796924_223275903477400_2310952228245298256_n.jpg",
+            "link": "https:\/\/www.instagram.com\/p\/CujfuKmP9GK\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+            "likes": "36",
+            "account": "@my_slowrecipe",
+            "caption": "<p>🌞 Embrace the summer vibes with our TOP 5 must-have sustainable best sellers from our Slow Recipe Summer Sale 🌞...<\/p>"
+          }
+        },
         "post-3": {
           "type": "post",
           "settings": {
@@ -869,32 +889,12 @@
             "account": "@my_slowrecipe",
             "caption": "<p>Wanderlust with a conscience! With vacation season upon us it is always important to remember that we have the responsibility of...<\/p>"
           }
-        },
-        "post-1": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/357512953_230689019838323_446294825820921671_n.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/CuReI92vkJF\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
-            "likes": "29",
-            "account": "@my_slowrecipe",
-            "caption": "<p>🛁 Join the plastic-free revolution in the bathroom! Switch to eco-friendly soap bars for a zero waste routine that's...<\/p>"
-          }
-        },
-        "post-2": {
-          "type": "post",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/356384191_789743239477098_2318404963931975654_n.jpg",
-            "link": "https:\/\/www.instagram.com\/p\/Ct_dOucPVCl\/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
-            "likes": "36",
-            "account": "@my_slowrecipe",
-            "caption": "<p>🌱 Unveil the Power of Botanicals with Clean Beauty Korean Skincare brand PMMD Serums!...<\/p>"
-          }
         }
       },
       "block_order": [
-        "post-3",
         "post-1",
-        "post-2"
+        "post-2",
+        "post-3"
       ],
       "settings": {
         "columns": 3,
