@@ -13,6 +13,28 @@
     "slideshow-1": {
       "type": "slideshow",
       "blocks": {
+        "94bf4508-05d3-48d8-aeab-d2cac050d250": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/311868540_1879740462357882_4301700396059642369_n_1.jpg",
+            "focal_point": "center_center",
+            "mobile_focal_point": "center_center",
+            "title": "Donggubat Soap Bar Promotion",
+            "subheading": "<p>From today until 7\/31, get 50% off on our entire range of Donggubat soap!<\/p>",
+            "heading_text_size": 64,
+            "overlay_shadow": 10,
+            "max_width_subheading": 40,
+            "link_text": "SHOP NOW",
+            "link": "https:\/\/slowrecipe.myshopify.com\/collections\/donggubat-soap-bar-promo",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
         "3ac727ff-004f-4051-9795-87a22022b69d": {
           "type": "slide",
           "settings": {
@@ -77,27 +99,6 @@
             "overlay_opacity": 30
           }
         },
-        "94bf4508-05d3-48d8-aeab-d2cac050d250": {
-          "type": "slide",
-          "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/banner_775d270f-cd67-47dc-8013-855822ab7f51.jpg",
-            "focal_point": "center_center",
-            "mobile_focal_point": "center_center",
-            "title": "Daegu1988",
-            "subheading": "<p>Daegu1988, a brand that has delivered delicate craftsmanship and sincerity for over 30 years<\/p>",
-            "heading_text_size": 64,
-            "overlay_shadow": 10,
-            "max_width_subheading": 40,
-            "link_text": "SHOP NOW",
-            "link": "shopify:\/\/collections\/daegu1988",
-            "alignment": "center_center",
-            "color_text": "#ffffff",
-            "color_text_button": "#181818",
-            "color_background_button": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 30
-          }
-        },
         "slide-2": {
           "type": "slide",
           "settings": {
@@ -121,10 +122,10 @@
         }
       },
       "block_order": [
+        "94bf4508-05d3-48d8-aeab-d2cac050d250",
         "3ac727ff-004f-4051-9795-87a22022b69d",
         "ac04a43d-fbae-4f8b-86ec-846e146a5a9c",
         "345d8031-d4ba-4e9c-b189-60bf22ddc985",
-        "94bf4508-05d3-48d8-aeab-d2cac050d250",
         "slide-2"
       ],
       "settings": {
