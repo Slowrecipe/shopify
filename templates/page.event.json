@@ -151,7 +151,7 @@
         "image_1": "shopify:\/\/shop_images\/0620.jpg",
         "image_position": "left",
         "image_width": "half",
-        "aspect_ratio": "natural",
+        "aspect_ratio": "landscape",
         "text_alignment": "left",
         "section_contrast": false
       }
