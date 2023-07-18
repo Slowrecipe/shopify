@@ -69,6 +69,27 @@
         "enable_video_looping": true
       }
     },
+    "16587911862c0936b4": {
+      "type": "apps",
+      "blocks": {
+        "11fe3578-e9e1-469b-a10f-c433ed9b8078": {
+          "type": "shopify:\/\/apps\/ryviu-product-reviews-qa\/blocks\/ryviu-widget\/807ad6ed-1a6a-4559-abea-ed062858d9da",
+          "settings": {
+            "r_wapper_class": "",
+            "r_max_width": 1920,
+            "r_padding_block": 30,
+            "hide_when_no_reviews": false,
+            "one_col_on_mobile": false,
+            "hide_title_image_form": false
+          }
+        }
+      },
+      "block_order": [
+        "11fe3578-e9e1-469b-a10f-c433ed9b8078"
+      ],
+      "settings": {
+      }
+    },
     "product-footer": {
       "type": "main-product--footer",
       "blocks": {
@@ -114,27 +135,6 @@
       "settings": {
       }
     },
-    "16587911862c0936b4": {
-      "type": "apps",
-      "blocks": {
-        "11fe3578-e9e1-469b-a10f-c433ed9b8078": {
-          "type": "shopify:\/\/apps\/ryviu-product-reviews-qa\/blocks\/ryviu-widget\/807ad6ed-1a6a-4559-abea-ed062858d9da",
-          "settings": {
-            "r_wapper_class": "",
-            "r_max_width": 1920,
-            "r_padding_block": 30,
-            "hide_when_no_reviews": false,
-            "one_col_on_mobile": false,
-            "hide_title_image_form": false
-          }
-        }
-      },
-      "block_order": [
-        "11fe3578-e9e1-469b-a10f-c433ed9b8078"
-      ],
-      "settings": {
-      }
-    },
     "recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -149,8 +149,8 @@
   },
   "order": [
     "main",
-    "product-footer",
     "16587911862c0936b4",
+    "product-footer",
     "recommendations"
   ]
 }
