@@ -59,6 +59,84 @@
         "color_dot": "#ffffff"
       }
     },
+    "e4e17414-78f5-45af-a010-56c265e6716e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16321958674652__e4e17414-78f5-45af-a010-56c265e6716e-168964224338a0e794-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Membership Special Offer",
+            "text_max_width": 38
+          }
+        },
+        "template--16321958674652__e4e17414-78f5-45af-a010-56c265e6716e-168964224338a0e794-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>All registered customers will receive Free shipping & a 10% discount!<\/p>",
+            "text_max_width": 32
+          }
+        },
+        "0252cb17-c8b2-44bc-baa6-d105f91631ff": {
+          "type": "button",
+          "settings": {
+            "link": "https:\/\/www.slowrecipe.com",
+            "link_text": "Learn more"
+          }
+        }
+      },
+      "block_order": [
+        "template--16321958674652__e4e17414-78f5-45af-a010-56c265e6716e-168964224338a0e794-0",
+        "template--16321958674652__e4e17414-78f5-45af-a010-56c265e6716e-168964224338a0e794-1",
+        "0252cb17-c8b2-44bc-baa6-d105f91631ff"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/img_main.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "section_contrast": false
+      }
+    },
+    "e05e501b-05f0-461b-b8ff-c9f8638f781e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16321958674652__e05e501b-05f0-461b-b8ff-c9f8638f781e-168964224338a0e794-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Review Promotion",
+            "text_max_width": 32
+          }
+        },
+        "template--16321958674652__e05e501b-05f0-461b-b8ff-c9f8638f781e-168964224338a0e794-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<p>Share your thoughts and get rewarded! 📝<br\/><br\/>Participate in our Slow Recipe review event to receive a 10% discount coupon for a text review or a generous 20% off for any review with photos! 📸<\/p>",
+            "text_max_width": 48
+          }
+        },
+        "991584cb-0277-426a-ab90-45b6fd8cd3c4": {
+          "type": "button",
+          "settings": {
+            "link": "https:\/\/www.slowrecipe.com\/a\/blog\/share-your-thoughts-and-get-rewarded",
+            "link_text": "Learn more"
+          }
+        }
+      },
+      "block_order": [
+        "template--16321958674652__e05e501b-05f0-461b-b8ff-c9f8638f781e-168964224338a0e794-0",
+        "template--16321958674652__e05e501b-05f0-461b-b8ff-c9f8638f781e-168964224338a0e794-1",
+        "991584cb-0277-426a-ab90-45b6fd8cd3c4"
+      ],
+      "settings": {
+        "image_1": "shopify:\/\/shop_images\/0620.jpg",
+        "image_position": "left",
+        "image_width": "half",
+        "aspect_ratio": "natural",
+        "text_alignment": "left",
+        "section_contrast": false
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -91,6 +169,8 @@
   },
   "order": [
     "1650504951004561ae",
+    "e4e17414-78f5-45af-a010-56c265e6716e",
+    "e05e501b-05f0-461b-b8ff-c9f8638f781e",
     "main",
     "89c46072-03f4-4e3f-860e-8760a7da622d",
     "1659341269777a1bb1"
