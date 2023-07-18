@@ -14678,5 +14678,10 @@ iframe { object-fit: cover!important; }
 #shopify-section-template--16293793693916__slideshow-1 > div > div.slideshow__slides.flickity-enabled.is-draggable > div > div > div.slideshow__cell.slideshow__cell--has-mobile-image.is-visible > div.slideshow__asset > div.image.js-enabled.slideshow__image-wrapper.slideshow__image--mobile > img
 { top:0!important; }
 
+#shopify-section-template--16321958674652__e4e17414-78f5-45af-a010-56c265e6716e > div > div > div.image-with-text__image-container > div > div > div > img,
+#shopify-section-template--16321958674652__e05e501b-05f0-461b-b8ff-c9f8638f781e > div > div > div.image-with-text__image-container > div > div > div > img {
+  top:0
+}
+
 .dib-recent-widget { margin-top: 80px; }
 }
