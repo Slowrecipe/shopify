@@ -61,6 +61,7 @@
     },
     "e4e17414-78f5-45af-a010-56c265e6716e": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--16321958674652__e4e17414-78f5-45af-a010-56c265e6716e-168964224338a0e794-0": {
           "type": "heading",
@@ -100,6 +101,7 @@
     },
     "e05e501b-05f0-461b-b8ff-c9f8638f781e": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--16321958674652__e05e501b-05f0-461b-b8ff-c9f8638f781e-168964224338a0e794-0": {
           "type": "heading",
@@ -152,19 +154,6 @@
         "display": "2",
         "categories": "event"
       }
-    },
-    "1659341269777a1bb1": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "new-arrival",
-        "columns": 4,
-        "title": "Keep up With Slow Recipe",
-        "subheading": "",
-        "link_text": "",
-        "text_max_width": 37,
-        "aspect_ratio": "portrait",
-        "section_contrast": false
-      }
     }
   },
   "order": [
@@ -172,7 +161,6 @@
     "e4e17414-78f5-45af-a010-56c265e6716e",
     "e05e501b-05f0-461b-b8ff-c9f8638f781e",
     "main",
-    "89c46072-03f4-4e3f-860e-8760a7da622d",
-    "1659341269777a1bb1"
+    "89c46072-03f4-4e3f-860e-8760a7da622d"
   ]
 }
