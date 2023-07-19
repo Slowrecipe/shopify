@@ -21,7 +21,7 @@
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
             "title": "Donggubat Soap Bar Promotion",
-            "subheading": "<p>From today until 7\/31, get 50% off on our entire range of Donggubat soap!<\/p>",
+            "subheading": "<p>From today until 7\/31, <strong>get 50% off<\/strong> <br\/>on our entire range of Donggubat soap!<\/p>",
             "heading_text_size": 64,
             "overlay_shadow": 10,
             "max_width_subheading": 40,
