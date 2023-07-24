@@ -14672,8 +14672,8 @@ a.link:hover{
 
 iframe { object-fit: cover!important; }
 
-#shopify-section-header > header > div.header__inner > div.header__center > h1 > a > img {
-  top:-10px;
+div.product > div.lightbox > div.lightbox__image-nav > div > button > div > img {
+  top: -10px;
 }
 
 div.product > div.lightbox.active.visible > div.lightbox__image-nav > div > button:nth-child(9) > div > img,
