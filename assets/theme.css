@@ -14672,7 +14672,7 @@ a.link:hover{
 
 iframe { object-fit: cover!important; }
 
-div.image js-enabled > img.image__img,
+div.image > img.image__img,
 #shopify-section-template--16321958674652__1650504951004561ae > div > div.slideshow__slides.flickity-enabled.is-draggable > div > div > div > div.slideshow__asset > div.image.js-enabled.slideshow__image-wrapper.slideshow__image--desktop > img,
 #shopify-section-template--16293792940252__1648054690510cbe66 > div > div > div > div.slideshow__asset > div.image.js-enabled.slideshow__image-wrapper.slideshow__image--desktop > img,
 #shopify-section-template--16293792940252__1648054690510cbe66 > div > div > div > div.slideshow__asset > div.image.js-enabled.slideshow__image-wrapper.slideshow__image--mobile > img,
