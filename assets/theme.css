@@ -9749,7 +9749,6 @@ a.logo-list__item:hover{
   position:absolute;
   object-fit:cover;
   object-position:center;
-/*   top:-10px;   */
   width:100%;
   height:100%
 }
@@ -14681,6 +14680,10 @@ iframe { object-fit: cover!important; }
 #shopify-section-template--16321958674652__e4e17414-78f5-45af-a010-56c265e6716e > div > div > div.image-with-text__image-container > div > div > div > img,
 #shopify-section-template--16321958674652__e05e501b-05f0-461b-b8ff-c9f8638f781e > div > div > div.image-with-text__image-container > div > div > div > img {
   top:0
+}
+
+#shopify-section-header > header > div.header__inner > div.header__center > h1 > a > div.image.js-enabled.image--31348900397276.regular-logo > img {
+  top: -10px;
 }
 
 .dib-recent-widget { margin-top: 80px; }
