@@ -14672,7 +14672,7 @@ a.link:hover{
 
 iframe { object-fit: cover!important; }
 
-#shopify-section-header > header > div.header__inner > div.header__center > h1 > a > div.image.js-enabled.image--31348900397276.regular-logo > img {
+#shopify-section-header > header > div.header__inner > div.header__center > h1 > a > div.image.js-enabled > img {
   top:-10px;
 }
 
