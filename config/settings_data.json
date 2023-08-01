@@ -53,15 +53,6 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
-          "announcement-bar-0": {
-            "type": "announcement",
-            "settings": {
-              "title": "🎈 SODOWE. MOUTHWASH 20% OFF 🎈",
-              "link": "shopify:\/\/products\/sodowe-vegan-oil-pulling-mouthwash-16-90-fl-oz",
-              "color_background": "#ffffff",
-              "color_text": "#000000"
-            }
-          },
           "73129595-ecac-40d4-af84-2c101a817d53": {
             "type": "announcement",
             "settings": {
@@ -70,11 +61,20 @@
               "color_background": "#ffffff",
               "color_text": "#000000"
             }
+          },
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "title": "🎈 SODOWE. MOUTHWASH 20% OFF 🎈",
+              "link": "shopify:\/\/products\/sodowe-vegan-oil-pulling-mouthwash-16-90-fl-oz",
+              "color_background": "#ffffff",
+              "color_text": "#000000"
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0",
-          "73129595-ecac-40d4-af84-2c101a817d53"
+          "73129595-ecac-40d4-af84-2c101a817d53",
+          "announcement-bar-0"
         ],
         "settings": {
           "timing": 4
