@@ -55,7 +55,6 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
               "title": "🎈 SODOWE. MOUTHWASH 20% OFF 🎈",
               "link": "shopify:\/\/products\/sodowe-vegan-oil-pulling-mouthwash-16-90-fl-oz",
