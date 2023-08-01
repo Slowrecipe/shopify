@@ -62,10 +62,20 @@
               "color_background": "#ffffff",
               "color_text": "#000000"
             }
+          },
+          "73129595-ecac-40d4-af84-2c101a817d53": {
+            "type": "announcement",
+            "settings": {
+              "title": "All those who complete the survey will receive a 30% discount code! 😀",
+              "link": "",
+              "color_background": "#FFFFFF",
+              "color_text": "#000000"
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "73129595-ecac-40d4-af84-2c101a817d53"
         ],
         "settings": {
           "timing": 4
