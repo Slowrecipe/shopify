@@ -55,6 +55,7 @@
         "blocks": {
           "73129595-ecac-40d4-af84-2c101a817d53": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "title": "😀 Purchase product and complete the survey 😀",
               "link": "https:\/\/answer.moaform.com\/answers\/Wyq1vj",
