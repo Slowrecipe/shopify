@@ -70,11 +70,21 @@
               "color_background": "#ffffff",
               "color_text": "#000000"
             }
+          },
+          "be50e99f-097e-4247-ba84-3e15328097f2": {
+            "type": "announcement",
+            "settings": {
+              "title": "🌿 FREE Shipping on Orders over $30",
+              "link": "",
+              "color_background": "#FFFFFF",
+              "color_text": "#000000"
+            }
           }
         },
         "block_order": [
           "73129595-ecac-40d4-af84-2c101a817d53",
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "be50e99f-097e-4247-ba84-3e15328097f2"
         ],
         "settings": {
           "timing": 4
