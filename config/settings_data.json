@@ -57,7 +57,7 @@
             "type": "announcement",
             "settings": {
               "title": "🛒 Buy & Complete Survey for 30% OFF Coupon!",
-              "link": "https:\/\/answer.moaform.com\/answers\/Wyq1vj",
+              "link": "",
               "color_background": "#ffffff",
               "color_text": "#000000"
             }
@@ -67,7 +67,7 @@
             "settings": {
               "title": "🌿 FREE Shipping on orders over $30",
               "link": "",
-              "color_background": "#FFFFFF",
+              "color_background": "#ffffff",
               "color_text": "#000000"
             }
           },
