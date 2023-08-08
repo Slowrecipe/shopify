@@ -338,7 +338,7 @@
       "no_rates": "Shipping rate unavailable",
       "on_sale": "Sale",
       "on_sale_from_html": "from {{ price }}",
-      "on_sale_percent": "{{ Values }}% off",
+      "on_sale_percent": "{{ value }}% off",
       "on_sale_varied": "Up to",
       "quantity": "Quantity",
       "quantity_error": "Quantity selected exceeds current stock",
