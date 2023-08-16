@@ -15,24 +15,23 @@
       "blocks": {
         "94bf4508-05d3-48d8-aeab-d2cac050d250": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/W6__05_1080x_8067ce7e-d916-41b7-978f-74a492290aca.jpg",
+            "desktop_image": "shopify:\/\/shop_images\/artichoke-1.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
-            "title": "momur Brand Sale",
-            "subheading": "<p>Enjoy a delightful 20% off on ALL our momur products!<br\/>(~8\/15)<\/p>",
-            "heading_text_size": 56,
-            "overlay_shadow": 25,
+            "title": "efilow Brand Sale",
+            "subheading": "<p>From today until 8\/31 all our beloved efilow skincare products will be up to 50% off<\/p>",
+            "heading_text_size": 60,
+            "overlay_shadow": 35,
             "max_width_subheading": 40,
             "link_text": "Learn More",
-            "link": "https:\/\/slowrecipe.myshopify.com\/collections\/momur-weekend",
+            "link": "https:\/\/slowrecipe.myshopify.com\/collections\/brand-efilow",
             "alignment": "center_center",
             "color_text": "#ffffff",
             "color_text_button": "#181818",
             "color_background_button": "#ffffff",
             "color_overlay": "#000000",
-            "overlay_opacity": 30
+            "overlay_opacity": 41
           }
         },
         "3ac727ff-004f-4051-9795-87a22022b69d": {
