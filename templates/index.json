@@ -17,11 +17,11 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/artichoke-1.jpg",
+            "desktop_image": "shopify:\/\/shop_images\/sns_image2-2_0829.png",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
-            "title": "efilow Brand Sale",
-            "subheading": "<p>From today until 8\/31 all our beloved efilow skincare products will be <strong>up to 50% off<\/strong><\/p>",
+            "title": "Labor Day Sale",
+            "subheading": "<p>Enjoy a Sustainable Shopping Spree at Slow Recipe with 20% OFF on all products sitewide starting from today through 9\/5. <\/p>",
             "heading_text_size": 60,
             "overlay_shadow": 30,
             "max_width_subheading": 38,
@@ -32,7 +32,7 @@
             "color_text_button": "#181818",
             "color_background_button": "#ffffff",
             "color_overlay": "#000000",
-            "overlay_opacity": 41
+            "overlay_opacity": 58
           }
         },
         "3ac727ff-004f-4051-9795-87a22022b69d": {
