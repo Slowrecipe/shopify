@@ -91,22 +91,14 @@
         "template--16321958674652__e4e17414-78f5-45af-a010-56c265e6716e-168964224338a0e794-1": {
           "type": "subheading",
           "settings": {
-            "subheading": "<p>All registered customers will receive Free shipping & a 10% discount!<\/p>",
+            "subheading": "<p>All registered customers will receive Free shipping & a 10% discount!<\/p><p>Promo Code<br\/>✨ 10% discount : ENJOY10<br\/>✨ Free Shipping : FREE DAYZ<\/p>",
             "text_max_width": 32
-          }
-        },
-        "0252cb17-c8b2-44bc-baa6-d105f91631ff": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/new-arrival",
-            "link_text": "Learn more"
           }
         }
       },
       "block_order": [
         "template--16321958674652__e4e17414-78f5-45af-a010-56c265e6716e-168964224338a0e794-0",
-        "template--16321958674652__e4e17414-78f5-45af-a010-56c265e6716e-168964224338a0e794-1",
-        "0252cb17-c8b2-44bc-baa6-d105f91631ff"
+        "template--16321958674652__e4e17414-78f5-45af-a010-56c265e6716e-168964224338a0e794-1"
       ],
       "settings": {
         "image_1": "shopify:\/\/shop_images\/img_main.jpg",
