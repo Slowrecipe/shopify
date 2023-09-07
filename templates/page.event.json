@@ -2,7 +2,6 @@
   "sections": {
     "1650504951004561ae": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "b4daf67b-ac86-4290-8c16-d60f560adc10": {
           "type": "slide",
@@ -52,6 +51,7 @@
         "b4daf67b-ac86-4290-8c16-d60f560adc10",
         "1182a593-86d4-42ce-bd08-3d6ffa5fd9a7"
       ],
+      "disabled": true,
       "settings": {
         "image_aspect": "custom",
         "desktop_height": 75,
@@ -98,7 +98,7 @@
         "0252cb17-c8b2-44bc-baa6-d105f91631ff": {
           "type": "button",
           "settings": {
-            "link": "https:\/\/www.slowrecipe.com",
+            "link": "shopify:\/\/collections\/new-arrival",
             "link_text": "Learn more"
           }
         }
