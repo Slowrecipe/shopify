@@ -15,14 +15,14 @@
       "blocks": {
         "94bf4508-05d3-48d8-aeab-d2cac050d250": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/sns_image3-2_0904.png",
+            "desktop_image": "shopify:\/\/shop_images\/img_04_9b9e50db-3f79-4ba8-bf12-fe017c27181b.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/img_05_4e6bda7b-47a2-4c64-a197-20bc52e0c4fd.jpg",
             "focal_point": "center_center",
             "mobile_focal_point": "center_center",
-            "title": "Labor Day Sale",
-            "subheading": "<p>Enjoy a Sustainable Shopping Spree at Slow Recipe with 20% OFF on all products sitewide starting from today through 9\/5. <\/p>",
-            "heading_text_size": 60,
+            "title": "New Arrival 'The Reminders'",
+            "subheading": "<p>Introducing sustainability, luxury, and captivating scents all in one bottle with the latest products 'The Reminders'<br\/><strong>15% OFF until 12 September<\/strong><\/p>",
+            "heading_text_size": 50,
             "overlay_shadow": 30,
             "max_width_subheading": 38,
             "link_text": "Learn More",
@@ -32,7 +32,7 @@
             "color_text_button": "#181818",
             "color_background_button": "#ffffff",
             "color_overlay": "#000000",
-            "overlay_opacity": 58
+            "overlay_opacity": 35
           }
         },
         "3ac727ff-004f-4051-9795-87a22022b69d": {
