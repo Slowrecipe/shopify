@@ -911,7 +911,7 @@
     "8c889ae6-5a1b-46a9-940b-e4d7eb1799cb": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<br>\n<h2 class=\"rich-text__heading ff-heading fs-heading-2-base fs-heading-1-base-ns\">Instagram<\/h2>\n<div class=\"rich-text__subheading rte ff-body fs-body-base fs-body-large-ns\" style=\"--text-max-width: 42rem;\">\n<p>Join our community<\/p>\n<\/div>"
+        "custom_liquid": "<br>\n<h2 class=\"rich-text__heading ff-heading fs-heading-2-base fs-heading-1-base-ns\">Instagram<\/h2>\n<div class=\"rich-text__subheading rte ff-body fs-body-base fs-body-large-ns\" style=\"--text-max-width: 42rem;\">\n<p>Join our community<\/p>\n<\/div>\n<br>"
       }
     },
     "social_widget_59644": {
