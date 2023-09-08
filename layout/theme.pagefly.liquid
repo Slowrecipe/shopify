@@ -27,9 +27,34 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
 -->
 
 <html class="no-js" lang="{{ request.locale.iso_code }}" style="--announcement-height: 1px;">
-<head>{% render 'pagefly-head' %}
+<head>
+<!-- RYVIU APP :: Settings global -->
+<script> var ryviu_global_settings = {{shop.metafields.ryviu.user_settings }}; </script>
+<!-- RYVIU APP -->
+
+	 {%- if dropinblog == 1 -%}{{ dropinblog_head_top }}{%- endif -%}{% render 'pagefly-head' %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SVZ08Q36JW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SVZ08Q36JW');
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11265067089">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11265067089');
+</script>
   
-  <!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-222133515-1"></script>
 <script src="Assets/test_print.js"></script>
 <script>
@@ -71,10 +96,8 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta property="og:image" content="https://cdn.shopify.com/s/files/1/0610/2496/0732/files/img_kko_900x.png?v=1657065296">
-  <meta name="facebook-domain-verification" content="snkkgk68ofdfru4bq56nlfj2znycoc" />
-  <meta name="facebook-domain-verification" content="65nhj0h5k9vfc9p67e2dl269z34yv2" />
-  <meta name="facebook-domain-verification" content="eaddmi5bawm9oku6tf2yzchhvhb72t" />
   <meta property="og:description" content="We only have one Earth">
+  <meta name="facebook-domain-verification" content="qepyko14cqh2kzhz25ujir24pl7i41" />
   <link rel="canonical" href="{{ canonical_url }}">
   <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
   <link rel="stylesheet" href="https://use.typekit.net/mkp3ctm.css">
@@ -103,14 +126,18 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
       &ndash; {{ shop.name }}
     {%- endunless -%}
   {%- endcapture -%}
-  <title>Slowrecipe | We only have one Earth</title>
+  <title>Slow Recipe | We only have one Earth</title>
 
   {%- if page_description -%}
-    <meta name="description" content="Slowrecipe is a one-stop shop for vegan and sustainable items that we can trust.
+    <meta name="description" content="Slow Recipe is a one-stop shop for vegan and sustainable items that we can trust.
 This is your recipe for vegan and sustainable life.">
   {%- endif -%}
 
-  {% render 'social-meta-tags' %}
+  	{%- if dropinblog == 1 -%}
+		{{ dropinblog_head_social }}
+	{%- else -%}
+		{% render 'social-meta-tags' %}
+	{%- endif -%}
 
   {% render 'theme-setup' %}
   {% render 'theme-setting-vars' %}
@@ -123,6 +150,7 @@ This is your recipe for vegan and sustainable life.">
 
                   {% include 'bss-product-labels-configs' %}
                       {% include 'scm-product-label-head' %}
+	{%- if dropinblog == 1 -%}{{ dropinblog_head_bottom }}{%- endif -%}
 </head>
              
 
