@@ -930,6 +930,7 @@
         "template--16293793693916__91725d97-8c2b-4665-94c0-fdcea97bc1a0-heading-1",
         "3c654a14-bb47-4459-ae6c-30535c33fb8d"
       ],
+      "disabled": true,
       "settings": {
         "section_contrast": false
       }
@@ -937,7 +938,9 @@
     "social_widget_59644": {
       "type": "social-widget",
       "settings": {
-        "social_widget_id": "59644"
+        "social_widget_id": "59644",
+        "social_product_id": "none",
+        "social_widget_type": "none"
       }
     }
   },
