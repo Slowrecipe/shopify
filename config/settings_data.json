@@ -140,8 +140,8 @@
           "4c08a8f6-e131-4d12-9556-505eda56f645"
         ],
         "settings": {
-          "show_locale_selector": true,
-          "show_currency_selector": true,
+          "show_locale_selector": false,
+          "show_currency_selector": false,
           "show_social_icons": true,
           "show_payment_icons": true
         }
