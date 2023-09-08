@@ -925,7 +925,7 @@
     "516dbca7-0b2f-4b21-ba58-36daf8586f2a": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<br><br>"
+        "custom_liquid": "<br><br><br>"
       }
     }
   },
