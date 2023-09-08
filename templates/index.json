@@ -471,6 +471,13 @@
             "image": "shopify:\/\/shop_images\/2_4737017c-44b7-4ca5-b973-442807529ab7.png",
             "link": "shopify:\/\/collections\/hohohi"
           }
+        },
+        "750c49be-7c90-4f7c-912f-3d988bb81965": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_1676425331072.png",
+            "link": "shopify:\/\/collections\/the-reminders"
+          }
         }
       },
       "block_order": [
@@ -505,7 +512,8 @@
         "726c9935-965f-4e78-a169-d3920f350989",
         "6a4a4f24-65cb-4416-882c-aed71fe56721",
         "3f0dd50b-e196-48dd-857e-9584cff34211",
-        "08c50146-e8c7-4cad-886d-7ffba8629c5c"
+        "08c50146-e8c7-4cad-886d-7ffba8629c5c",
+        "750c49be-7c90-4f7c-912f-3d988bb81965"
       ],
       "custom_css": [
 
