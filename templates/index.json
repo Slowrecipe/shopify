@@ -927,28 +927,6 @@
       "settings": {
         "custom_liquid": "<br><br>"
       }
-    },
-    "1694199279455ef232": {
-      "type": "apps",
-      "blocks": {
-        "ac8337a3-6281-437f-b38a-bac010436c82": {
-          "type": "shopify:\/\/apps\/ryviu-product-reviews-qa\/blocks\/ryviu-featured-widget\/807ad6ed-1a6a-4559-abea-ed062858d9da",
-          "settings": {
-            "title_heading": "Happy Customer",
-            "title_align": "r_center",
-            "title_status": true,
-            "type_ryviu": "carousel",
-            "r_wapper_featured": "",
-            "r_max_width_featured": 1920,
-            "padding_block": 0
-          }
-        }
-      },
-      "block_order": [
-        "ac8337a3-6281-437f-b38a-bac010436c82"
-      ],
-      "settings": {
-      }
     }
   },
   "order": [
@@ -969,7 +947,6 @@
     "social-proof",
     "8c889ae6-5a1b-46a9-940b-e4d7eb1799cb",
     "social_widget_59644",
-    "516dbca7-0b2f-4b21-ba58-36daf8586f2a",
-    "1694199279455ef232"
+    "516dbca7-0b2f-4b21-ba58-36daf8586f2a"
   ]
 }
