@@ -810,6 +810,14 @@
         "color_dot": "#ffffff"
       }
     },
+    "social_widget_59644": {
+      "type": "social-widget",
+      "settings": {
+        "social_widget_id": "59644",
+        "social_product_id": "none",
+        "social_widget_type": "none"
+      }
+    },
     "questions": {
       "type": "questions",
       "blocks": {
@@ -934,14 +942,6 @@
       "settings": {
         "section_contrast": false
       }
-    },
-    "social_widget_59644": {
-      "type": "social-widget",
-      "settings": {
-        "social_widget_id": "59644",
-        "social_product_id": "none",
-        "social_widget_type": "none"
-      }
     }
   },
   "order": [
@@ -958,9 +958,9 @@
     "slideshow-3",
     "image-with-text-2",
     "slideshow-4",
+    "social_widget_59644",
     "questions",
     "social-proof",
-    "91725d97-8c2b-4665-94c0-fdcea97bc1a0",
-    "social_widget_59644"
+    "91725d97-8c2b-4665-94c0-fdcea97bc1a0"
   ]
 }
