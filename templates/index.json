@@ -908,23 +908,30 @@
         "section_contrast": false
       }
     },
-    "16941929610f5a2037": {
-      "type": "apps",
+    "91725d97-8c2b-4665-94c0-fdcea97bc1a0": {
+      "type": "rich-text",
       "blocks": {
-        "4849dfe9-3ab1-4ae0-9e2c-ec447667c8d1": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
-          "disabled": true,
+        "template--16293793693916__91725d97-8c2b-4665-94c0-fdcea97bc1a0-heading-1": {
+          "type": "heading",
           "settings": {
-            "heading_size": 30,
-            "feed_width": 90,
-            "html_area": ""
+            "title": "Instagram",
+            "text_max_width": 42
+          }
+        },
+        "3c654a14-bb47-4459-ae6c-30535c33fb8d": {
+          "type": "text",
+          "settings": {
+            "subheading": "<p>Join our community<\/p>",
+            "text_max_width": 42
           }
         }
       },
       "block_order": [
-        "4849dfe9-3ab1-4ae0-9e2c-ec447667c8d1"
+        "template--16293793693916__91725d97-8c2b-4665-94c0-fdcea97bc1a0-heading-1",
+        "3c654a14-bb47-4459-ae6c-30535c33fb8d"
       ],
       "settings": {
+        "section_contrast": false
       }
     },
     "social_widget_59644": {
@@ -952,7 +959,7 @@
     "slideshow-4",
     "questions",
     "social-proof",
-    "16941929610f5a2037",
+    "91725d97-8c2b-4665-94c0-fdcea97bc1a0",
     "social_widget_59644"
   ]
 }
