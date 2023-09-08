@@ -906,6 +906,24 @@
         "like_color": "#c71b1b",
         "section_contrast": false
       }
+    },
+    "16941929610f5a2037": {
+      "type": "apps",
+      "blocks": {
+        "4849dfe9-3ab1-4ae0-9e2c-ec447667c8d1": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_size": 30,
+            "feed_width": 90,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "4849dfe9-3ab1-4ae0-9e2c-ec447667c8d1"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -923,6 +941,7 @@
     "image-with-text-2",
     "slideshow-4",
     "questions",
-    "social-proof"
+    "social-proof",
+    "16941929610f5a2037"
   ]
 }
