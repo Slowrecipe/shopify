@@ -906,35 +906,6 @@
         "like_color": "#c71b1b",
         "section_contrast": false
       }
-    },
-    "1648008956a2463244": {
-      "type": "featured-collection-row",
-      "disabled": true,
-      "settings": {
-        "collection": "",
-        "columns": 3,
-        "title": "Collection",
-        "subheading": "",
-        "link_text": "",
-        "text_max_width": 39,
-        "text_alignment": "left",
-        "aspect_ratio": "natural",
-        "section_contrast": false
-      }
-    },
-    "09de9aa8-9169-46e1-9f5b-7beab4f09962": {
-      "type": "dropinblog-recent-posts",
-      "disabled": true,
-      "custom_css": [
-        ".dib-recent-widget {max-width: 1280px; margin: 0 auto !important;}",
-        ".dib-list {width: 100% !important;}"
-      ],
-      "settings": {
-        "title": "Recent Posts",
-        "num_posts": "5",
-        "display": "2",
-        "categories": ""
-      }
     }
   },
   "order": [
@@ -952,8 +923,6 @@
     "image-with-text-2",
     "slideshow-4",
     "questions",
-    "social-proof",
-    "1648008956a2463244",
-    "09de9aa8-9169-46e1-9f5b-7beab4f09962"
+    "social-proof"
   ]
 }
