@@ -897,6 +897,7 @@
         "post-2",
         "post-3"
       ],
+      "disabled": true,
       "settings": {
         "columns": 3,
         "title": "Instagram",
@@ -929,7 +930,9 @@
     "social_widget_59644": {
       "type": "social-widget",
       "settings": {
-        "social_widget_id": "59644"
+        "social_widget_id": "59644",
+        "social_product_id": "none",
+        "social_widget_type": "none"
       }
     }
   },
