@@ -1,55 +1,12 @@
-<div class="dib-recent-widget page-width">
-    <div class="section-header section-header--large section-header--center">
-      <h2 class="section-header__heading ff-heading fs-heading-2-base fs-heading-1-base-ns">
-        {{section.settings.title}}
-      </h2></div>
-    <div id="dropinblogRecent"
-         data-num-posts="{{section.settings.num_posts}}"
-         data-display="{{section.settings.display}}"
-         data-categories="{{section.settings.categories}}"
-         data-shop="{{shop.domain}}">
-    </div>
-</div>
 {% schema %}
-{
-"name": "DropInBlog Recent Post",
-"settings": [
-{
-"id": "title",
-"type": "text",
-"label": "Heading Title",
-"default": "Recent Posts"
-},
-{
-"id": "num_posts",
-"type": "text",
-"label": "Number of posts to display",
-"default": "2"
-},
-{
-"id": "display",
-"type": "select",
-"label": "Display",
-"options": [
-{
-"value": "1",
-"label": "List"
-},
-{
-"value": "2",
-"label": "Posts"
-}
-],
-"default": "2"
-},
-{
-"id": "categories",
-"type": "text",
-"label": "Filter by category (ex: seo-tips)"
-}
-],
-"presets": [{
-"name": "DropInBlog Recent Posts"
-}]
-}
+  {
+    "name": "Section name",
+    "settings": []
+  }
 {% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
