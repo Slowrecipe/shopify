@@ -129,11 +129,10 @@
 This is your recipe for vegan and sustainable life.">
   {%- endif -%}
 
-  	{%- if dropinblog == 1 -%}
-		{{ dropinblog_head_social }}
-	{%- else -%}
-		{% render 'social-meta-tags' %}
-	{%- endif -%}
+  {% if dropinblog != 1 -%} 
+   {% render 'social-meta-tags' %}
+{% endif %}
+
 
   {% render 'theme-setup' %}
   {% render 'theme-setting-vars' %}
