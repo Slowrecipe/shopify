@@ -37,16 +37,16 @@
         },
         "slide-2": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/batch_20220720-0011282.jpg",
+            "desktop_image": "shopify:\/\/shop_images\/cea97addb775601993486f40e38bbada.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/77205a96636825bca5c151b79a7c5207.png",
             "focal_point": "center_top",
             "mobile_focal_point": "center_top",
             "title": "Talitha Koum Promotion",
             "subheading": "<p>For a limited time, starting today Slow Recipe is offering a number of special gifts and offers!<\/p>",
-            "heading_text_size": 54,
-            "overlay_shadow": 0,
-            "max_width_subheading": 40,
+            "heading_text_size": 62,
+            "overlay_shadow": 25,
+            "max_width_subheading": 36,
             "link_text": "SHOP NOW",
             "link": "shopify:\/\/collections\/talitha-koum",
             "alignment": "center_center",
@@ -54,7 +54,7 @@
             "color_text_button": "#181818",
             "color_background_button": "#ffffff",
             "color_overlay": "#000000",
-            "overlay_opacity": 36
+            "overlay_opacity": 32
           }
         },
         "3ac727ff-004f-4051-9795-87a22022b69d": {
