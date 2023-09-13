@@ -35,6 +35,28 @@
             "overlay_opacity": 35
           }
         },
+        "slide-2": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "desktop_image": "shopify:\/\/shop_images\/batch_20220720-0011282.jpg",
+            "focal_point": "center_top",
+            "mobile_focal_point": "center_top",
+            "title": "Talitha Koum Promotion",
+            "subheading": "<p>For a limited time, starting today Slow Recipe is offering a number of special gifts and offers!<\/p>",
+            "heading_text_size": 54,
+            "overlay_shadow": 0,
+            "max_width_subheading": 40,
+            "link_text": "SHOP NOW",
+            "link": "shopify:\/\/collections\/talitha-koum",
+            "alignment": "center_center",
+            "color_text": "#ffffff",
+            "color_text_button": "#181818",
+            "color_background_button": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 36
+          }
+        },
         "3ac727ff-004f-4051-9795-87a22022b69d": {
           "type": "slide",
           "settings": {
@@ -78,27 +100,6 @@
             "overlay_opacity": 23
           }
         },
-        "slide-2": {
-          "type": "slide",
-          "settings": {
-            "desktop_image": "shopify:\/\/shop_images\/batch_20220720-0011282.jpg",
-            "focal_point": "center_top",
-            "mobile_focal_point": "center_top",
-            "title": "Talitha Koum",
-            "subheading": "<p>We present a thoughtful range of sensitive skin-supporting essentials that harness the resilience of the White Dandelion with cutting-edge sustainable science<\/p>",
-            "heading_text_size": 54,
-            "overlay_shadow": 0,
-            "max_width_subheading": 40,
-            "link_text": "SHOP NOW",
-            "link": "shopify:\/\/collections\/talitha-koum",
-            "alignment": "center_center",
-            "color_text": "#ffffff",
-            "color_text_button": "#181818",
-            "color_background_button": "#ffffff",
-            "color_overlay": "#000000",
-            "overlay_opacity": 36
-          }
-        },
         "345d8031-d4ba-4e9c-b189-60bf22ddc985": {
           "type": "slide",
           "settings": {
@@ -123,9 +124,9 @@
       },
       "block_order": [
         "94bf4508-05d3-48d8-aeab-d2cac050d250",
+        "slide-2",
         "3ac727ff-004f-4051-9795-87a22022b69d",
         "ac04a43d-fbae-4f8b-86ec-846e146a5a9c",
-        "slide-2",
         "345d8031-d4ba-4e9c-b189-60bf22ddc985"
       ],
       "settings": {
@@ -950,7 +951,9 @@
     "social_widget_59644": {
       "type": "social-widget",
       "settings": {
-        "social_widget_id": "59644"
+        "social_widget_id": "59644",
+        "social_product_id": "none",
+        "social_widget_type": "none"
       }
     }
   },
