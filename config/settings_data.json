@@ -212,6 +212,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "11469883780125494513": {
+        "type": "shopify:\/\/apps\/dropinblog-seo-friendly-blog\/blocks\/head\/d07cf0d3-9e5c-4b7f-829c-19d888accd75",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
