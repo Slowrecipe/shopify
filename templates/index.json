@@ -37,6 +37,7 @@
         },
         "slide-2": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/cea97addb775601993486f40e38bbada.jpg",
             "mobile_image": "shopify:\/\/shop_images\/77205a96636825bca5c151b79a7c5207.png",
