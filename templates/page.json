@@ -18,7 +18,6 @@
     },
     "1650513576ec74f37f": {
       "type": "text-columns-with-images",
-      "disabled": true,
       "blocks": {
         "16505135764a498578-0": {
           "type": "column",
@@ -67,6 +66,7 @@
         "16505135764a498578-2",
         "16505135764a498578-3"
       ],
+      "disabled": true,
       "settings": {
         "columns": 4,
         "image_shape": "round",
@@ -76,7 +76,6 @@
     },
     "1650513629bed248e0": {
       "type": "mosaic-grid",
-      "disabled": true,
       "blocks": {
         "1650513629ed4fe677-0": {
           "type": "medium_square",
@@ -157,6 +156,7 @@
         "1650513629ed4fe677-2",
         "1650513629ed4fe677-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "Mosaic Grid",
         "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
@@ -166,7 +166,6 @@
     },
     "1650513968411b9e3b": {
       "type": "quote",
-      "disabled": true,
       "blocks": {
         "1650513968d3201c7b-0": {
           "type": "quote",
@@ -180,10 +179,20 @@
       "block_order": [
         "1650513968d3201c7b-0"
       ],
+      "disabled": true,
       "settings": {
         "timer": 7,
         "image_shape": "round",
         "section_contrast": false
+      }
+    },
+    "db0da4be-13bc-4b0f-9439-d5409fa5162c": {
+      "type": "dropinblog-recent-posts",
+      "settings": {
+        "title": "Recent Posts",
+        "num_posts": "2",
+        "display": "2",
+        "categories": ""
       }
     }
   },
@@ -192,6 +201,7 @@
     "1650504951004561ae",
     "1650513576ec74f37f",
     "1650513629bed248e0",
-    "1650513968411b9e3b"
+    "1650513968411b9e3b",
+    "db0da4be-13bc-4b0f-9439-d5409fa5162c"
   ]
 }

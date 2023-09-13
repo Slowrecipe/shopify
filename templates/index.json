@@ -956,6 +956,15 @@
       ],
       "settings": {
       }
+    },
+    "cbe7fed2-2ea7-46ba-b126-b12c74022fc1": {
+      "type": "dropinblog-recent-posts",
+      "settings": {
+        "title": "Recent Posts",
+        "num_posts": "2",
+        "display": "2",
+        "categories": ""
+      }
     }
   },
   "order": [
@@ -977,6 +986,7 @@
     "8c889ae6-5a1b-46a9-940b-e4d7eb1799cb",
     "social_widget_59644",
     "516dbca7-0b2f-4b21-ba58-36daf8586f2a",
-    "16944946054c9e2e20"
+    "16944946054c9e2e20",
+    "cbe7fed2-2ea7-46ba-b126-b12c74022fc1"
   ]
 }
