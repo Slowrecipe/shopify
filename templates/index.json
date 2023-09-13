@@ -15,6 +15,7 @@
       "blocks": {
         "94bf4508-05d3-48d8-aeab-d2cac050d250": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "desktop_image": "shopify:\/\/shop_images\/img_04_9b9e50db-3f79-4ba8-bf12-fe017c27181b.jpg",
             "mobile_image": "shopify:\/\/shop_images\/img_05_4e6bda7b-47a2-4c64-a197-20bc52e0c4fd.jpg",
