@@ -941,29 +941,20 @@
     "16944946054c9e2e20": {
       "type": "apps",
       "blocks": {
-        "a444c597-2e85-438f-b8a0-e5d1d13b6a98": {
+        "25a25f91-8166-4953-8ea7-cf285e40bba4": {
           "type": "shopify:\/\/apps\/dropinblog-seo-friendly-blog\/blocks\/recentposts\/d07cf0d3-9e5c-4b7f-829c-19d888accd75",
           "settings": {
-            "title": "",
-            "num_posts": "21",
+            "title": "Recent Posts",
+            "num_posts": "3",
             "display": "2",
-            "categories": "event"
+            "categories": ""
           }
         }
       },
       "block_order": [
-        "a444c597-2e85-438f-b8a0-e5d1d13b6a98"
+        "25a25f91-8166-4953-8ea7-cf285e40bba4"
       ],
       "settings": {
-      }
-    },
-    "cbe7fed2-2ea7-46ba-b126-b12c74022fc1": {
-      "type": "dropinblog-recent-posts",
-      "settings": {
-        "title": "Recent Posts",
-        "num_posts": "2",
-        "display": "2",
-        "categories": ""
       }
     }
   },
@@ -986,7 +977,6 @@
     "8c889ae6-5a1b-46a9-940b-e4d7eb1799cb",
     "social_widget_59644",
     "516dbca7-0b2f-4b21-ba58-36daf8586f2a",
-    "16944946054c9e2e20",
-    "cbe7fed2-2ea7-46ba-b126-b12c74022fc1"
+    "16944946054c9e2e20"
   ]
 }
