@@ -928,14 +928,6 @@
         "custom_liquid": "<br><br><br>"
       }
     },
-    "social_widget_59644": {
-      "type": "social-widget",
-      "settings": {
-        "social_widget_id": "59644",
-        "social_product_id": "none",
-        "social_widget_type": "none"
-      }
-    },
     "16944946054c9e2e20": {
       "type": "apps",
       "blocks": {
@@ -953,6 +945,12 @@
         "a444c597-2e85-438f-b8a0-e5d1d13b6a98"
       ],
       "settings": {
+      }
+    },
+    "social_widget_59644": {
+      "type": "social-widget",
+      "settings": {
+        "social_widget_id": "59644"
       }
     }
   },
@@ -974,7 +972,7 @@
     "social-proof",
     "8c889ae6-5a1b-46a9-940b-e4d7eb1799cb",
     "516dbca7-0b2f-4b21-ba58-36daf8586f2a",
-    "social_widget_59644",
-    "16944946054c9e2e20"
+    "16944946054c9e2e20",
+    "social_widget_59644"
   ]
 }
