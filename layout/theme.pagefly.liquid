@@ -32,7 +32,7 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
 <script> var ryviu_global_settings = {{shop.metafields.ryviu.user_settings }}; </script>
 <!-- RYVIU APP -->
 
-	 {%- if dropinblog == 1 -%}{{ dropinblog_head_top }}{%- endif -%}{% render 'pagefly-head' %}
+	 {% render 'pagefly-head' %}
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-SVZ08Q36JW"></script>
 <script>
@@ -133,11 +133,10 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
 This is your recipe for vegan and sustainable life.">
   {%- endif -%}
 
-  	{%- if dropinblog == 1 -%}
-		{{ dropinblog_head_social }}
-	{%- else -%}
-		{% render 'social-meta-tags' %}
-	{%- endif -%}
+  {% if dropinblog != 1 -%} 
+   {% render 'social-meta-tags' %}
+{% endif %}
+
 
   {% render 'theme-setup' %}
   {% render 'theme-setting-vars' %}
@@ -150,7 +149,7 @@ This is your recipe for vegan and sustainable life.">
 
                   {% include 'bss-product-labels-configs' %}
                       {% include 'scm-product-label-head' %}
-	{%- if dropinblog == 1 -%}{{ dropinblog_head_bottom }}{%- endif -%}
+	
 </head>
              
 

@@ -207,14 +207,14 @@
           "custom_style": ""
         }
       },
-      "27a4de80-e719-46b1-b04c-15e124126d26": {
-        "type": "shopify:\/\/apps\/instagram-feed-story-tiktok\/blocks\/social-widget\/508b8d5b-b176-4dc6-a0ba-2b222db6eb79",
+      "11469883780125494513": {
+        "type": "shopify:\/\/apps\/dropinblog-seo-friendly-blog\/blocks\/head\/d07cf0d3-9e5c-4b7f-829c-19d888accd75",
         "disabled": false,
         "settings": {
         }
       },
-      "11469883780125494513": {
-        "type": "shopify:\/\/apps\/dropinblog-seo-friendly-blog\/blocks\/head\/d07cf0d3-9e5c-4b7f-829c-19d888accd75",
+      "77653005-ed8b-4fab-90f7-8a62e482e8c9": {
+        "type": "shopify:\/\/apps\/instagram-feed-story-tiktok\/blocks\/social-widget\/508b8d5b-b176-4dc6-a0ba-2b222db6eb79",
         "disabled": false,
         "settings": {
         }
