@@ -924,6 +924,14 @@
         "custom_liquid": "<br>\n<h2 class=\"rich-text__heading ff-heading fs-heading-2-base fs-heading-1-base-ns\">Instagram<\/h2>\n<div class=\"rich-text__subheading rte ff-body fs-body-base fs-body-large-ns\" style=\"--text-max-width: 42rem;\">\n<p>Join our community<\/p>\n<\/div>\n<br>"
       }
     },
+    "social_widget_59644": {
+      "type": "social-widget",
+      "settings": {
+        "social_widget_id": "59644",
+        "social_product_id": "none",
+        "social_widget_type": "none"
+      }
+    },
     "516dbca7-0b2f-4b21-ba58-36daf8586f2a": {
       "type": "custom-liquid",
       "settings": {
@@ -946,13 +954,8 @@
       "block_order": [
         "25a25f91-8166-4953-8ea7-cf285e40bba4"
       ],
+      "disabled": true,
       "settings": {
-      }
-    },
-    "social_widget_59644": {
-      "type": "social-widget",
-      "settings": {
-        "social_widget_id": "59644"
       }
     }
   },
@@ -973,8 +976,8 @@
     "questions",
     "social-proof",
     "8c889ae6-5a1b-46a9-940b-e4d7eb1799cb",
+    "social_widget_59644",
     "516dbca7-0b2f-4b21-ba58-36daf8586f2a",
-    "16944946054c9e2e20",
-    "social_widget_59644"
+    "16944946054c9e2e20"
   ]
 }
