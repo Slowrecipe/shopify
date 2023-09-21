@@ -9,60 +9,6 @@
         "text_max_width": 48
       }
     },
-    "1663048270db52c2ff": {
-      "type": "logo-list",
-      "disabled": true,
-      "blocks": {
-        "1663048270619d552d-3": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Logo_G_79ca05ce-2e2b-41d2-85a3-ce4fd3361a45.png",
-            "link": ""
-          }
-        },
-        "1663048270619d552d-4": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/55f321955a3b393300df0d8a4b89c94d.png",
-            "link": ""
-          }
-        },
-        "1663048270619d552d-0": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/33_ffbe6ddb-4dbb-46ff-bc6c-ca4a9a7e44f0.png",
-            "link": ""
-          }
-        },
-        "1663048270619d552d-1": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/logo_bambi_f9b68380-c2c5-4a77-bb45-aaa5e8356796.png",
-            "link": ""
-          }
-        },
-        "1663048270619d552d-2": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/22_dc0e62be-f5a1-4e66-b83d-7d6577fff279.png",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1663048270619d552d-3",
-        "1663048270619d552d-4",
-        "1663048270619d552d-0",
-        "1663048270619d552d-1",
-        "1663048270619d552d-2"
-      ],
-      "settings": {
-        "columns": 5,
-        "gutter_spacing": 20,
-        "title": "Our Brands",
-        "section_contrast": false
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -78,7 +24,6 @@
   },
   "order": [
     "banner",
-    "1663048270db52c2ff",
     "product-grid"
   ]
 }
