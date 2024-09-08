@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "c6bc23fd_1659319508": {
@@ -71,7 +80,7 @@
             "overlay_shadow": 0,
             "max_width_subheading": 36,
             "link_text": "learn more",
-            "link": "shopify:\/\/collections\/momur-weekend",
+            "link": "shopify:\/\/collections\/momur",
             "alignment": "center_center",
             "color_text": "#ffffff",
             "color_text_button": "#000000",
@@ -942,7 +951,7 @@
       "type": "apps",
       "blocks": {
         "25a25f91-8166-4953-8ea7-cf285e40bba4": {
-          "type": "shopify:\/\/apps\/dropinblog-seo-friendly-blog\/blocks\/recentposts\/d07cf0d3-9e5c-4b7f-829c-19d888accd75",
+          "type": "shopify:\/\/apps\/dropinblog\/blocks\/recentposts\/d07cf0d3-9e5c-4b7f-829c-19d888accd75",
           "settings": {
             "title": "Recent Posts",
             "num_posts": "3",
