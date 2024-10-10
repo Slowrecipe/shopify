@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "color_background_body": "#ffffff",
@@ -41,13 +50,13 @@
     "search_show_articles": true,
     "search_show_pages": true,
     "social_facebook_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/my_slowrecipe\/",
+    "social_instagram_link": "https://www.instagram.com/my_slowrecipe/",
     "social_pinterest_link": "",
     "social_snapchat_link": "",
     "social_tumblr_link": "",
     "social_twitter_link": "",
-    "favicon": "shopify:\/\/shop_images\/earth_icon_57685074-ed95-44a5-82c9-394c71ed153d.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/LOGO_Slow_Recipe_bk.png",
+    "favicon": "shopify://shop_images/earth_icon_57685074-ed95-44a5-82c9-394c71ed153d.png",
+    "checkout_logo_image": "shopify://shop_images/LOGO_Slow_Recipe_bk.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "small",
     "checkout_accent_color": "#805823",
@@ -80,7 +89,7 @@
             "type": "announcement",
             "settings": {
               "title": "🎈 SODOWE. MOUTHWASH 20% OFF 🎈",
-              "link": "shopify:\/\/products\/vegan-oil-pulling-mouthwash",
+              "link": "shopify://products/vegan-oil-pulling-mouthwash",
               "color_background": "#ffffff",
               "color_text": "#000000"
             }
@@ -98,7 +107,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/Slowreipce__1.png",
+          "logo": "shopify://shop_images/Slowreipce__1.png",
           "logo_max_width": 200,
           "menu": "main-menu",
           "secondary_menu": "",
@@ -111,7 +120,7 @@
           "color_count_transparent": "#000000",
           "color_border_transparent": "#ffffff",
           "opacity_border_transparent": 60,
-          "logo_transparent": "shopify:\/\/shop_images\/2_f2c7b35b-ec33-401f-8aee-d1dd22024f47.png"
+          "logo_transparent": "shopify://shop_images/2_f2c7b35b-ec33-401f-8aee-d1dd22024f47.png"
         }
       },
       "footer": {
@@ -121,7 +130,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Newsletter",
-              "text": "<p>Subscribe for store updates and discounts.<\/p>"
+              "text": "<p>Subscribe for store updates and discounts.</p>"
             }
           },
           "ae49a38d-47fa-4ee8-bf14-4ee97f842910": {
@@ -189,19 +198,19 @@
     ],
     "blocks": {
       "6897675550240258559": {
-        "type": "shopify:\/\/apps\/promolayer\/blocks\/app-embed\/e4a9128f-b151-4feb-ad9e-ef8fbb63bf07",
+        "type": "shopify://apps/promolayer/blocks/app-embed/e4a9128f-b151-4feb-ad9e-ef8fbb63bf07",
         "disabled": false,
         "settings": {
         }
       },
       "1990815452989453926": {
-        "type": "shopify:\/\/apps\/ryviu-aliexpress-reviews-app\/blocks\/ryviu-js\/807ad6ed-1a6a-4559-abea-ed062858d9da",
+        "type": "shopify://apps/ryviu-aliexpress-reviews-app/blocks/ryviu-js/807ad6ed-1a6a-4559-abea-ed062858d9da",
         "disabled": false,
         "settings": {
         }
       },
       "2950567246721570496": {
-        "type": "shopify:\/\/apps\/tabs-by-station\/blocks\/global_embed_block\/19980fb9-f2ca-4ada-ad36-c0364c3318b8",
+        "type": "shopify://apps/tabs-by-station/blocks/global_embed_block/19980fb9-f2ca-4ada-ad36-c0364c3318b8",
         "disabled": false,
         "settings": {
           "init_type": "fallback",
@@ -212,14 +221,14 @@
           "custom_style": ""
         }
       },
-      "11469883780125494513": {
-        "type": "shopify:\/\/apps\/dropinblog-seo-friendly-blog\/blocks\/head\/d07cf0d3-9e5c-4b7f-829c-19d888accd75",
+      "9705b842-e841-49f1-8c86-e4653bb9699a": {
+        "type": "shopify://apps/instagram-feed-story-tiktok/blocks/social-widget/508b8d5b-b176-4dc6-a0ba-2b222db6eb79",
         "disabled": false,
         "settings": {
         }
       },
-      "9705b842-e841-49f1-8c86-e4653bb9699a": {
-        "type": "shopify:\/\/apps\/instagram-feed-story-tiktok\/blocks\/social-widget\/508b8d5b-b176-4dc6-a0ba-2b222db6eb79",
+      "opinew-global-code": {
+        "type": "shopify://apps/opinew-product-reviews-app/blocks/global/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
         "disabled": false,
         "settings": {
         }
@@ -276,7 +285,7 @@
               "type": "announcement",
               "settings": {
                 "title": "Announce something here",
-                "link": "https:\/\/fluorescent.co\/help\/spark\/announcement-bar#set-up-the-announcement-bar",
+                "link": "https://fluorescent.co/help/spark/announcement-bar#set-up-the-announcement-bar",
                 "color_background": "#ffffff",
                 "color_text": "#000000"
               }
@@ -285,7 +294,7 @@
               "type": "announcement",
               "settings": {
                 "title": "Announce something here",
-                "link": "https:\/\/fluorescent.co\/help\/spark\/announcement-bar#set-up-the-announcement-bar",
+                "link": "https://fluorescent.co/help/spark/announcement-bar#set-up-the-announcement-bar",
                 "color_background": "#ffffff",
                 "color_text": "#191919"
               }
@@ -322,7 +331,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "text": "<p>Subscribe for store updates and discounts.<\/p>"
+                "text": "<p>Subscribe for store updates and discounts.</p>"
               }
             }
           },
@@ -343,7 +352,7 @@
               "type": "heading",
               "settings": {
                 "title": "Subscribe",
-                "subheading": "<p>We only send emails once or twice a month and only about good things.<\/p>"
+                "subheading": "<p>We only send emails once or twice a month and only about good things.</p>"
               }
             },
             "popup-1": {
@@ -425,7 +434,7 @@
               "type": "announcement",
               "settings": {
                 "title": "Announce something here",
-                "link": "https:\/\/fluorescent.co\/help\/spark\/announcement-bar#set-up-the-announcement-bar",
+                "link": "https://fluorescent.co/help/spark/announcement-bar#set-up-the-announcement-bar",
                 "color_background": "#292929",
                 "color_text": "#ffffff"
               }
@@ -434,7 +443,7 @@
               "type": "announcement",
               "settings": {
                 "title": "Announce something here",
-                "link": "https:\/\/fluorescent.co\/help\/spark\/announcement-bar#set-up-the-announcement-bar",
+                "link": "https://fluorescent.co/help/spark/announcement-bar#set-up-the-announcement-bar",
                 "color_background": "#292929",
                 "color_text": "#ffffff"
               }
@@ -472,7 +481,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "text": "<p>Subscribe for store updates and discounts.<\/p>"
+                "text": "<p>Subscribe for store updates and discounts.</p>"
               }
             }
           },
@@ -493,7 +502,7 @@
               "type": "heading",
               "settings": {
                 "title": "Subscribe",
-                "subheading": "<p>We only send emails once or twice a month and only about good things.<\/p>"
+                "subheading": "<p>We only send emails once or twice a month and only about good things.</p>"
               }
             },
             "popup-1": {
@@ -552,7 +561,7 @@
               "type": "announcement",
               "settings": {
                 "title": "Announce something here",
-                "link": "https:\/\/fluorescent.co\/help\/spark\/announcement-bar#set-up-the-announcement-bar",
+                "link": "https://fluorescent.co/help/spark/announcement-bar#set-up-the-announcement-bar",
                 "color_background": "#1c2232",
                 "color_text": "#ffffff"
               }
@@ -561,7 +570,7 @@
               "type": "announcement",
               "settings": {
                 "title": "Announce something here",
-                "link": "https:\/\/fluorescent.co\/help\/spark\/announcement-bar#set-up-the-announcement-bar",
+                "link": "https://fluorescent.co/help/spark/announcement-bar#set-up-the-announcement-bar",
                 "color_background": "#1c2232",
                 "color_text": "#ffffff"
               }
@@ -599,7 +608,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "text": "<p>Subscribe for store updates and discounts.<\/p>"
+                "text": "<p>Subscribe for store updates and discounts.</p>"
               }
             }
           },
@@ -620,7 +629,7 @@
               "type": "heading",
               "settings": {
                 "title": "Subscribe",
-                "subheading": "<p>We only send emails once or twice a month and only about good things.<\/p>"
+                "subheading": "<p>We only send emails once or twice a month and only about good things.</p>"
               }
             },
             "popup-1": {
